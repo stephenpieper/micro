@@ -7,11 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2020/10/02/i-had-to.html",
+				
+				"content_html": "<p>I had to phone Apple Support today and speak to an actual human being. It was a pretty good experience as far as these things go. My problem was solved quickly and calmly. I wont be reticent to phone again if I have the need.</p>\n",
+				"content_text": "I had to phone Apple Support today and speak to an actual human being. It was a pretty good experience as far as these things go. My problem was solved quickly and calmly. I wont be reticent to phone again if I have the need.\n",
+				"date_published": "2020-10-02T15:14:50+01:00",
+				"url": "https://micro.stephenpieper.net/2020/10/02/i-had-to.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/09/30/bob-mould.html",
+				
+				"content_html": "<p>Bob has been on a run of fantastic albums recently. I&rsquo;m looking forward to the new one very much.</p>\n\n<blockquote>The former Hüsker Dü and Sugar frontman is back with a career box set and an incendiary new album, having come to terms with childhood trauma, his sexuality and the death of his bandmate</blockquote>\n\n<p>Via: <a href=\"https://www.theguardian.com/music/2020/sep/30/bob-mould-alt-rocks-gay-icon-takes-on-american-evil-my-heads-on-fire\">Bob Mould, alt-rock&rsquo;s gay icon, takes on American evil: &lsquo;My head&rsquo;s on fire!&rsquo; | Music | The Guardian</a></p>\n",
+				"content_text": "Bob has been on a run of fantastic albums recently. I'm looking forward to the new one very much.\n\n<blockquote>The former Hüsker Dü and Sugar frontman is back with a career box set and an incendiary new album, having come to terms with childhood trauma, his sexuality and the death of his bandmate</blockquote>\n\nVia: <a href=\"https://www.theguardian.com/music/2020/sep/30/bob-mould-alt-rocks-gay-icon-takes-on-american-evil-my-heads-on-fire\">Bob Mould, alt-rock's gay icon, takes on American evil: 'My head's on fire!' | Music | The Guardian</a>\n",
+				"date_published": "2020-09-30T17:38:00+01:00",
+				"url": "https://micro.stephenpieper.net/2020/09/30/bob-mould.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2020/09/26/i-dont-get.html",
 				
-				"content_html": "<p>I don’t get sleep tracking at all. Any tracker I’ve tried to use has just recorded how long I’ve lain in bed. It’s another tiny layer of anxiety that only adds to my sleep problems anyway.</p>\n\n<p><img src=\"uploads/2020/325fdabb6c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I don’t get sleep tracking at all. Any tracker I’ve tried to use has just recorded how long I’ve lain in bed. It’s another tiny layer of anxiety that only adds to my sleep problems anyway. \n\n<img src=\"uploads/2020/325fdabb6c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-09-26T16:25:10+01:00",
+				"content_html": "<p>I don’t get sleep tracking at all. Any tracker I’ve tried to use has just recorded how long I’ve lain in bed. It’s another tiny layer of anxiety that only adds to my sleep problems anyway.</p>\n",
+				"content_text": "I don’t get sleep tracking at all. Any tracker I’ve tried to use has just recorded how long I’ve lain in bed. It’s another tiny layer of anxiety that only adds to my sleep problems anyway. \n\n",
+				"date_published": "2020-09-26T16:25:00+01:00",
 				"url": "https://micro.stephenpieper.net/2020/09/26/i-dont-get.html"
 			},
 			{
