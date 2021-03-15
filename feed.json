@@ -1,11 +1,28 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Stephen Pieper's Microblog",
+	"title": "Micro Notes",
 	"icon": "https://micro.blog/stefp/avatar.jpg",
 	"home_page_url": "https://micro.stephenpieper.net/",
 	"feed_url": "https://micro.stephenpieper.net/feed.json",
 	"items": [
 		
+			{
+				"id": "http://stefp.micro.blog/2021/03/10/finished-watching-pretend.html",
+				
+				"content_html": "<p>Finished watching Pretend It’s A City on Netflix and now I want to read some Fran Lebowitz.</p>\n",
+				"content_text": "Finished watching Pretend It’s A City on Netflix and now I want to read some Fran Lebowitz. \n",
+				"date_published": "2021-03-10T23:56:18+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/10/finished-watching-pretend.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/03/08/there-must-be.html",
+				
+				"content_html": "<p>There must be something magical in Lyon, France, that makes it produce so many great bands. This is one of my favourite albums from last year (Bandcamp link). <a href=\"https://odesseyandoracle.bandcamp.com/album/crocorama\">Odessey &amp; Oracle - Crocorama</a> 🎵</p>\n",
+				"content_text": "There must be something magical in Lyon, France, that makes it produce so many great bands. This is one of my favourite albums from last year (Bandcamp link). [Odessey & Oracle - Crocorama](https://odesseyandoracle.bandcamp.com/album/crocorama) 🎵\n",
+				"date_published": "2021-03-08T22:11:30+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/08/there-must-be.html",
+				"tags": ["Music"]
+			},
 			{
 				"id": "http://stefp.micro.blog/2021/02/27/i-seem-have.html",
 				
