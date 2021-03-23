@@ -7,6 +7,62 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2021/03/21/i-found-a.html",
+				
+				"content_html": "<p>I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy&hellip;Nels Cline&hellip;?</p>\n\n<p><img src=\"uploads/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" /></p>\n",
+				"content_text": "I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy...Nels Cline...?\n\n<img src=\"uploads/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" />\n",
+				"date_published": "2021-03-21T16:25:02+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/21/i-found-a.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/03/21/keep-the-change.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=q-CjjIOlHWg\">Keep The Change</a> by Mattiel. 🎵</p>\n",
+				"content_text": "[Keep The Change](https://www.youtube.com/watch?v=q-CjjIOlHWg) by Mattiel. 🎵\n",
+				"date_published": "2021-03-21T16:00:22+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/21/keep-the-change.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/03/19/its-my-birthday.html",
+				
+				"content_html": "<p>It’s my birthday and I’m at work alone today. The good thing about lone-working is that I get to choose the radio station and I choose BBC Radio 3. Classical music is “depressing” according to my usual colleagues. I find it anything but. 🎵</p>\n",
+				"content_text": "It’s my birthday and I’m at work alone today. The good thing about lone-working is that I get to choose the radio station and I choose BBC Radio 3. Classical music is “depressing” according to my usual colleagues. I find it anything but. 🎵\n",
+				"date_published": "2021-03-19T15:12:29+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/19/its-my-birthday.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/03/18/i-think-spring.html",
+				
+				"content_html": "<p>I think spring just sproinged.</p>\n\n<p><img src=\"uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" /></p>\n",
+				"content_text": "I think spring just sproinged.\n\n<img src=\"uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" />\n",
+				"date_published": "2021-03-18T14:09:32+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/18/i-think-spring.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/03/16/i-mentioned-how.html",
+				
+				"content_html": "<p>I mentioned how great it was to see the return of Hakuho to Grand Sumo this month. He&rsquo;s just retired from the tournament again. Hey-ho.</p>\n",
+				"content_text": "I mentioned how great it was to see the return of Hakuho to Grand Sumo this month. He's just retired from the tournament again. Hey-ho.\n",
+				"date_published": "2021-03-16T17:57:11+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/16/i-mentioned-how.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/03/16/its-grand-sumo.html",
+				
+				"content_html": "<p>It’s Grand Sumo Tournament time again. I’ve been watching Sumo on the NHK World Japan TV channel for a few years now and its become a bit of an addiction. There hasn’t been any yokozuna action for a while so it’s great to see Hakuho back. Looking good so far.</p>\n",
+				"content_text": "It’s Grand Sumo Tournament time again. I’ve been watching Sumo on the NHK World Japan TV channel for a few years now and its become a bit of an addiction. There hasn’t been any yokozuna action for a while so it’s great to see Hakuho back. Looking good so far. \n",
+				"date_published": "2021-03-16T00:14:41+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/16/its-grand-sumo.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/03/15/the-ios-app.html",
+				
+				"content_html": "<p>The iOS app 1Writer is a very good companion for <a href=\"https://obsidian.md/\">Obsidian</a>. Notes and backlinks sync and if you set the default extension in 1Writer to “.md”  you can create Obsidian notes there too. It&rsquo;s nice to find a purpose for an app I bought a long time ago and never used.</p>\n",
+				"content_text": "The iOS app 1Writer is a very good companion for [Obsidian](https://obsidian.md/). Notes and backlinks sync and if you set the default extension in 1Writer to “.md”  you can create Obsidian notes there too. It's nice to find a purpose for an app I bought a long time ago and never used.\n",
+				"date_published": "2021-03-15T21:34:58+00:00",
+				"url": "https://micro.stephenpieper.net/2021/03/15/the-ios-app.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2021/03/10/finished-watching-pretend.html",
 				
 				"content_html": "<p>Finished watching Pretend It’s A City on Netflix and now I want to read some Fran Lebowitz.</p>\n",
