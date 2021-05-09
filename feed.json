@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2021/04/26/finished-reading-maskerade.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/0552142360\">Maskerade</a> by Terry Pratchett 📚</p>\n",
+				"content_text": "Finished reading: [Maskerade](https://micro.blog/books/0552142360) by Terry Pratchett 📚\n",
+				"date_published": "2021-04-26T22:03:54+01:00",
+				"url": "https://micro.stephenpieper.net/2021/04/26/finished-reading-maskerade.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2021/03/27/i-plugged-in.html",
 				
 				"content_html": "<p>I plugged in an old external hard drive and had my first iMac system crash in years. There was a loud screech, the screen went black, and the computer rebooted. Got the fright of my life. Nothing seems to have been damaged but this drive is getting binned.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://stefp.micro.blog/2021/03/18/i-think-spring.html",
 				
-				"content_html": "<p>I think spring just sproinged.</p>\n\n<p><img src=\"uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" /></p>\n",
-				"content_text": "I think spring just sproinged.\n\n<img src=\"uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" />\n",
+				"content_html": "<p>I think spring just sproinged.</p>\n\n<p><img src=\"https://micro.stephenpieper.net/uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" /></p>\n",
+				"content_text": "I think spring just sproinged.\n\n<img src=\"https://micro.stephenpieper.net/uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" />\n",
 				"date_published": "2021-03-18T15:09:32+01:00",
 				"url": "https://micro.stephenpieper.net/2021/03/18/i-think-spring.html"
 			},
