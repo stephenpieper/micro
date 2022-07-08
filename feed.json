@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Stephen's Microblog",
+	"title": "Stephen Pieper",
 	"icon": "https://micro.blog/stefp/avatar.jpg",
 	"home_page_url": "https://stephenpieper.blog/",
 	"feed_url": "https://stephenpieper.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://stefp.micro.blog/2022/07/01/another-uninvited-guest.html",
+				
+				"content_html": "<p>Another uninvited guest.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another uninvited guest.\n\n<img src=\"uploads/2022/fddfc6ddae.jpg\" width=\"600\" height=\"574\" alt=\"this fox wandered into into our office\" />\n\n",
+				"date_published": "2022-07-01T21:32:06+00:00",
+				"url": "https://stephenpieper.blog/2022/07/01/another-uninvited-guest.html"
+			},
 			{
 				"id": "http://stefp.micro.blog/2022/06/13/nice-clue-in.html",
 				
@@ -425,7 +433,7 @@
 				"id": "http://stefp.micro.blog/2020/10/09/added-these-resistance.html",
 				
 				"content_html": "<p>Added these resistance bands to my daily indoor cycle exercises. I&rsquo;m not a gym/workout kind of person but I need to get those lockdown joints and muscles moving.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Added these resistance bands to my daily indoor cycle exercises. I'm not a gym/workout kind of person but I need to get those lockdown joints and muscles moving.\n\n<img src=\"uploads/2020/c09ca4e52a.jpg\" width=\"600\" height=\"600\" alt=\"resistance bands for exercising muscles\" />\n",
+				"content_text": "Added these resistance bands to my daily indoor cycle exercises. I'm not a gym/workout kind of person but I need to get those lockdown joints and muscles moving.\n\n<img src=\"https://stephenpieper.blog/uploads/2020/c09ca4e52a.jpg\" width=\"600\" height=\"600\" alt=\"resistance bands for exercising muscles\" />\n",
 				"date_published": "2020-10-09T20:28:12+00:00",
 				"url": "https://stephenpieper.blog/2020/10/09/added-these-resistance.html"
 			},
