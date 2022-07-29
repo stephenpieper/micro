@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2022/07/29/ive-read-lots.html",
+				
+				"content_html": "<p>I&rsquo;ve read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I've read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋\n\n<img src=\"uploads/2022/1f69698efa.jpg\" width=\"600\" height=\"378\" alt=\"\" />\n",
+				"date_published": "2022-07-29T18:48:01+00:00",
+				"url": "https://stephenpieper.blog/2022/07/29/ive-read-lots.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/07/15/currently-reading-sound.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780571363247\">Sound Within Sound</a> by Kate Molleson 📚🎵</p>\n<p>I haven&rsquo;t been able to concentrate on any reading over the last few weeks due to the major stuff going on in my life but I seem to be settling down a bit now. I have a pile of music-related books to get through.</p>\n",
+				"content_text": "Currently reading: [Sound Within Sound](https://micro.blog/books/9780571363247) by Kate Molleson 📚🎵\r\n\r\nI haven't been able to concentrate on any reading over the last few weeks due to the major stuff going on in my life but I seem to be settling down a bit now. I have a pile of music-related books to get through.\n",
+				"date_published": "2022-07-15T15:06:03+00:00",
+				"url": "https://stephenpieper.blog/2022/07/15/currently-reading-sound.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/07/15/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781474622950\">The Sound of Being Human</a> by Jude Rogers 📚</p>\n",
+				"content_text": "Finished reading: [The Sound of Being Human](https://micro.blog/books/9781474622950) by Jude Rogers 📚\n",
+				"date_published": "2022-07-15T00:08:01+00:00",
+				"url": "https://stephenpieper.blog/2022/07/15/finished-reading-the.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/07/09/trying-to-make.html",
+				
+				"content_html": "<p>Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, &ldquo;that&rsquo;s except for viewers of BBC Scotland&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, \"that's except for viewers of BBC Scotland\".\n\n<img src=\"uploads/2022/6ebff919fb.jpg\" width=\"600\" height=\"337\" alt=\"blue sky and interesting cloud formation\" />\n",
+				"date_published": "2022-07-09T19:36:34+00:00",
+				"url": "https://stephenpieper.blog/2022/07/09/trying-to-make.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/07/08/tough-week.html",
+				
+				"content_html": "<p>Tough week. It was my dad&rsquo;s funeral on Monday. I find myself almost getting back into a &ldquo;normal&rdquo; routine and then I remember something and everything comes flooding back. I suppose this is the new &ldquo;normal&rdquo; for me now.</p>\n",
+				"content_text": "Tough week. It was my dad's funeral on Monday. I find myself almost getting back into a \"normal\" routine and then I remember something and everything comes flooding back. I suppose this is the new \"normal\" for me now.\n",
+				"date_published": "2022-07-08T21:37:56+00:00",
+				"url": "https://stephenpieper.blog/2022/07/08/tough-week.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/07/01/another-uninvited-guest.html",
 				
 				"content_html": "<p>Another uninvited guest.</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +66,7 @@
 				"id": "http://stefp.micro.blog/2022/05/26/sad-day-for.html",
 				
 				"content_html": "<p>Sad day for Yes fans. RIP Alan White.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sad day for Yes fans. RIP Alan White.\n\n<img src=\"uploads/2022/c6252582c8.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Sad day for Yes fans. RIP Alan White.\n\n<img src=\"https://stephenpieper.blog/uploads/2022/c6252582c8.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-05-26T21:47:21+00:00",
 				"url": "https://stephenpieper.blog/2022/05/26/sad-day-for.html"
 			},
@@ -352,7 +392,7 @@
 				"id": "http://stefp.micro.blog/2021/03/18/i-think-spring.html",
 				
 				"content_html": "<p>I think spring just sproinged.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think spring just sproinged.\n\n<img src=\"uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" />\n",
+				"content_text": "I think spring just sproinged.\n\n<img src=\"https://stephenpieper.blog/uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" />\n",
 				"date_published": "2021-03-18T14:09:32+00:00",
 				"url": "https://stephenpieper.blog/2021/03/18/i-think-spring.html"
 			},
