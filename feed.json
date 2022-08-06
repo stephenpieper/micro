@@ -7,10 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2022/08/06/im-a-fan.html",
+				
+				"content_html": "<p>I’m a fan of Wes Anderson’s films but, gosh, The French Dispatch is hard work. The premise is interesting but the execution is very dull. It looks beautiful but I cared nothing for what’s happening or any of the characters. I need to watch Rushmore again. 🎥</p>\n",
+				"content_text": "I’m a fan of Wes Anderson’s films but, gosh, The French Dispatch is hard work. The premise is interesting but the execution is very dull. It looks beautiful but I cared nothing for what’s happening or any of the characters. I need to watch Rushmore again. 🎥\n",
+				"date_published": "2022-08-06T13:15:51+00:00",
+				"url": "https://stephenpieper.blog/2022/08/06/im-a-fan.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/07/30/i-found-an.html",
+				
+				"content_html": "<p>I found an old notebook. There’s a page in it that has a list of old software license codes. Virtually none of the apps still exist. Does anyone remember ecto? iView?</p>\n",
+				"content_text": "I found an old notebook. There’s a page in it that has a list of old software license codes. Virtually none of the apps still exist. Does anyone remember ecto? iView?\n",
+				"date_published": "2022-07-30T21:36:22+00:00",
+				"url": "https://stephenpieper.blog/2022/07/30/i-found-an.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/07/29/film-log-watched.html",
+				
+				"content_html": "<p>Film log - watched <a href=\"https://letterboxd.com/film/spider-man-no-way-home/\">Spider-Man: No Way Home</a>. I never expect much from these things but this one had quite an emotional punch in the last third. Maybe it’s just my current state of mind but I was made teary-eyed by a Spider-Man movie. 🎥</p>\n",
+				"content_text": "Film log - watched [Spider-Man: No Way Home](https://letterboxd.com/film/spider-man-no-way-home/). I never expect much from these things but this one had quite an emotional punch in the last third. Maybe it’s just my current state of mind but I was made teary-eyed by a Spider-Man movie. 🎥\n",
+				"date_published": "2022-07-29T19:04:34+00:00",
+				"url": "https://stephenpieper.blog/2022/07/29/film-log-watched.html",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/07/29/ive-read-lots.html",
 				
 				"content_html": "<p>I&rsquo;ve read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋\n\n<img src=\"uploads/2022/1f69698efa.jpg\" width=\"600\" height=\"378\" alt=\"\" />\n",
+				"content_text": "I've read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋\n\n<img src=\"uploads/2022/1f69698efa.jpg\" width=\"750\" height=\"378\" alt=\"Pilot iroshizuku inks in a box\" />\n",
 				"date_published": "2022-07-29T18:48:01+00:00",
 				"url": "https://stephenpieper.blog/2022/07/29/ive-read-lots.html"
 			},
@@ -34,7 +59,7 @@
 				"id": "http://stefp.micro.blog/2022/07/09/trying-to-make.html",
 				
 				"content_html": "<p>Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, &ldquo;that&rsquo;s except for viewers of BBC Scotland&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, \"that's except for viewers of BBC Scotland\".\n\n<img src=\"uploads/2022/6ebff919fb.jpg\" width=\"600\" height=\"337\" alt=\"blue sky and interesting cloud formation\" />\n",
+				"content_text": "Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, \"that's except for viewers of BBC Scotland\".\n\n<img src=\"uploads/2022/6ebff919fb.jpg\" width=\"750\" height=\"337\" alt=\"blue sky and interesting cloud formation\" />\n",
 				"date_published": "2022-07-09T19:36:34+00:00",
 				"url": "https://stephenpieper.blog/2022/07/09/trying-to-make.html"
 			},
@@ -50,7 +75,7 @@
 				"id": "http://stefp.micro.blog/2022/07/01/another-uninvited-guest.html",
 				
 				"content_html": "<p>Another uninvited guest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another uninvited guest.\n\n<img src=\"uploads/2022/fddfc6ddae.jpg\" width=\"600\" height=\"574\" alt=\"this fox wandered into into our office\" />\n\n",
+				"content_text": "Another uninvited guest.\n\n<img src=\"https://stephenpieper.blog/uploads/2022/fddfc6ddae.jpg\" width=\"600\" height=\"574\" alt=\"this fox wandered into into our office\" />\n\n",
 				"date_published": "2022-07-01T21:32:06+00:00",
 				"url": "https://stephenpieper.blog/2022/07/01/another-uninvited-guest.html"
 			},
@@ -147,7 +172,7 @@
 				"id": "http://stefp.micro.blog/2022/04/22/new-pen-its.html",
 				
 				"content_html": "<p>New pen. It&rsquo;s the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don&rsquo;t know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New pen. It's the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don't know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋\n\n<img src=\"https://stephenpieper.blog/uploads/2022/86ba3044f2.jpg\" width=\"600\" height=\"265\" alt=\"Yookers Gaia pen\" />\n",
+				"content_text": "New pen. It's the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don't know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋\n\n<img src=\"uploads/2022/86ba3044f2.jpg\" width=\"750\" height=\"265\" alt=\"Yookers Gaia pen\" />\n",
 				"date_published": "2022-04-22T15:03:01+00:00",
 				"url": "https://stephenpieper.blog/2022/04/22/new-pen-its.html"
 			},
@@ -220,7 +245,7 @@
 				"id": "http://stefp.micro.blog/2021/11/16/i-saw-marillion.html",
 				
 				"content_html": "<p>I saw Marillion in Edinburgh. It was a fantastic night and felt like a real celebration. They were clearly very happy to be back on tour. Lovely old venue too. 🎵</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I saw Marillion in Edinburgh. It was a fantastic night and felt like a real celebration. They were clearly very happy to be back on tour. Lovely old venue too. 🎵\n\n<img src=\"uploads/2021/26a2820056.jpg\" width=\"600\" height=\"449\" alt=\"Usher Hall, Edinburgh, night, exterior\" />\n",
+				"content_text": "I saw Marillion in Edinburgh. It was a fantastic night and felt like a real celebration. They were clearly very happy to be back on tour. Lovely old venue too. 🎵\n\n<img src=\"https://stephenpieper.blog/uploads/2021/26a2820056.jpg\" width=\"600\" height=\"449\" alt=\"Usher Hall, Edinburgh, night, exterior\" />\n",
 				"date_published": "2021-11-16T21:54:00+00:00",
 				"url": "https://stephenpieper.blog/2021/11/16/i-saw-marillion.html",
 				"tags": ["Music"]
@@ -368,7 +393,7 @@
 				"id": "http://stefp.micro.blog/2021/03/21/i-found-a.html",
 				
 				"content_html": "<p>I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy&hellip;Nels Cline&hellip;?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy...Nels Cline...?\n\n<img src=\"uploads/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" />\n",
+				"content_text": "I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy...Nels Cline...?\n\n<img src=\"https://stephenpieper.blog/uploads/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" />\n",
 				"date_published": "2021-03-21T16:25:02+00:00",
 				"url": "https://stephenpieper.blog/2021/03/21/i-found-a.html"
 			},
