@@ -1,16 +1,60 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Stephen Pieper",
+	"title": "Stephen's Notebook",
 	"icon": "https://micro.blog/stefp/avatar.jpg",
 	"home_page_url": "https://stephenpieper.blog/",
 	"feed_url": "https://stephenpieper.blog/feed.json",
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2022/09/07/the-share-menu.html",
+				
+				"content_html": "<p>The share menu in iOS is a delight. You never know what you’re going to get. I do know that the app I need is never there no matter how many times I’ve added it in the past.</p>\n",
+				"content_text": "The share menu in iOS is a delight. You never know what you’re going to get. I do know that the app I need is never there no matter how many times I’ve added it in the past. \n",
+				"date_published": "2022-09-07T22:32:48+00:00",
+				"url": "https://stephenpieper.blog/2022/09/07/the-share-menu.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/03/watched-lord-of.html",
+				
+				"content_html": "<p>Watched Lord Of The Rings: The Rings Of Power. I really enjoyed it. The first episode was a bit exposition-y but things really pick up steam in the second. I always say you can&rsquo;t go wrong with the addition of dwarves. Looking forward to the next episode. 📺</p>\n",
+				"content_text": "Watched Lord Of The Rings: The Rings Of Power. I really enjoyed it. The first episode was a bit exposition-y but things really pick up steam in the second. I always say you can't go wrong with the addition of dwarves. Looking forward to the next episode. 📺\n",
+				"date_published": "2022-09-03T20:56:42+00:00",
+				"url": "https://stephenpieper.blog/2022/09/03/watched-lord-of.html",
+				"tags": ["Watched"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/02/wfmu-dance-with.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>I love the joyful chaos of DJ Stashu on WFMU. She brightens up Friday nights.</p>\n<p>Trigger warning for polka music. 🎵</p>\n",
+				"content_text": "<p><a href=\"https://www.wfmu.org/playlists/shows/119323\">WFMU: Dance With Me, Stanley with Stashu: Playlist from September 2, 2022</a>:</p>\n\n<blockquote>Dance With Me, Stanley with Stashu</blockquote>\n\nI love the joyful chaos of DJ Stashu on WFMU. She brightens up Friday nights.\n\nTrigger warning for polka music. 🎵\n\n\n\n\n",
+				"date_published": "2022-09-02T23:00:51+00:00",
+				"url": "https://stephenpieper.blog/2022/09/02/wfmu-dance-with.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/02/ive-got-two.html",
+				
+				"content_html": "<p>I&rsquo;ve got two live shows coming up this month. Marillion and Steve Hackett. The last two shows I attended were to see&hellip; Marillion and Steve Hackett. I. know what I like as someone once sang. 🎵</p>\n",
+				"content_text": "I've got two live shows coming up this month. Marillion and Steve Hackett. The last two shows I attended were to see... Marillion and Steve Hackett. I. know what I like as someone once sang. 🎵\n",
+				"date_published": "2022-09-02T22:30:09+00:00",
+				"url": "https://stephenpieper.blog/2022/09/02/ive-got-two.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/02/wonderful-bbc-proms.html",
+				
+				"content_html": "<p>Wonderful BBC Proms concert on TV tonight. Public Service Broadcasting and the BBC Symphony Orchestra performed their tribute to the BBC centenary. The ending was powerful. A moving reminder that nothing lasts forever but also a symbol of what we&rsquo;d lose if the BBC disappeared. 🎵</p>\n",
+				"content_text": "Wonderful BBC Proms concert on TV tonight. Public Service Broadcasting and the BBC Symphony Orchestra performed their tribute to the BBC centenary. The ending was powerful. A moving reminder that nothing lasts forever but also a symbol of what we'd lose if the BBC disappeared. 🎵\n",
+				"date_published": "2022-09-02T20:44:34+00:00",
+				"url": "https://stephenpieper.blog/2022/09/02/wonderful-bbc-proms.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/08/25/ive-been-trying.html",
 				
 				"content_html": "<p>I&rsquo;ve been trying to clear out a lot of old paper stuff and I just found these old Apple coupons. You needed them to get an upgrade to OS X 10.1. I converted to Mac just as OS 9 was switching over to the new OS X so things were confusing. These seem like historical documents now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've been trying to clear out a lot of old paper stuff and I just found these old Apple coupons. You needed them to get an upgrade to OS X 10.1. I converted to Mac just as OS 9 was switching over to the new OS X so things were confusing. These seem like historical documents now.\r\n\r\n<img src=\"uploads/2022/641dfcb60d.jpg\" width=\"750\" height=\"450\" alt=\"Apple Software Proof-of-Purchase Coupons for Mac OS X v10.1\" />\n",
+				"content_text": "I've been trying to clear out a lot of old paper stuff and I just found these old Apple coupons. You needed them to get an upgrade to OS X 10.1. I converted to Mac just as OS 9 was switching over to the new OS X so things were confusing. These seem like historical documents now.\r\n\r\n<img src=\"https://stephenpieper.blog/uploads/2022/641dfcb60d.jpg\" width=\"750\" height=\"450\" alt=\"Apple Software Proof-of-Purchase Coupons for Mac OS X v10.1\" />\n",
 				"date_published": "2022-08-25T20:33:17+00:00",
 				"url": "https://stephenpieper.blog/2022/08/25/ive-been-trying.html"
 			},
