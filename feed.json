@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2022/09/14/some-random-finds.html",
+				
+				"content_html": "<p>Some random finds out walking today. Early signs of autumn.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Some random finds out walking today. Early signs of autumn.\r\n\r\n<img src=\"uploads/2022/c70e09d578.jpg\" width=\"700\" height=\"549\" alt=\"white feather and golden leaf\" />\n",
+				"date_published": "2022-09-14T19:09:17+00:00",
+				"url": "https://stephenpieper.blog/2022/09/14/some-random-finds.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/13/i-expected-it.html",
+				
+				"content_html": "<p>I expected it but next Monday&rsquo;s Marillion show in Glasgow has been cancelled. It’s disappointing but understandable. I could have done with the uplift after such a stressful summer.  New date to come. <a href=\"https://m.youtube.com/watch?v=aw7AJkS-x5g\">Marillion &lsquo;The Leavers: V. One Tonight-Live At The Royal Albert Hall</a> 🎶</p>\n",
+				"content_text": "I expected it but next Monday's Marillion show in Glasgow has been cancelled. It’s disappointing but understandable. I could have done with the uplift after such a stressful summer.  New date to come. [Marillion 'The Leavers: V. One Tonight-Live At The Royal Albert Hall](https://m.youtube.com/watch?v=aw7AJkS-x5g) 🎶\n",
+				"date_published": "2022-09-13T21:02:24+00:00",
+				"url": "https://stephenpieper.blog/2022/09/13/i-expected-it.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/11/film-log-watched.html",
+				
+				"content_html": "<p>Film log: Watched <a href=\"https://letterboxd.com/film/varda-by-agnes/\">Agnes By Varda, 2019 ★★★★</a>. 🎥</p>\n",
+				"content_text": "Film log: Watched [Agnes By Varda, 2019 ★★★★](https://letterboxd.com/film/varda-by-agnes/). 🎥\n",
+				"date_published": "2022-09-11T17:26:47+00:00",
+				"url": "https://stephenpieper.blog/2022/09/11/film-log-watched.html",
+				"tags": ["Films"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/09/07/the-share-menu.html",
 				
 				"content_html": "<p>The share menu in iOS is a delight. You never know what you’re going to get. I do know that the app I need is never there no matter how many times I’ve added it in the past.</p>\n",
