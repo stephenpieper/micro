@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2022/09/30/roger-waters-is.html",
+				
+				"content_html": "<p>Roger Waters is embarking on “his first ever farewell tour” according to an ad on the radio. If this goes well I presume there will be another “farewell tour”.</p>\n",
+				"content_text": "Roger Waters is embarking on “his first ever farewell tour” according to an ad on the radio. If this goes well I presume there will be another “farewell tour”. \n",
+				"date_published": "2022-09-30T16:25:05+00:00",
+				"url": "https://stephenpieper.blog/2022/09/30/roger-waters-is.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/29/daguerrotypes.html",
+				"title": "Daguerréotypes, 1975 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img class=\"poster\" src=\"https://a.ltrbxd.com/resized/film-poster/1/5/9/7/1/15971-daguerreotypes-0-600-0-900-crop.jpg?v=9fc053203c\"alt=\"Daguerreotypes\"/></p> <p>Watched on Thursday September 29, 2022.</p>\n",
+				"date_published": "2022-09-30T10:04:13+00:00",
+				"url": "https://stephenpieper.blog/2022/09/29/daguerrotypes.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/28/free-guy.html",
+				"title": "Free Guy, 2021 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img class=\"poster\" src=\"https://a.ltrbxd.com/resized/film-poster/4/7/9/8/1/4/479814-free-guy-0-600-0-900-crop.jpg?v=0cd7303445\"/></p> <p>Watched on Wednesday September 28, 2022.</p>\n",
+				"date_published": "2022-09-29T12:13:08+00:00",
+				"url": "https://stephenpieper.blog/2022/09/28/free-guy.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/27/this-feels-like.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🎉 This feels like Twitter did in the beginning.</p>\n\t\t\t</div>\n",
+				"date_published": "2022-09-27T16:10:46+00:00",
+				"url": "https://stephenpieper.blog/2022/09/27/this-feels-like.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/09/21/the-marillion-show.html",
 				
 				"content_html": "<p>The Marillion show was rescheduled to the following night but at a different venue. This was my view of the stage and the reason I have a sore neck today. It was a great show though. The usual mix of high emotion and laughter from live Marillion. I loved it. <a href=\"https://www.setlist.fm/setlist/marillion/2022/o2-academy-glasgow-glasgow-scotland-43b07faf.html\">Setlist</a>. 🎵</p>\n<!-- raw HTML omitted -->\n",
@@ -19,7 +53,7 @@
 				"id": "http://stefp.micro.blog/2022/09/14/some-random-finds.html",
 				
 				"content_html": "<p>Some random finds out walking today. Early signs of autumn.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some random finds out walking today. Early signs of autumn.\r\n\r\n<img src=\"uploads/2022/c70e09d578.jpg\" width=\"700\" height=\"549\" alt=\"white feather and golden leaf\" />\n",
+				"content_text": "Some random finds out walking today. Early signs of autumn.\r\n\r\n<img src=\"https://stephenpieper.blog/uploads/2022/c70e09d578.jpg\" width=\"700\" height=\"549\" alt=\"white feather and golden leaf\" />\n",
 				"date_published": "2022-09-14T19:09:17+00:00",
 				"url": "https://stephenpieper.blog/2022/09/14/some-random-finds.html"
 			},
@@ -31,6 +65,15 @@
 				"date_published": "2022-09-13T21:02:24+00:00",
 				"url": "https://stephenpieper.blog/2022/09/13/i-expected-it.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/09/11/varda-by-agns.html",
+				"title": "Varda by Agnès, 2019 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img class=\"poster\" src=\"https://a.ltrbxd.com/resized/film-poster/4/8/3/6/8/6/483686-varda-by-agnes-0-600-0-900-crop.jpg?v=f21d6895da\" alt=\"Varda by Agnès, 2019\"/></p> <p>Watched on Sunday September 11, 2022.</p>\n",
+				"date_published": "2022-09-12T01:37:40+00:00",
+				"url": "https://stephenpieper.blog/2022/09/11/varda-by-agns.html",
+				"tags": ["Films"]
 			},
 			{
 				"id": "http://stefp.micro.blog/2022/09/11/film-log-watched.html",
@@ -103,6 +146,22 @@
 				"tags": ["Books"]
 			},
 			{
+				"id": "http://stefp.micro.blog/2022/08/08/along-the-coast.html",
+				"title": "Along the Coast, 1958 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/6/7/6/5/5/167655-along-the-coast-0-600-0-900-crop.jpg?v=ad000755eb\"/></p> <p>Watched on Monday August 8, 2022.</p>\n",
+				"date_published": "2022-08-09T11:07:38+00:00",
+				"url": "https://stephenpieper.blog/2022/08/08/along-the-coast.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/08/08/faces-places.html",
+				"title": "Faces Places, 2017 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/8/4/0/9/2/384092-faces-places-0-600-0-900-crop.jpg?v=7da25314c3\"/></p> <p>Watched on Monday August 8, 2022.</p>\n",
+				"date_published": "2022-08-09T09:19:18+00:00",
+				"url": "https://stephenpieper.blog/2022/08/08/faces-places.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/08/07/currently-reading-rotherweird.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781635061550\">Rotherweird</a> by Andrew Caldecott 📚 I knew nothing about this book but at 99p for the Kindle version I decided to take a chance. I&rsquo;m very glad I did.</p>\n",
@@ -129,6 +188,14 @@
 				"url": "https://stephenpieper.blog/2022/07/30/i-found-an.html"
 			},
 			{
+				"id": "http://stefp.micro.blog/2022/07/29/spiderman-no-way.html",
+				"title": "Spider-Man: No Way Home, 2021 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/6/0/7/8/7/560787-spider-man-no-way-home-0-600-0-900-crop.jpg?v=a336d4f40c\"/></p> <p>I never expect much from these things but this one had quite an emotional punch in the last third. Maybe it’s just my current state of mine but I was quite moved.</p>\n",
+				"date_published": "2022-07-30T06:55:56+00:00",
+				"url": "https://stephenpieper.blog/2022/07/29/spiderman-no-way.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/07/29/film-log-watched.html",
 				
 				"content_html": "<p>Film log - watched <a href=\"https://letterboxd.com/film/spider-man-no-way-home/\">Spider-Man: No Way Home</a>. I never expect much from these things but this one had quite an emotional punch in the last third. Maybe it’s just my current state of mind but I was made teary-eyed by a Spider-Man movie. 🎥</p>\n",
@@ -141,7 +208,7 @@
 				"id": "http://stefp.micro.blog/2022/07/29/ive-read-lots.html",
 				
 				"content_html": "<p>I&rsquo;ve read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋\n\n<img src=\"uploads/2022/1f69698efa.jpg\" width=\"750\" height=\"378\" alt=\"Pilot iroshizuku inks in a box\" />\n",
+				"content_text": "I've read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋\n\n<img src=\"https://stephenpieper.blog/uploads/2022/1f69698efa.jpg\" width=\"750\" height=\"378\" alt=\"Pilot iroshizuku inks in a box\" />\n",
 				"date_published": "2022-07-29T18:48:01+00:00",
 				"url": "https://stephenpieper.blog/2022/07/29/ive-read-lots.html"
 			},
@@ -167,7 +234,7 @@
 				"id": "http://stefp.micro.blog/2022/07/09/trying-to-make.html",
 				
 				"content_html": "<p>Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, &ldquo;that&rsquo;s except for viewers of BBC Scotland&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, \"that's except for viewers of BBC Scotland\".\n\n<img src=\"uploads/2022/6ebff919fb.jpg\" width=\"750\" height=\"337\" alt=\"blue sky and interesting cloud formation\" />\n",
+				"content_text": "Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, \"that's except for viewers of BBC Scotland\".\n\n<img src=\"https://stephenpieper.blog/uploads/2022/6ebff919fb.jpg\" width=\"750\" height=\"337\" alt=\"blue sky and interesting cloud formation\" />\n",
 				"date_published": "2022-07-09T19:36:34+00:00",
 				"url": "https://stephenpieper.blog/2022/07/09/trying-to-make.html"
 			},
@@ -196,6 +263,22 @@
 				"url": "https://stephenpieper.blog/2022/06/13/nice-clue-in.html"
 			},
 			{
+				"id": "http://stefp.micro.blog/2022/05/30/moonrise-kingdom.html",
+				"title": "Moonrise Kingdom, 2012 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/v5/7f/mn/y8/ysTohGF7NY9Z6MYz9vLNYiyzh0r-0-600-0-900-crop.jpg?v=689b2b9ee8\"/></p> <p>Watched on Sunday May 29, 2022.</p>\n",
+				"date_published": "2022-05-30T14:27:56+00:00",
+				"url": "https://stephenpieper.blog/2022/05/30/moonrise-kingdom.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/05/30/the-hot-rock.html",
+				"title": "The Hot Rock, 1972 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/9/2/3/8/19238-the-hot-rock-0-600-0-900-crop.jpg?v=5759b75374\"/></p> <p>Watched on Sunday May 29, 2022.</p>\n",
+				"date_published": "2022-05-30T14:24:10+00:00",
+				"url": "https://stephenpieper.blog/2022/05/30/the-hot-rock.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/05/20/i-started-watching.html",
 				
 				"content_html": "<p>I started watching Better Call Saul but then my brother said I&rsquo;d need to finish Breaking Bad for it all to make any sense. So I&rsquo;m back watching Breaking Bad and thinking that watching TV can be hard work these days.</p>\n",
@@ -210,6 +293,14 @@
 				"content_text": "I had to pay for a digital copy of the [WFMU documentary](https://www.wfmuthemovie.com/) but it was worth the money. It made me feel even better about my recent decision to become a \"swag for life\" supporter. You need to do what you can to support the art and music you love.\n",
 				"date_published": "2022-05-06T21:24:51+00:00",
 				"url": "https://stephenpieper.blog/2022/05/06/i-had-to.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/05/02/nobody.html",
+				"title": "Nobody, 2021 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/4/2/5/5/5/542555-nobody-0-600-0-900-crop.jpg?v=eab2f81e32\"/></p> <p>Watched on Monday May 2, 2022.</p>\n",
+				"date_published": "2022-05-03T10:21:30+00:00",
+				"url": "https://stephenpieper.blog/2022/05/02/nobody.html"
 			},
 			{
 				"id": "http://stefp.micro.blog/2022/05/02/film-log-watched.html",
@@ -275,7 +366,7 @@
 				"id": "http://stefp.micro.blog/2022/04/22/new-pen-its.html",
 				
 				"content_html": "<p>New pen. It&rsquo;s the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don&rsquo;t know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New pen. It's the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don't know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋\n\n<img src=\"uploads/2022/86ba3044f2.jpg\" width=\"750\" height=\"265\" alt=\"Yookers Gaia pen\" />\n",
+				"content_text": "New pen. It's the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don't know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋\n\n<img src=\"https://stephenpieper.blog/uploads/2022/86ba3044f2.jpg\" width=\"750\" height=\"265\" alt=\"Yookers Gaia pen\" />\n",
 				"date_published": "2022-04-22T15:03:01+00:00",
 				"url": "https://stephenpieper.blog/2022/04/22/new-pen-its.html"
 			},
@@ -341,6 +432,30 @@
 				"url": "https://stephenpieper.blog/2022/02/15/can-a-person.html"
 			},
 			{
+				"id": "http://stefp.micro.blog/2022/02/08/the-challenge.html",
+				"title": "The Challenge, 1960 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/0/7/9/22079-the-challenge-0-600-0-900-crop.jpg?v=701d8f5614\"/></p> <p>Watched on Tuesday February 8, 2022.</p>\n",
+				"date_published": "2022-02-09T12:39:57+00:00",
+				"url": "https://stephenpieper.blog/2022/02/08/the-challenge.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/12/20/spiderman-far-from.html",
+				"title": "Spider-Man: Far From Home, 2019 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/6/2/9/7/7/362977-spider-man-far-from-home-0-600-0-900-crop.jpg?v=d139fbf2ae\"/></p> <p>Tom Holland as Spider-Man is hard to dislike and this film is hard to dislike.</p>\n",
+				"date_published": "2021-12-20T15:00:24+00:00",
+				"url": "https://stephenpieper.blog/2021/12/20/spiderman-far-from.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/12/17/cry-of-the.html",
+				"title": "Cry of the City, 1948 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/0/5/9/39059-cry-of-the-city-0-600-0-900-crop.jpg?v=34760cfcb0\"/></p> <p>Watched on Thursday December 16, 2021.</p>\n",
+				"date_published": "2021-12-18T00:40:49+00:00",
+				"url": "https://stephenpieper.blog/2021/12/17/cry-of-the.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2021/11/21/a-week-of.html",
 				
 				"content_html": "<p>A week of highs and sad, sad, lows. It started with a tremendous Marillion gig and has ended with the tragic death of Big Big Train vocalist, David Longdon. I’m lost for words.</p>\n",
@@ -397,6 +512,14 @@
 				"content_text": "Hello from Drummer. It's nice to have new things to play with.\n",
 				"date_published": "2021-10-19T12:15:00+00:00",
 				"url": "https://stephenpieper.blog/2021/10/19/hello-from-drummer.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/10/17/le-cercle-rouge.html",
+				"title": "Le Cercle Rouge, 1970 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/0/9/6/45096-le-cercle-rouge-0-600-0-900-crop.jpg?v=06cd1c9bcf\"/></p> <p>Watched on Sunday October 17, 2021.</p>\n",
+				"date_published": "2021-10-18T12:13:31+00:00",
+				"url": "https://stephenpieper.blog/2021/10/17/le-cercle-rouge.html"
 			},
 			{
 				"id": "http://stefp.micro.blog/2021/10/15/another-mp-is.html",
@@ -479,6 +602,62 @@
 				"content_text": "I bought myself a little synthesiser to learn about synthesis and have a bit of fun. That led me to buying an audio interface and a delay pedal and now I'm thinking this is not the cheap hobby I thought it would be. \n",
 				"date_published": "2021-09-21T20:22:11+00:00",
 				"url": "https://stephenpieper.blog/2021/09/21/i-bought-myself.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/09/10/the-shooting.html",
+				"title": "The Shooting, 1966 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-600-0-900-crop.jpg?v=d9a82e31ae\"/></p> <p>Watched on Thursday September 9, 2021.</p>\n",
+				"date_published": "2021-09-11T00:36:07+00:00",
+				"url": "https://stephenpieper.blog/2021/09/10/the-shooting.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/07/08/mystery-men.html",
+				"title": "Mystery Men, 1999 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/7/9/0/46790-mystery-men-0-600-0-900-crop.jpg?v=559d1adcd0\"/></p> <p>Watched on Thursday July 8, 2021.</p>\n",
+				"date_published": "2021-07-09T10:44:33+00:00",
+				"url": "https://stephenpieper.blog/2021/07/08/mystery-men.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/07/08/the-friends-of.html",
+				"title": "The Friends of Eddie Coyle, 1973 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/5/8/7/5/35875-the-friends-of-eddie-coyle-0-600-0-900-crop.jpg?v=a999e59b6c\"/></p> <p>Watched on Wednesday July 7, 2021.</p>\n",
+				"date_published": "2021-07-08T13:24:22+00:00",
+				"url": "https://stephenpieper.blog/2021/07/08/the-friends-of.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/05/31/out-of-print.html",
+				"title": "Out of Print, 2014 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/4/7/2/2/224722-out-of-print-0-600-0-900-crop.jpg?v=372953944b\"/></p> <p>Watched on Sunday May 30, 2021.</p>\n",
+				"date_published": "2021-06-01T03:36:58+00:00",
+				"url": "https://stephenpieper.blog/2021/05/31/out-of-print.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/05/31/moonstruck.html",
+				"title": "Moonstruck, 1987 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/5/7/5/50575-moonstruck-0-600-0-900-crop.jpg?v=ec942da30b\"/></p> <p>Watched on Saturday May 29, 2021.</p>\n",
+				"date_published": "2021-06-01T03:36:34+00:00",
+				"url": "https://stephenpieper.blog/2021/05/31/moonstruck.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/05/31/john-wick-chapter.html",
+				"title": "John Wick: Chapter 2, 2017 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/wb/rc/zd/o6/fWz9LMfdES80BsJKucgzI5ZJhnB-0-600-0-900-crop.jpg?v=d5d6ba1b6e\"/></p> <p>Watched on Friday May 28, 2021.</p>\n",
+				"date_published": "2021-06-01T03:36:06+00:00",
+				"url": "https://stephenpieper.blog/2021/05/31/john-wick-chapter.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2021/05/31/come-back-to.html",
+				"title": "Come Back to the 5 \u0026amp; Dime, Jimmy Dean, Jimmy Dean, 1982 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/3/4/1/9/53419-come-back-to-the-5-dime-jimmy-dean-jimmy-dean-0-600-0-900-crop.jpg?v=1389041af5\"/></p> <p>Watched on Thursday May 27, 2021.</p>\n",
+				"date_published": "2021-06-01T03:35:41+00:00",
+				"url": "https://stephenpieper.blog/2021/05/31/come-back-to.html"
 			},
 			{
 				"id": "http://stefp.micro.blog/2021/04/26/finished-reading-maskerade.html",
@@ -603,6 +782,78 @@
 				"content_text": "October was such a **dreary** month and the rest of the year is shaping up to be more of the same. I'm someone who likes to be at home but the lockdown blues are starting to get to me too. I haven't felt like doing anything for weeks. Music and films are keeping me a bit buoyant. \n",
 				"date_published": "2020-11-01T20:30:32+00:00",
 				"url": "https://stephenpieper.blog/2020/11/01/october-was-such.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/31/the-trial-of.html",
+				"title": "The Trial of the Chicago 7, 2020 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/5/5/1/9/485519-the-trial-of-the-chicago-7-0-600-0-900-crop.jpg?v=284072013c\"/></p> <p>Aaron Sorkin did a good job of boiling down the trial into a two hour drama.</p>\n",
+				"date_published": "2020-11-01T10:36:38+00:00",
+				"url": "https://stephenpieper.blog/2020/10/31/the-trial-of.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/31/the-personal-history.html",
+				"title": "The Personal History of David Copperfield, 2019 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/5/0/3/6/1/450361-the-personal-history-of-david-copperfield-0-600-0-900-crop.jpg?v=1ae8826930\"/></p> <p>Watched on Saturday October 31, 2020.</p>\n",
+				"date_published": "2020-11-01T10:36:06+00:00",
+				"url": "https://stephenpieper.blog/2020/10/31/the-personal-history.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/28/a-scene-at.html",
+				"title": "A Scene at the Sea, 1991 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/72/0g/ya/xw/q80UM6O8JNKKz4hBjr2ybWHNAtV-0-600-0-900-crop.jpg?v=b9f13d8e84\"/></p> <p>Watched on Wednesday October 28, 2020.</p>\n",
+				"date_published": "2020-10-29T09:08:57+00:00",
+				"url": "https://stephenpieper.blog/2020/10/28/a-scene-at.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/27/when-a-woman.html",
+				"title": "When a Woman Ascends the Stairs, 1960 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/5/3/0/27530-when-a-woman-ascends-the-stairs-0-600-0-900-crop.jpg?v=1264aa11ed\"/></p> <p>Watched on Tuesday October 27, 2020.</p>\n",
+				"date_published": "2020-10-28T11:06:14+00:00",
+				"url": "https://stephenpieper.blog/2020/10/27/when-a-woman.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/26/ugetsu.html",
+				"title": "Ugetsu, 1953 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/2/8/8/4/42884-ugetsu-0-600-0-900-crop.jpg?v=f955526e53\"/></p> <p>Watched on Monday October 26, 2020.</p>\n",
+				"date_published": "2020-10-27T11:49:46+00:00",
+				"url": "https://stephenpieper.blog/2020/10/26/ugetsu.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/26/an-actors-revenge.html",
+				"title": "An Actor\u0026#039;s Revenge, 1963 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/4/7/3/0/34730-an-actor-s-revenge-0-600-0-900-crop.jpg?v=fe72e510b0\"/></p> <p>Watched on Sunday October 25, 2020.</p>\n",
+				"date_published": "2020-10-26T14:08:32+00:00",
+				"url": "https://stephenpieper.blog/2020/10/26/an-actors-revenge.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/25/sansho-the-bailiff.html",
+				"title": "Sansho the Bailiff, 1954 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/h6/kr/f7/cc/deBjt3LT3UQHRXiNX1fu28lAtK6-0-600-0-900-crop.jpg?v=c63170bd46\"/></p> <p>Watched on Saturday October 24, 2020.</p>\n",
+				"date_published": "2020-10-25T13:12:43+00:00",
+				"url": "https://stephenpieper.blog/2020/10/25/sansho-the-bailiff.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/18/black-angel.html",
+				"title": "Black Angel, 1946 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/1/1/4/39114-black-angel-0-600-0-900-crop.jpg?v=787d944aed\"/></p> <p>Watched on Sunday October 18, 2020.</p>\n",
+				"date_published": "2020-10-19T09:00:00+00:00",
+				"url": "https://stephenpieper.blog/2020/10/18/black-angel.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/10/18/the-man-who.html",
+				"title": "The Man Who Cheated Himself, 1950 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/5/8/6/5/25865-the-man-who-cheated-himself-0-600-0-900-crop.jpg?v=8cca6037da\"/></p> <p>Watched on Sunday October 18, 2020.</p>\n",
+				"date_published": "2020-10-19T08:59:03+00:00",
+				"url": "https://stephenpieper.blog/2020/10/18/the-man-who.html"
 			},
 			{
 				"id": "http://stefp.micro.blog/2020/10/09/added-these-resistance.html",
@@ -736,6 +987,14 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://stefp.micro.blog/2020/08/01/drunken-angel.html",
+				"title": "Drunken Angel, 1948 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/5/7/4/2/35742-drunken-angel-0-600-0-900-crop.jpg?v=b32f769031\"/></p> <p>Watched on Saturday August 1, 2020.</p>\n",
+				"date_published": "2020-08-02T08:03:55+00:00",
+				"url": "https://stephenpieper.blog/2020/08/01/drunken-angel.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2020/07/30/currently-reading-manhattan.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/0141184485\">Manhattan transfer</a> by John Dos Passos 📚</p>\n",
@@ -754,6 +1013,22 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://stefp.micro.blog/2020/07/26/mifune-the-last.html",
+				"title": "Mifune: The Last Samurai, 2015 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/4/7/8/4/0/347840-mifune-the-last-samurai-0-600-0-900-crop.jpg?v=c5146201aa\"/></p> <p>Watched on Sunday July 26, 2020.</p>\n",
+				"date_published": "2020-07-27T10:22:28+00:00",
+				"url": "https://stephenpieper.blog/2020/07/26/mifune-the-last.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/07/26/stray-dog.html",
+				"title": "Stray Dog, 1949 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/2/0/8/8/32088-stray-dog-0-600-0-900-crop.jpg?v=4390bd0682\"/></p> <p>Watched on Sunday July 26, 2020.</p>\n",
+				"date_published": "2020-07-27T10:20:27+00:00",
+				"url": "https://stephenpieper.blog/2020/07/26/stray-dog.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2020/07/22/cardiacs-tim-smith.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
@@ -761,6 +1036,54 @@
 				"date_published": "2020-07-22T15:57:54+00:00",
 				"url": "https://stephenpieper.blog/2020/07/22/cardiacs-tim-smith.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/06/09/deadline-usa.html",
+				"title": "Deadline - U.S.A., 1952 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/9/8/0/27980-deadline-u-s-a--0-600-0-900-crop.jpg?v=85a9cb620f\"/></p> <p>Watched on Tuesday June 9, 2020.</p>\n",
+				"date_published": "2020-06-10T03:57:03+00:00",
+				"url": "https://stephenpieper.blog/2020/06/09/deadline-usa.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/06/09/new-york-confidential.html",
+				"title": "New York Confidential, 1955 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/8/3/0/0/28300-new-york-confidential-0-600-0-900-crop.jpg?v=c3aa16302f\"/></p> <p>Watched on Sunday June 7, 2020.</p>\n",
+				"date_published": "2020-06-10T03:55:59+00:00",
+				"url": "https://stephenpieper.blog/2020/06/09/new-york-confidential.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/06/09/the-mob.html",
+				"title": "The Mob, 1951 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/5/8/4/1/35841-the-mob-0-600-0-900-crop.jpg?v=7b16676bb3\"/></p> <p>Watched on Saturday June 6, 2020.</p>\n",
+				"date_published": "2020-06-10T03:55:27+00:00",
+				"url": "https://stephenpieper.blog/2020/06/09/the-mob.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/05/26/the-driver.html",
+				"title": "The Driver, 1978 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/4/8/0/50480-the-driver-0-600-0-900-crop.jpg?v=8c1b07e157\"/></p> <p>Watched on Tuesday May 26, 2020.</p>\n",
+				"date_published": "2020-05-27T10:48:29+00:00",
+				"url": "https://stephenpieper.blog/2020/05/26/the-driver.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/05/18/the-hidden-fortress.html",
+				"title": "The Hidden Fortress, 1958 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/1/6/1/51161-the-hidden-fortress-0-600-0-900-crop.jpg?v=3f8750ceb8\"/></p> <p>Watched on Sunday May 17, 2020.</p>\n",
+				"date_published": "2020-05-18T12:08:48+00:00",
+				"url": "https://stephenpieper.blog/2020/05/18/the-hidden-fortress.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/05/18/one-wonderful-sunday.html",
+				"title": "One Wonderful Sunday, 1947 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/9/3/2/7/19327-one-wonderful-sunday-0-600-0-900-crop.jpg?v=08b917ac1e\"/></p> <p>Watched on Sunday May 17, 2020.</p>\n",
+				"date_published": "2020-05-18T12:07:56+00:00",
+				"url": "https://stephenpieper.blog/2020/05/18/one-wonderful-sunday.html"
 			},
 			{
 				"id": "http://stefp.micro.blog/2020/05/14/it-seems-some.html",
@@ -829,6 +1152,14 @@
 				"tags": ["Books"]
 			},
 			{
+				"id": "http://stefp.micro.blog/2020/05/05/the-rules-of.html",
+				"title": "The Rules of the Game, 1939 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/3/7/6/51376-the-rules-of-the-game-0-600-0-900-crop.jpg?v=1fa434b02e\"/></p> <p>Watched on Tuesday May 5, 2020.</p>\n",
+				"date_published": "2020-05-06T10:18:36+00:00",
+				"url": "https://stephenpieper.blog/2020/05/05/the-rules-of.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2020/05/06/they-all-laughed.html",
 				
 				"content_html": "<p>&ldquo;They all laughed when I said I wanted to be a comedian. Well, they&rsquo;re not laughing now.&rdquo;</p>\n<p><em>Bob Monkhouse</em> 💬</p>\n",
@@ -854,6 +1185,14 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://stefp.micro.blog/2020/05/04/jenny-lamour.html",
+				"title": "Jenny Lamour, 1947 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/5/7/8/4/15784-quai-des-orfevres-0-600-0-900-crop.jpg?v=0aa9e0de3c\"/></p> <p>Watched on Monday May 4, 2020.</p>\n",
+				"date_published": "2020-05-05T10:57:41+00:00",
+				"url": "https://stephenpieper.blog/2020/05/04/jenny-lamour.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2020/05/04/sad-to-hear.html",
 				
 				"content_html": "<p>Sad to hear that Dave Greenfield of The Stranglers has died. The Black and White album was one of the first records I ever bought and I still have the same copy.</p>\n<!-- raw HTML omitted -->\n",
@@ -871,6 +1210,22 @@
 				"url": "https://stephenpieper.blog/2020/05/04/they-were-both.html"
 			},
 			{
+				"id": "http://stefp.micro.blog/2020/05/03/le-corbeau.html",
+				"title": "Le Corbeau, 1943 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/60/eq/nt/1j/6VcBNTrgCprv7DoeIEHg0um008o-0-600-0-900-crop.jpg?v=0aa7ec69d9\"/></p> <p>Watched on Sunday May 3, 2020.</p>\n",
+				"date_published": "2020-05-04T10:39:14+00:00",
+				"url": "https://stephenpieper.blog/2020/05/03/le-corbeau.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/05/03/la-bte-humaine.html",
+				"title": "La Bête Humaine, 1938 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/2/8/8/3/32883-la-bete-humaine-0-600-0-900-crop.jpg?v=9b940351cc\"/></p> <p>Watched on Saturday May 2, 2020.</p>\n",
+				"date_published": "2020-05-03T20:09:55+00:00",
+				"url": "https://stephenpieper.blog/2020/05/03/la-bte-humaine.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2020/05/03/i-removed-and.html",
 				
 				"content_html": "<p>I removed and re-added my Letterboxd feed and it seems to have posted every update for the last few weeks.  Apologies to anyone whose micro.blog feed I might have flooded.</p>\n",
@@ -879,12 +1234,92 @@
 				"url": "https://stephenpieper.blog/2020/05/03/i-removed-and.html"
 			},
 			{
+				"id": "http://stefp.micro.blog/2020/05/01/paterson.html",
+				"title": "Paterson, 2016 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/ki/j6/o2/2a/steNZE5bgKiHb3AeLQNIl1j8YAS-0-600-0-900-crop.jpg?v=5a46866305\"/></p> <p>Watched on Thursday April 30, 2020.</p>\n",
+				"date_published": "2020-05-01T12:23:43+00:00",
+				"url": "https://stephenpieper.blog/2020/05/01/paterson.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/29/coffee-and-cigarettes.html",
+				"title": "Coffee and Cigarettes, 2003 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/2/6/9/51269-coffee-and-cigarettes-0-600-0-900-crop.jpg?v=b4120db348\"/></p> <p>Watched on Wednesday April 29, 2020.</p>\n",
+				"date_published": "2020-04-30T10:19:16+00:00",
+				"url": "https://stephenpieper.blog/2020/04/29/coffee-and-cigarettes.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/28/wild-combination-a.html",
+				"title": "Wild Combination: A Portrait of Arthur Russell, 2008 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/2/2/3/3/12233-wild-combination-a-portrait-of-arthur-russell-0-600-0-900-crop.jpg?v=7c2046abde\"/></p> <p>Watched on Tuesday April 28, 2020.</p>\n",
+				"date_published": "2020-04-29T11:33:00+00:00",
+				"url": "https://stephenpieper.blog/2020/04/28/wild-combination-a.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/27/sisters.html",
+				"title": "Sisters, 1972 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/7/9/7/0/37970-sisters-0-600-0-900-crop.jpg?v=f74739dccd\"/></p> <p>Watched on Monday April 27, 2020.</p>\n",
+				"date_published": "2020-04-28T10:25:34+00:00",
+				"url": "https://stephenpieper.blog/2020/04/27/sisters.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/26/grand-illusion.html",
+				"title": "Grand Illusion, 1937 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/99/0o/ps/jk/lWg41zE0FVixkNsFgxnlRyvDYv9-0-600-0-900-crop.jpg?v=ac3af61682\"/></p> <p>Watched on Sunday April 26, 2020.</p>\n",
+				"date_published": "2020-04-27T11:32:00+00:00",
+				"url": "https://stephenpieper.blog/2020/04/26/grand-illusion.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/25/love-amp-mercy.html",
+				"title": "Love \u0026amp; Mercy, 2014 - ★★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/9/4/9/7/2/194972-love-mercy-0-600-0-900-crop.jpg?v=046c79c04a\"/></p> <p>Watched on Saturday April 25, 2020.</p>\n",
+				"date_published": "2020-04-26T11:13:50+00:00",
+				"url": "https://stephenpieper.blog/2020/04/25/love-amp-mercy.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/24/avengers-endgame.html",
+				"title": "Avengers: Endgame, 2019 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/6/6/6/0/226660-avengers-endgame-0-600-0-900-crop.jpg?v=250ab286a3\"/></p> <p>Watched on Friday April 24, 2020.</p>\n",
+				"date_published": "2020-04-25T04:35:41+00:00",
+				"url": "https://stephenpieper.blog/2020/04/24/avengers-endgame.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/23/antman-and-the.html",
+				"title": "Ant-Man and the Wasp, 2018 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/9/6/3/4/1/296341-ant-man-and-the-wasp-0-600-0-900-crop.jpg?v=a94b0d3017\"/></p> <p>Watched on Thursday April 23, 2020.</p>\n",
+				"date_published": "2020-04-24T07:54:32+00:00",
+				"url": "https://stephenpieper.blog/2020/04/23/antman-and-the.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/22/avengers-infinity-war.html",
+				"title": "Avengers: Infinity War, 2018 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/6/6/6/1/226661-avengers-infinity-war-0-600-0-900-crop.jpg?v=8b35f60c0c\"/></p> <p>Watched on Wednesday April 22, 2020.</p>\n",
+				"date_published": "2020-04-23T08:38:48+00:00",
+				"url": "https://stephenpieper.blog/2020/04/22/avengers-infinity-war.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2020/04/22/i-watched-thorragnarok.html",
 				
 				"content_html": "<p>I watched Thor:Ragnarok next in my lock-in Marvel movie marathon. The straight up comedy did not work for me at all. Big events were supposed to be happening and I was made not to care. Next!</p>\n",
 				"content_text": "I watched Thor:Ragnarok next in my lock-in Marvel movie marathon. The straight up comedy did not work for me at all. Big events were supposed to be happening and I was made not to care. Next!\n",
 				"date_published": "2020-04-22T08:50:56+00:00",
 				"url": "https://stephenpieper.blog/2020/04/22/i-watched-thorragnarok.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2020/04/20/thor-ragnarok.html",
+				"title": "Thor: Ragnarok, 2017 - ★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/0/9/3/8/2/209382-thor-ragnarok-0-600-0-900-crop.jpg?v=0369e00db5\"/></p> <p>Watched on Monday April 20, 2020.</p>\n",
+				"date_published": "2020-04-21T10:29:15+00:00",
+				"url": "https://stephenpieper.blog/2020/04/20/thor-ragnarok.html"
 			},
 			{
 				"id": "http://stefp.micro.blog/2020/04/15/vintage-ronald-searle.html",
