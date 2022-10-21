@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2022/10/21/steely-dans-greatest.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Nice list. Deacon Blues is my fave. 🎵</p>\n",
+				"content_text": "\n<p> <a href=\"https://www.theguardian.com/music/2022/oct/20/steely-dans-20-greatest-songs-ranked\">Steely Dan’s 20 greatest songs – ranked! | Steely Dan | The Guardian</a>:</p>\n<blockquote>With November marking 50 years since their debut album, we pick the best of the band’s idiosyncratic output, with tales of capitalism, drug dealers and mid-life crises.</blockquote>\n\nNice list. Deacon Blues is my fave. 🎵\n\n\n\n\n",
+				"date_published": "2022-10-21T16:29:29+00:00",
+				"url": "https://stephenpieper.blog/2022/10/21/steely-dans-greatest.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/10/20/its-the-start.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🧐 It’s the start of a three week work break and I’m thinking about what needs to be done. </p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-20T22:27:16+00:00",
+				"url": "https://stephenpieper.blog/2022/10/20/its-the-start.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/10/20/i-watch-baseball.html",
+				
+				"content_html": "<p>I watch baseball late at night here in the UK. My late dad was in the US Navy and we lived in San Diego for a while when I was very young. I would love to see the Padres beat the Yankees to win the World Series for sentimental reasons.</p>\n<p>That word &ldquo;late&rdquo; is still hard to say.</p>\n",
+				"content_text": "I watch baseball late at night here in the UK. My late dad was in the US Navy and we lived in San Diego for a while when I was very young. I would love to see the Padres beat the Yankees to win the World Series for sentimental reasons. \r\n\r\nThat word \"late\" is still hard to say.\n",
+				"date_published": "2022-10-20T21:41:45+00:00",
+				"url": "https://stephenpieper.blog/2022/10/20/i-watch-baseball.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/10/08/i-shouldnt-still.html",
 				
 				"content_html": "<p>I shouldn&rsquo;t still be surprised that there are people who will watch hours of a TV show they claim to be boring, and awful, just to dump on others enjoyment of that show.</p>\n",
