@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2022/11/24/i-dont-like.html",
+				
+				"content_html": "<p>I don&rsquo;t like the way rich and powerful men get referred to using their first names eg &ldquo;Boris&rdquo;, &ldquo;Elon&rdquo;. They&rsquo;re not our friends.</p>\n",
+				"content_text": "I don't like the way rich and powerful men get referred to using their first names eg \"Boris\", \"Elon\". They're not our friends.\n",
+				"date_published": "2022-11-24T17:06:55+00:00",
+				"url": "https://stephenpieper.blog/2022/11/24/i-dont-like.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/11/06/detective-story.html",
 				"title": "Detective Story, 1951 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/8/7/5/8/38758-detective-story-0-600-0-900-crop.jpg?v=685e2e6e2d\"/></p> <p>Watched on Sunday November 6, 2022.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Kirk Douglas is the star but William Bendix is the heart.</p>\n",
+				"content_text": "<p><img class=\"poster\" src=\"https://a.ltrbxd.com/resized/film-poster/3/8/7/5/8/38758-detective-story-0-600-0-900-crop.jpg?v=685e2e6e2d\" alt=\"Watched Detective Story\"/></p> <p>Watched on Sunday November 6, 2022.</p>\n\nKirk Douglas is the star but William Bendix is the heart.\n",
 				"date_published": "2022-11-06T23:38:00+00:00",
 				"url": "https://stephenpieper.blog/2022/11/06/detective-story.html",
 				"tags": ["Films"]
@@ -19,7 +27,7 @@
 				"id": "http://stefp.micro.blog/2022/11/05/ball-of-fire.html",
 				"title": "Ball of Fire, 1941 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/2/4/6/4/32464-ball-of-fire-0-600-0-900-crop.jpg?v=266450137c\"/></p> <p>Watched on Saturday November 5, 2022.</p>\n",
+				"content_text": "<p><img class=\"poster\" src=\"https://a.ltrbxd.com/resized/film-poster/3/2/4/6/4/32464-ball-of-fire-0-600-0-900-crop.jpg?v=266450137c\" alt=\"watched Ball Of Fire\"/></p> <p>Watched on Saturday November 5, 2022.</p>\n",
 				"date_published": "2022-11-05T22:56:06+00:00",
 				"url": "https://stephenpieper.blog/2022/11/05/ball-of-fire.html",
 				"tags": ["Films"]
@@ -61,7 +69,7 @@
 				"id": "http://stefp.micro.blog/2022/10/06/iron-fists-and.html",
 				"title": "Iron Fists and Kung Fu Kicks, 2019 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/2/7/2/7/6/527276-iron-fists-and-kung-fu-kicks-0-600-0-900-crop.jpg?v=4427ec1b33\"/></p> <p>Watched on Thursday October 6, 2022.</p>\n",
+				"content_text": "<p><img class=\"poster\" src=\"https://a.ltrbxd.com/resized/film-poster/5/2/7/2/7/6/527276-iron-fists-and-kung-fu-kicks-0-600-0-900-crop.jpg?v=4427ec1b33\" alt=\"watched Iron Fists and Kung Fu Kicks\"/></p> <p>Watched on Thursday October 6, 2022.</p>\n",
 				"date_published": "2022-10-06T21:58:40+00:00",
 				"url": "https://stephenpieper.blog/2022/10/06/iron-fists-and.html",
 				"tags": ["Films"]
@@ -85,9 +93,9 @@
 			},
 			{
 				"id": "http://stefp.micro.blog/2022/10/05/rock-and-rolls.html",
-				"title": "Rock and Roll\u0026#039;s Greatest Failure: Otway the Movie, 2012 - ★★★½",
+				"title": "Rock and Roll's Greatest Failure: Otway the Movie, 2012 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/5/4/9/6/0/154960-rock-and-roll-s-greatest-failure-otway-the-movie-0-600-0-900-crop.jpg?v=a155ffa2fc\"/></p> <p>Watched on Tuesday October 4, 2022.</p>\n",
+				"content_text": "<p><img class=\"poster\"  src=\"https://a.ltrbxd.com/resized/film-poster/1/5/4/9/6/0/154960-rock-and-roll-s-greatest-failure-otway-the-movie-0-600-0-900-crop.jpg?v=a155ffa2fc\" alt=\"watched Rock and Roll's Greatest Failure: Otway the Movie\"/></p> <p>Watched on Tuesday October 4, 2022.</p>\n",
 				"date_published": "2022-10-05T00:37:17+00:00",
 				"url": "https://stephenpieper.blog/2022/10/05/rock-and-rolls.html",
 				"tags": ["Films"]
