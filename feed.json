@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/01/01/started-to-read.html",
+				
+				"content_html": "<p>Started to read: <a href=\"https://micro.blog/books/9781784298012\">Wyntertide</a> by Andrew Caldecott 📚</p>\n<p>It&rsquo;s taken a while for me to get around to reading the second part of this excellent trilogy.</p>\n",
+				"content_text": "Started to read: [Wyntertide](https://micro.blog/books/9781784298012) by Andrew Caldecott 📚\r\n\r\nIt's taken a while for me to get around to reading the second part of this excellent trilogy.\n",
+				"date_published": "2023-01-01T19:20:44+00:00",
+				"url": "https://stephenpieper.blog/2023/01/01/started-to-read.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/12/30/last-work-day.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🥂 Last work day of the year. </p>\n",
+				"date_published": "2022-12-30T17:23:42+00:00",
+				"url": "https://stephenpieper.blog/2022/12/30/last-work-day.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2022/12/28/i-just-heard.html",
+				
+				"content_html": "<p>I just heard a radio advert for Galaxy Buds 2 Pro. That’s a bunch of words that don’t slip off the tongue easily.</p>\n",
+				"content_text": "I just heard a radio advert for Galaxy Buds 2 Pro. That’s a bunch of words that don’t slip off the tongue easily. \n",
+				"date_published": "2022-12-28T17:19:05+00:00",
+				"url": "https://stephenpieper.blog/2022/12/28/i-just-heard.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2022/12/28/i-turned-on.html",
 				
 				"content_html": "<p>I turned on the micro.blog newsletter service and sent myself a copy to see what it looked like. It&rsquo;s nice. I haven&rsquo;t written much here to justify a newsletter but I can see how it would be a great way to keep family members up to date with what I&rsquo;ve been doing.</p>\n",
