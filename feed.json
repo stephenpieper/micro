@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/03/10/wearing-my-badge.html",
+				
+				"content_html": "<p>Wearing my badge for <a href=\"https://wfmu.org/\">WFMU</a> Fundraising Marathon fortnight. Increased my monthly contribution this year because I love this station.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Wearing my badge for [WFMU](https://wfmu.org/) Fundraising Marathon fortnight. Increased my monthly contribution this year because I love this station.\n\n<img src=\"uploads/2023/f7526bde26.jpg\" width=\"518\" height=\"518\" alt=\"Metal WFMU badge featuring a cartoon cat biting a record.\">\n",
+				"date_published": "2023-03-10T23:56:40+00:00",
+				"url": "https://stephenpieper.blog/2023/03/10/wearing-my-badge.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/03/10/im-always-late.html",
+				
+				"content_html": "<p>I&rsquo;m always late to things and so I just finished watching the first season of Reservation Dogs. It&rsquo;s publicised as a comedy but the last few episodes are hugely affecting. It&rsquo;s one of the best things I&rsquo;ve watched in a while. Thoroughly recommended if you haven&rsquo;t seen it yet. 📺</p>\n",
+				"content_text": "I'm always late to things and so I just finished watching the first season of Reservation Dogs. It's publicised as a comedy but the last few episodes are hugely affecting. It's one of the best things I've watched in a while. Thoroughly recommended if you haven't seen it yet. 📺\n",
+				"date_published": "2023-03-10T22:14:34+00:00",
+				"url": "https://stephenpieper.blog/2023/03/10/im-always-late.html",
+				"tags": ["Watched"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/03/08/clear-blue-sky.html",
+				
+				"content_html": "<p>Clear blue sky and bitter cold today. There’s been a trend, here, over the last ten years or so for the worst of winter to come in March. Snow is forecast for tomorrow.</p>\n",
+				"content_text": "Clear blue sky and bitter cold today. There’s been a trend, here, over the last ten years or so for the worst of winter to come in March. Snow is forecast for tomorrow. \n",
+				"date_published": "2023-03-08T17:40:53+00:00",
+				"url": "https://stephenpieper.blog/2023/03/08/clear-blue-sky.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/03/07/im-getting-a.html",
+				
+				"content_html": "<p>I&rsquo;m getting a new desk. The choice was between a nice, solid, Ikea desk with drawers or one with built-in usb chargers and legs that could be raised up or down depending on whether you wanted to sit or stand.</p>\n<p>I chose the one that didn&rsquo;t require a plug.</p>\n",
+				"content_text": "I'm getting a new desk. The choice was between a nice, solid, Ikea desk with drawers or one with built-in usb chargers and legs that could be raised up or down depending on whether you wanted to sit or stand. \n\nI chose the one that didn't require a plug.\n",
+				"date_published": "2023-03-07T23:27:36+00:00",
+				"url": "https://stephenpieper.blog/2023/03/07/im-getting-a.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2023/02/27/when-youre-young.html",
 				
 				"content_html": "<p>When you&rsquo;re young ten years feels like an eternity. When you&rsquo;re older it goes by in a flash.</p>\n",
