@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/03/26/im-not-a.html",
+				
+				"content_html": "<p>I&rsquo;m not a big Nick Cave fan but this New Yorker interview really resonated with me.\n<a href=\"https://www.newyorker.com/culture/the-new-yorker-interview/nick-cave-on-the-fragility-of-life\">Nick Cave on the Fragility of Life</a></p>\n",
+				"content_text": "I'm not a big Nick Cave fan but this New Yorker interview really resonated with me. \n[Nick Cave on the Fragility of Life](https://www.newyorker.com/culture/the-new-yorker-interview/nick-cave-on-the-fragility-of-life)\n",
+				"date_published": "2023-03-26T19:54:32+00:00",
+				"url": "https://stephenpieper.blog/2023/03/26/im-not-a.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/03/24/i-watched-the.html",
+				
+				"content_html": "<p>I watched <a href=\"https://www.imdb.com/title/tt0059319/\">The Ipcress File</a> for the umpteenth time. I can watch it again and again despite knowing all the twists and turns of the plot. It&rsquo;s also my favourite Michael Caine film. 🎥</p>\n",
+				"content_text": "I watched [The Ipcress File](https://www.imdb.com/title/tt0059319/) for the umpteenth time. I can watch it again and again despite knowing all the twists and turns of the plot. It's also my favourite Michael Caine film. 🎥\n",
+				"date_published": "2023-03-24T17:41:36+00:00",
+				"url": "https://stephenpieper.blog/2023/03/24/i-watched-the.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/03/15/its-that-time.html",
+				
+				"content_html": "<p>It&rsquo;s that time of the year when foxes start making their nocturnal noise. I woke up in the middle of the night to what sounded like someone getting murdered at the back of the house. It&rsquo;s a horrible racket.</p>\n",
+				"content_text": "It's that time of the year when foxes start making their nocturnal noise. I woke up in the middle of the night to what sounded like someone getting murdered at the back of the house. It's a horrible racket.\n",
+				"date_published": "2023-03-15T16:32:10+00:00",
+				"url": "https://stephenpieper.blog/2023/03/15/its-that-time.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/03/14/hello-insomnia-my.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😳 Hello insomnia, my old friend. </p>\n",
+				"date_published": "2023-03-14T00:30:08+00:00",
+				"url": "https://stephenpieper.blog/2023/03/14/hello-insomnia-my.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/03/13/happy-with-my.html",
+				
+				"content_html": "<p>Happy with my new desk.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy with my new desk.\n\n<img src=\"uploads/2023/782dc0f397.jpg\" width=\"600\" height=\"450\" alt=\"New white desk with iMac computer and speaker setup. \">\n",
+				"date_published": "2023-03-13T17:53:45+00:00",
+				"url": "https://stephenpieper.blog/2023/03/13/happy-with-my.html",
+				"tags": ["Home"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2023/03/10/wearing-my-badge.html",
 				
 				"content_html": "<p>Wearing my badge for <a href=\"https://wfmu.org/\">WFMU</a> Fundraising Marathon fortnight. Increased my monthly contribution this year because I love this station.</p>\n<!-- raw HTML omitted -->\n",
