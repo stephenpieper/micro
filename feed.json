@@ -1,11 +1,35 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Stephen Pieper",
+	"title": "Stephen's Notebook",
 	"icon": "https://micro.blog/stefp/avatar.jpg",
 	"home_page_url": "https://stephenpieper.blog/",
 	"feed_url": "https://stephenpieper.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://stefp.micro.blog/2023/05/29/found-a-dead.html",
+				
+				"content_html": "<p>Found a dead mouse at my front door this morning.  A gift from one of the local cats.</p>\n",
+				"content_text": "Found a dead mouse at my front door this morning.  A gift from one of the local cats. \n",
+				"date_published": "2023-05-29T11:58:23+00:00",
+				"url": "https://stephenpieper.blog/2023/05/29/found-a-dead.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/05/28/trying-out-one.html",
+				
+				"content_html": "<p>Trying out one of the ChatGTP iOS apps. It seems like the easiest way to try it without opening an account. I wont be continuing with a subscription because it&rsquo;s way too expensive but I&rsquo;m having fun asking for things like &ldquo;write me a thank you email in the style of Groucho Marx&rdquo; while the trial lasts.</p>\n",
+				"content_text": "Trying out one of the ChatGTP iOS apps. It seems like the easiest way to try it without opening an account. I wont be continuing with a subscription because it's way too expensive but I'm having fun asking for things like \"write me a thank you email in the style of Groucho Marx\" while the trial lasts. \n",
+				"date_published": "2023-05-28T12:42:34+00:00",
+				"url": "https://stephenpieper.blog/2023/05/28/trying-out-one.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/05/26/i-bought-these.html",
+				
+				"content_html": "<p>🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They&rsquo;re both described as &ldquo;vintage&rdquo; but I&rsquo;m not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They're both described as \"vintage\" but I'm not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them. \n\n<img src=\"uploads/2023/6bb684d128.jpg\" width=\"600\" height=\"450\" alt=\"Two Pilot Elite fountain pens, uncapped. One black with gold trim. The other has a black barrel and silver/black cap.\">\n",
+				"date_published": "2023-05-26T16:37:39+00:00",
+				"url": "https://stephenpieper.blog/2023/05/26/i-bought-these.html"
+			},
 			{
 				"id": "http://stefp.micro.blog/2023/05/24/farewell-tina-turner.html",
 				
