@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/06/15/i-found-my.html",
+				
+				"content_html": "<p>I found my old Sony Mini Disc player.  It still looks shiny and brand new. I wish I could also find the recording of Alex Chilton I made with it when he played our local Art Centre back in the 90s. He performed a set of cover versions with a couple of Scottish musicians and I&rsquo;m sure it would be of interest to collectors (if I ever found it).</p>\n",
+				"content_text": "I found my old Sony Mini Disc player.  It still looks shiny and brand new. I wish I could also find the recording of Alex Chilton I made with it when he played our local Art Centre back in the 90s. He performed a set of cover versions with a couple of Scottish musicians and I'm sure it would be of interest to collectors (if I ever found it). \n",
+				"date_published": "2023-06-15T11:12:28+00:00",
+				"url": "https://stephenpieper.blog/2023/06/15/i-found-my.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/06/11/heres-a-bit.html",
+				
+				"content_html": "<p>Here&rsquo;s a bit of joyful reading for a Sunday. 🎵</p>\n<p><a href=\"https://www.theguardian.com/music/2023/jun/11/joni-mitchell-review-gorge-amphitheatre-quincy-washington\">Joni Mitchell review – first headline show in two decades is three hours of total joy | Music | The Guardian</a></p>\n",
+				"content_text": "Here's a bit of joyful reading for a Sunday. 🎵\n\n[Joni Mitchell review – first headline show in two decades is three hours of total joy | Music | The Guardian](https://www.theguardian.com/music/2023/jun/11/joni-mitchell-review-gorge-amphitheatre-quincy-washington)\n",
+				"date_published": "2023-06-11T15:22:28+00:00",
+				"url": "https://stephenpieper.blog/2023/06/11/heres-a-bit.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2023/05/29/found-a-dead.html",
 				
 				"content_html": "<p>Found a dead mouse at my front door this morning.  A gift from one of the local cats.</p>\n",
