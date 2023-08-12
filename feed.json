@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/08/07/it-seems-like.html",
+				
+				"content_html": "<p>It seems like all of the things that used to fill up your spam folder are now being advertised on British television channels.</p>\n",
+				"content_text": "It seems like all of the things that used to fill up your spam folder are now being advertised on British television channels.\n",
+				"date_published": "2023-08-07T20:53:31+00:00",
+				"url": "https://stephenpieper.blog/2023/08/07/it-seems-like.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/08/06/five-weeks-in.html",
+				
+				"content_html": "<p>Five weeks in my new place and most of my books and CDs are still packed away in boxes. I like the tidiness. I like the lack of chaos. They might have to stay there for a while longer.</p>\n",
+				"content_text": "Five weeks in my new place and most of my books and CDs are still packed away in boxes. I like the tidiness. I like the lack of chaos. They might have to stay there for a while longer.\n",
+				"date_published": "2023-08-06T22:43:16+00:00",
+				"url": "https://stephenpieper.blog/2023/08/06/five-weeks-in.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2023/07/17/theres-something-satisfying.html",
 				
 				"content_html": "<p>There’s something satisfying about coming home to your own place and locking the door behind you.</p>\n",
@@ -52,7 +68,7 @@
 				"id": "http://stefp.micro.blog/2023/05/26/i-bought-these.html",
 				
 				"content_html": "<p>🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They&rsquo;re both described as &ldquo;vintage&rdquo; but I&rsquo;m not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They're both described as \"vintage\" but I'm not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/6bb684d128.jpg\" width=\"600\" height=\"450\" alt=\"Two Pilot Elite fountain pens, uncapped. One black with gold trim. The other has a black barrel and silver/black cap.\">\n",
+				"content_text": "🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They're both described as \"vintage\" but I'm not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them. \n\n<img src=\"uploads/2023/6bb684d128.jpg\" width=\"600\" height=\"450\" alt=\"Two Pilot Elite fountain pens, uncapped. One black with gold trim. The other has a black barrel and silver/black cap.\">\n",
 				"date_published": "2023-05-26T16:37:39+00:00",
 				"url": "https://stephenpieper.blog/2023/05/26/i-bought-these.html"
 			},
