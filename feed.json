@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/09/21/i-went-to.html",
+				
+				"content_html": "<p>I went to the cinema last night for the first time In ages and it was a nice experience. Comfy reclining seats, an idiot-free audience, and Dazed and Confused was just as fun as I remembered.</p>\n",
+				"content_text": "I went to the cinema last night for the first time In ages and it was a nice experience. Comfy reclining seats, an idiot-free audience, and Dazed and Confused was just as fun as I remembered. \n",
+				"date_published": "2023-09-21T14:26:23+00:00",
+				"url": "https://stephenpieper.blog/2023/09/21/i-went-to.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/09/15/currently-reading-left.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781408857465\">Left Bank</a> by Agnès Poirier 📚</p>\n",
+				"content_text": "Currently reading: [Left Bank](https://micro.blog/books/9781408857465) by Agnès Poirier 📚\n",
+				"date_published": "2023-09-15T19:35:54+00:00",
+				"url": "https://stephenpieper.blog/2023/09/15/currently-reading-left.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2023/08/16/this-evenings-view.html",
 				
 				"content_html": "<p>This evening&rsquo;s view from the eleventh floor.</p>\n<!-- raw HTML omitted -->\n",
