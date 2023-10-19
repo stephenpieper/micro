@@ -7,11 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/10/05/its-one-of.html",
+				
+				"content_html": "<p>It&rsquo;s one of those days.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It's one of those days.\n\n<img src=\"uploads/2023/dragon.jpg\" width=\"600\" height=\"450\" alt=\"Model of a sleeping, green, dragon, on a window sill. Evidence of rain on the window pane.\">\n",
+				"date_published": "2023-10-05T16:14:22+00:00",
+				"url": "https://stephenpieper.blog/2023/10/05/its-one-of.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/10/03/currently-reading-inherent.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780099542162\">Inherent Vice</a> by Thomas Pynchon 📚</p>\n",
+				"content_text": "Currently reading: [Inherent Vice](https://micro.blog/books/9780099542162) by Thomas Pynchon 📚\n",
+				"date_published": "2023-10-03T00:14:41+00:00",
+				"url": "https://stephenpieper.blog/2023/10/03/currently-reading-inherent.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/10/03/three-months-living.html",
+				
+				"content_html": "<p>Three months living in the new flat now and the novelty is starting to wear off (a good thing). The sense of being on holiday has gone and I realise now that this is it for the foreseeable future. It has been a tough year, full of upheaval, that I haven’t fully come to terms with yet.</p>\n",
+				"content_text": "Three months living in the new flat now and the novelty is starting to wear off (a good thing). The sense of being on holiday has gone and I realise now that this is it for the foreseeable future. It has been a tough year, full of upheaval, that I haven’t fully come to terms with yet. \n",
+				"date_published": "2023-10-02T23:00:51+00:00",
+				"url": "https://stephenpieper.blog/2023/10/03/three-months-living.html",
+				"tags": ["Home"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2023/10/01/cooked-a-steak.html",
 				
 				"content_html": "<p>Cooked a steak in the air fryer tonight and I feel like I’ve levelled up. Pre-heated the air fryer for five minutes at 200C and then cooked each side of the steak for seven minutes which was maybe a bit too long but it turned out fine. I’ll adjust next time.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Cooked a steak in the air fryer tonight and I feel like I’ve levelled up. Pre-heated the air fryer for five minutes at 200C and then cooked each side of the steak for seven minutes which was maybe a bit too long but it turned out fine. I’ll adjust next time. \n\n<img src=\"uploads/2023/5163fc22c1.jpg\" width=\"600\" height=\"297\" alt=\"Steak cooked in an air fryer\">\n",
-				"date_published": "2023-10-01T21:31:47+01:00",
+				"date_published": "2023-10-01T20:31:47+00:00",
 				"url": "https://stephenpieper.blog/2023/10/01/cooked-a-steak.html",
 				"tags": ["Home"]
 			},
@@ -20,7 +46,7 @@
 				
 				"content_html": "<p>This does not sound good.</p>\n<blockquote>\n<p>Asked whether artist revenue shares, user experience, or the editorial platform Bandcamp Daily will be affected by the acquisition, Songtradr declined to comment.Source: <a href=\"https://pitchfork.com/news/epic-games-sells-bandcamp-amid-layoffs/\">Epic Games Sells Bandcamp Amid Layoffs | Pitchfork</a></p>\n</blockquote>\n",
 				"content_text": "This does not sound good.\r\n\r\n>  Asked whether artist revenue shares, user experience, or the editorial platform Bandcamp Daily will be affected by the acquisition, Songtradr declined to comment.Source: [Epic Games Sells Bandcamp Amid Layoffs | Pitchfork](https://pitchfork.com/news/epic-games-sells-bandcamp-amid-layoffs/)\n",
-				"date_published": "2023-09-29T15:04:19+01:00",
+				"date_published": "2023-09-29T14:04:19+00:00",
 				"url": "https://stephenpieper.blog/2023/09/29/this-does-not.html"
 			},
 			{
@@ -28,7 +54,7 @@
 				
 				"content_html": "<p>I think the world might be a bit nicer if people said &ldquo;I don&rsquo;t know&rdquo; more often.</p>\n",
 				"content_text": "I think the world might be a bit nicer if people said \"I don't know\" more often.\n",
-				"date_published": "2023-09-26T17:23:27+01:00",
+				"date_published": "2023-09-26T16:23:27+00:00",
 				"url": "https://stephenpieper.blog/2023/09/26/i-think-the.html"
 			},
 			{
@@ -36,7 +62,7 @@
 				
 				"content_html": "<p>I went to the cinema last night for the first time In ages and it was a nice experience. Comfy reclining seats, an idiot-free audience, and Dazed and Confused was just as fun as I remembered.</p>\n",
 				"content_text": "I went to the cinema last night for the first time In ages and it was a nice experience. Comfy reclining seats, an idiot-free audience, and Dazed and Confused was just as fun as I remembered. \n",
-				"date_published": "2023-09-21T15:26:23+01:00",
+				"date_published": "2023-09-21T14:26:23+00:00",
 				"url": "https://stephenpieper.blog/2023/09/21/i-went-to.html"
 			},
 			{
@@ -44,7 +70,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781408857465\">Left Bank</a> by Agnès Poirier 📚</p>\n",
 				"content_text": "Currently reading: [Left Bank](https://micro.blog/books/9781408857465) by Agnès Poirier 📚\n",
-				"date_published": "2023-09-15T20:35:54+01:00",
+				"date_published": "2023-09-15T19:35:54+00:00",
 				"url": "https://stephenpieper.blog/2023/09/15/currently-reading-left.html",
 				"tags": ["Books"]
 			},
@@ -52,8 +78,8 @@
 				"id": "http://stefp.micro.blog/2023/08/16/this-evenings-view.html",
 				
 				"content_html": "<p>This evening&rsquo;s view from the eleventh floor.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This evening's view from the eleventh floor.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"View across town towards a red sunset.\">\n",
-				"date_published": "2023-08-16T23:28:04+01:00",
+				"content_text": "This evening's view from the eleventh floor.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"View across town towards a red sunset.\">\n",
+				"date_published": "2023-08-16T22:28:04+00:00",
 				"url": "https://stephenpieper.blog/2023/08/16/this-evenings-view.html",
 				"tags": ["Home"]
 			},
