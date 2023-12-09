@@ -7,13 +7,21 @@
 	"items": [
 		
 			{
-				"id": "http://stefp.micro.blog/2023/12/01/i-watched-the.html",
+				"id": "http://stefp.micro.blog/2023/12/09/recently-read-my.html",
 				
-				"content_html": "<p>I watched the new episodes of Slow Horses today. Very good start. The way they ranked the importance of secret files with Beatles names made me chuckle.</p>\n",
-				"content_text": "I watched the new episodes of Slow Horses today. Very good start. The way they ranked the importance of secret files with Beatles names made me chuckle.\n",
-				"date_published": "2023-12-01T21:09:45+00:00",
-				"url": "https://stephenpieper.blog/2023/12/01/i-watched-the.html",
-				"tags": ["Watched"]
+				"content_html": "<p>Recently Read: <a href=\"https://micro.blog/books/9780063159426\">My Effin' Life</a> by Geddy Lee 📚</p>\n",
+				"content_text": "Recently Read: [My Effin' Life](https://micro.blog/books/9780063159426) by Geddy Lee 📚\n",
+				"date_published": "2023-12-09T13:29:39+00:00",
+				"url": "https://stephenpieper.blog/2023/12/09/recently-read-my.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2023/12/03/snowy-view-from.html",
+				
+				"content_html": "<p>Snowy view from the 11th floor.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snowy view from the 11th floor.\n\n<img src=\"uploads/2023/rooftops.jpeg\" width=\"600\" height=\"450\" alt=\"View across snowy rooftops.\">\n",
+				"date_published": "2023-12-03T15:19:33+00:00",
+				"url": "https://stephenpieper.blog/2023/12/03/snowy-view-from.html"
 			},
 			{
 				"id": "http://stefp.micro.blog/2023/10/05/its-one-of.html",
@@ -2605,7 +2613,7 @@
 			{
 				"id": "http://stefp.micro.blog/2018/10/08/google-shutting-down.html",
 				
-				"content_html": "<p><a href=\"https://www.bbc.co.uk/news/technology-45792349\">Google+ shutting down after users&rsquo; data is exposed - BBC News</a></p>\n<blockquote>\n<p>Google is shutting down much of its social network, Google+, after user data was left exposed.\nIt said a bug in its software meant information that people believed was private had been accessible by third parties.\nGoogle said up to 500,000 users had been affected</p>\n</blockquote>\n<p>Good grief.</p>\n",
+				"content_html": "<p><a href=\"https://www.bbc.co.uk/news/technology-45792349\">Google+ shutting down after users' data is exposed - BBC News</a></p>\n<blockquote>\n<p>Google is shutting down much of its social network, Google+, after user data was left exposed.\nIt said a bug in its software meant information that people believed was private had been accessible by third parties.\nGoogle said up to 500,000 users had been affected</p>\n</blockquote>\n<p>Good grief.</p>\n",
 				"content_text": "[Google+ shutting down after users' data is exposed - BBC News](https://www.bbc.co.uk/news/technology-45792349)\n\n>Google is shutting down much of its social network, Google+, after user data was left exposed.\nIt said a bug in its software meant information that people believed was private had been accessible by third parties.\nGoogle said up to 500,000 users had been affected\n\nGood grief. \n",
 				"date_published": "2018-10-08T22:41:22+00:00",
 				"url": "https://stephenpieper.blog/2018/10/08/google-shutting-down.html"
