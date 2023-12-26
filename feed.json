@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2023/12/26/i-was-given.html",
+				
+				"content_html": "<p>I was given a Medinilla plant as a Christmas gift this year. I&rsquo;ve read several times that growing, and looking after a houseplant, can be a source of happiness. Let&rsquo;s see if there&rsquo;s any truth to that.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I was given a Medinilla plant as a Christmas gift this year. I've read several times that growing, and looking after a houseplant, can be a source of happiness. Let's see if there's any truth to that. \n\n<img src=\"uploads/2023/plant.jpeg\" width=\"600\" height=\"600\" alt=\"A potted Medinilla plant sitting on a white indoor window ledge.\">\n",
+				"date_published": "2023-12-26T00:15:22+00:00",
+				"url": "https://stephenpieper.blog/2023/12/26/i-was-given.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2023/12/15/deactivated-my-twitter.html",
 				
 				"content_html": "<p>Deactivated my Twitter account today. Thanks to <a href=\"https://micro.blog/manton\">@manton</a> and micro.blog I have a nice, readable, archive of all of my old tweets. The older ones are a nice reminder of what an enjoyable place Twitter used to be.</p>\n",
