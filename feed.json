@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/03/04/i-grew-up.html",
+				
+				"content_html": "<p>I grew up listening to Radio Clyde. That was when you could hear pop music during the day and rock, folk, jazz, and all sorts, late in the evening. All on a commercial radio station. Changed days. <a href=\"https://www.bbc.co.uk/news/uk-scotland-glasgow-west-67830190.amp\">Radio Clyde: Marking 50 years of Glasgow voices on the radio - BBC News</a></p>\n",
+				"content_text": "I grew up listening to Radio Clyde. That was when you could hear pop music during the day and rock, folk, jazz, and all sorts, late in the evening. All on a commercial radio station. Changed days. [Radio Clyde: Marking 50 years of Glasgow voices on the radio - BBC News](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-67830190.amp)\n",
+				"date_published": "2024-03-04T15:50:31+00:00",
+				"url": "https://stephenpieper.net/2024/03/04/i-grew-up.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/02/21/as-a-rule.html",
 				
 				"content_html": "<p>“As a rule, distrust those who use the word &ldquo;iconic,&rdquo; unless they specialize in the art of the Orthodox Church.”</p>\n<p>Anthony Lane in a recent New Yorker review.</p>\n<p>Everything is “iconic” these days.</p>\n",
@@ -1473,7 +1481,7 @@
 				"id": "http://stefp.micro.blog/2021/03/21/i-found-a.html",
 				
 				"content_html": "<p>I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy&hellip;Nels Cline&hellip;?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy...Nels Cline...?\n\n<img src=\"uploads/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" />\n",
+				"content_text": "I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy...Nels Cline...?\n\n<img src=\"https://cdn.uploads.micro.blog/110/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" />\n",
 				"date_published": "2021-03-21T16:25:02+00:00",
 				"url": "https://stephenpieper.net/2021/03/21/i-found-a.html"
 			},
