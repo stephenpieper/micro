@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/04/09/started-to-read.html",
+				
+				"content_html": "<p>Started to read: <a href=\"https://micro.blog/books/9780307364197\">A History of Reading</a> by Alberto Manguel 📚</p>\n",
+				"content_text": "Started to read: [A History of Reading](https://micro.blog/books/9780307364197) by Alberto Manguel 📚\n",
+				"date_published": "2024-04-09T00:42:23+01:00",
+				"url": "https://stephenpieper.net/2024/04/09/started-to-read.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/03/19/red-sky-at.html",
 				
 				"content_html": "<p>Red sky at night, shepherd&rsquo;s delight.</p>\n<!-- raw HTML omitted -->\n",
