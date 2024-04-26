@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/04/26/link-creative-good.html",
+				
+				"content_html": "<p>Link: <a href=\"https://creativegood.com/blog/24/robots-vs-typewriters.html\">Creative Good - To resist the robots, get a typewriter</a></p>\n<p>Nice list of reasons for why typewriters are superior to robots.</p>\n",
+				"content_text": "Link: [Creative Good - To resist the robots, get a typewriter](https://creativegood.com/blog/24/robots-vs-typewriters.html)\r\n\r\nNice list of reasons for why typewriters are superior to robots. \n",
+				"date_published": "2024-04-26T22:56:06+01:00",
+				"url": "https://stephenpieper.net/2024/04/26/link-creative-good.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/04/25/the-length-of.html",
+				
+				"content_html": "<blockquote>\n<p>“The length of a film should be directly related to the endurance of the human bladder.”</p>\n</blockquote>\n<p>Attributed to Alfred Hitchcock. The older I get the more I agree with this.</p>\n",
+				"content_text": ">“The length of a film should be directly related to the endurance of the human bladder.”\r\n\r\nAttributed to Alfred Hitchcock. The older I get the more I agree with this. \r\n\r\n",
+				"date_published": "2024-04-25T22:49:46+01:00",
+				"url": "https://stephenpieper.net/2024/04/25/the-length-of.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/04/23/theres-always-plenty.html",
+				
+				"content_html": "<p>There&rsquo;s always plenty of money for more bombs and guns.</p>\n",
+				"content_text": "There's always plenty of money for more bombs and guns. \n",
+				"date_published": "2024-04-23T15:36:20+01:00",
+				"url": "https://stephenpieper.net/2024/04/23/theres-always-plenty.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/04/21/i-changed-my.html",
+				
+				"content_html": "<p>I changed my working hours last month and I don’t have to work Mondays anymore. What a difference it makes not to have that Sunday night dread of having to be up, and ready, early on the Monday morning.</p>\n",
+				"content_text": "I changed my working hours last month and I don’t have to work Mondays anymore. What a difference it makes not to have that Sunday night dread of having to be up, and ready, early on the Monday morning. \n",
+				"date_published": "2024-04-21T23:26:46+01:00",
+				"url": "https://stephenpieper.net/2024/04/21/i-changed-my.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/04/21/another-spectacular-red.html",
+				
+				"content_html": "<p>Another spectacular red sky here tonight. I&rsquo;m thinking about using one of my extra micro.blog sites as a daily &ldquo;view from my window&rdquo; photo blog.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another spectacular red sky here tonight. I'm thinking about using one of my extra micro.blog sites as a daily \"view from my window\" photo blog. \r\n\r\n<img src=\"uploads/2024/c5a856d4bd.jpg\" width=\"600\" height=\"382\" alt=\"view from my window, very red tinged evening skyline\">\n",
+				"date_published": "2024-04-21T21:53:19+01:00",
+				"url": "https://stephenpieper.net/2024/04/21/another-spectacular-red.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/04/18/listened-to-the.html",
 				
 				"content_html": "<p>Listened to the <a href=\"https://mubi.buzzsprout.com/1788738/14855748-perfect-days-wim-wenders-cures-his-post-pandemic-blues\">Mubi podcast</a>.</p>\n<blockquote>\n<p>Legendary filmmaker Wim Wenders returns to the show to tell host Rico Gagliano about his Cannes-winning, Oscar-nominated PERFECT DAYS—the story of a Tokyo toilet cleaner who finds joy in routine. They also get into a few of Wenders’s favorite things: Japan, travel, Nina Simone, and having time on his hands</p>\n</blockquote>\n<p>Beautiful film.</p>\n",
@@ -28,7 +70,7 @@
 				"id": "http://stefp.micro.blog/2024/04/17/playing-chess-for.html",
 				
 				"content_html": "<p>Playing chess for the first time in years. I&rsquo;m still not very good.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Playing chess for the first time in years. I'm still not very good.\n\n<img src=\"uploads/2024/chess.jpg\" width=\"600\" height=\"529\" alt=\"Chess game in progress. Black bishop in focus at foreground.\">\n",
+				"content_text": "Playing chess for the first time in years. I'm still not very good.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/chess.jpg\" width=\"600\" height=\"529\" alt=\"Chess game in progress. Black bishop in focus at foreground.\">\n",
 				"date_published": "2024-04-17T21:45:00+01:00",
 				"url": "https://stephenpieper.net/2024/04/17/playing-chess-for.html"
 			},
@@ -63,7 +105,7 @@
 				"id": "http://stefp.micro.blog/2024/03/19/red-sky-at.html",
 				
 				"content_html": "<p>Red sky at night, shepherd&rsquo;s delight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Red sky at night, shepherd's delight. \n\n<img src=\"uploads/2024/sky.jpg\" width=\"600\" height=\"450\" alt=\"Evening sky, vivid orange/red, some clouds. Distant hills.\">\n",
+				"content_text": "Red sky at night, shepherd's delight. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/sky.jpg\" width=\"600\" height=\"450\" alt=\"Evening sky, vivid orange/red, some clouds. Distant hills.\">\n",
 				"date_published": "2024-03-19T18:57:00+01:00",
 				"url": "https://stephenpieper.net/2024/03/19/red-sky-at.html"
 			},
