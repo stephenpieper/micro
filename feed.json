@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/05/03/almost-forgot-about.html",
+				
+				"content_html": "<p>Almost forgot about the upcoming <a href=\"https://www.yesworld.com/live/\">Yes concert</a> in Glasgow. My ticket for last year&rsquo;s cancelled show is still valid. The current lineup gets a lot of stick (&ldquo;Tribute band!&quot;) but as long as Steve Howe is still there I&rsquo;m on board.</p>\n",
+				"content_text": "Almost forgot about the upcoming [Yes concert](https://www.yesworld.com/live/) in Glasgow. My ticket for last year's cancelled show is still valid. The current lineup gets a lot of stick (\"Tribute band!\") but as long as Steve Howe is still there I'm on board.\n",
+				"date_published": "2024-05-03T23:26:26+01:00",
+				"url": "https://stephenpieper.net/2024/05/03/almost-forgot-about.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/05/01/logged-into-my.html",
 				
 				"content_html": "<p>Logged into my old Gmail account for probably the last time time before I shut it down. I had to check that one important message source had stopped going there. The amount of spam in the inbox is incredible. It seems to flow in by the hour. Gmail used to have great spam blocking. Good riddance.</p>\n",
