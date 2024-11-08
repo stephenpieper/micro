@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/11/06/it-is-like.html",
+				
+				"content_html": "<blockquote>\n<p>It is like democracy is a bottle someone can threaten to smash and do a bit of damage with. It has become a time of people saying stuff to each other and none of it actually ever becoming dialogue.\nIt is the end of dialogue.</p>\n</blockquote>\n<p>From Autumn by Ali Smith.</p>\n",
+				"content_text": ">It is like democracy is a bottle someone can threaten to smash and do a bit of damage with. It has become a time of people saying stuff to each other and none of it actually ever becoming dialogue. \n>It is the end of dialogue.\n\nFrom Autumn by Ali Smith. \n",
+				"date_published": "2024-11-06T14:46:52+00:00",
+				"url": "https://stephenpieper.net/2024/11/06/it-is-like.html",
+				"tags": ["Books","Commonplace"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/11/05/started-to-read.html",
+				
+				"content_html": "<p>Started to read: <a href=\"https://micro.blog/books/9781509864836\">Mayday</a> by Jackie Kay. I don&rsquo;t read a lot of poetry but the blurb on the back cover struck a few emotional chords.  📚</p>\n",
+				"content_text": "Started to read: [Mayday](https://micro.blog/books/9781509864836) by Jackie Kay. I don't read a lot of poetry but the blurb on the back cover struck a few emotional chords.  📚\n",
+				"date_published": "2024-11-05T19:06:53+00:00",
+				"url": "https://stephenpieper.net/2024/11/05/started-to-read.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/11/04/read-nobodys-empire.html",
+				
+				"content_html": "<p>Read: <a href=\"https://micro.blog/books/9780063383456\">Nobody&rsquo;s Empire</a> by Stuart Murdoch. Very enjoyable debut by the Belle and Sebastian singer/songwriter. Obviously very autobiographical. Recommended to any fans of the band. 📚</p>\n",
+				"content_text": "Read: [Nobody's Empire](https://micro.blog/books/9780063383456) by Stuart Murdoch. Very enjoyable debut by the Belle and Sebastian singer/songwriter. Obviously very autobiographical. Recommended to any fans of the band. 📚\n",
+				"date_published": "2024-11-04T23:13:02+00:00",
+				"url": "https://stephenpieper.net/2024/11/04/read-nobodys-empire.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/10/29/we-and-our.html",
 				
 				"content_html": "<blockquote>\n<p>We and our 854 partners store and access personal data, like browsing data or unique identifiers, on your device.</p>\n</blockquote>\n<p>Nope.</p>\n",
