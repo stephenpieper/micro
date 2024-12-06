@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/12/03/currently-reading-syd.html",
+				
+				"content_html": "<p>Currently reading : <a href=\"https://micro.blog/books/9780571258406\">Syd Barrett</a> by Rob Chapman 📚</p>\n",
+				"content_text": "Currently reading : [Syd Barrett](https://micro.blog/books/9780571258406) by Rob Chapman 📚\n",
+				"date_published": "2024-12-03T00:00:19+00:00",
+				"url": "https://stephenpieper.net/2024/12/03/currently-reading-syd.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/12/02/ive-lost-whamageddon.html",
+				
+				"content_html": "<p>I’ve lost Whamageddon again. If you go anywhere near a UK shopping centre at this time of the year you’re guaranteed to hear that darn song.</p>\n",
+				"content_text": "I’ve lost Whamageddon again. If you go anywhere near a UK shopping centre at this time of the year you’re guaranteed to hear that darn song. \n",
+				"date_published": "2024-12-02T17:01:48+00:00",
+				"url": "https://stephenpieper.net/2024/12/02/ive-lost-whamageddon.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/12/01/i-got-my.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>I got my little Christmas tree out. It&rsquo;s small but it gets the job done.</p>\n",
+				"content_text": "<img src=\"uploads/2024/tree.jpg\" width=\"600\" height=\"600\" alt=\"A small, decorated Christmas tree with colorful lights is placed between a television and a wooden chest in a living room with framed art on the wall.\">\r\n\r\nI got my little Christmas tree out. It's small but it gets the job done.\r\n\r\n",
+				"date_published": "2024-12-01T20:04:42+00:00",
+				"url": "https://stephenpieper.net/2024/12/01/i-got-my.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/11/29/getting-my-moneys.html",
 				
 				"content_html": "<p>Getting my money&rsquo;s worth from the Criterion Channel sub this month. I&rsquo;ve been on a bit of a Noirvember/Ida Lupino crossover binge. 🎥</p>\n",
