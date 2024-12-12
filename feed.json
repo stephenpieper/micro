@@ -27,7 +27,7 @@
 				"id": "http://stefp.micro.blog/2024/12/01/i-got-my.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>I got my little Christmas tree out. It&rsquo;s small but it gets the job done.</p>\n",
-				"content_text": "<img src=\"uploads/2024/tree.jpg\" width=\"600\" height=\"600\" alt=\"A small, decorated Christmas tree with colorful lights is placed between a television and a wooden chest in a living room with framed art on the wall.\">\r\n\r\nI got my little Christmas tree out. It's small but it gets the job done.\r\n\r\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/110/2024/tree.jpg\" width=\"600\" height=\"600\" alt=\"A small, decorated Christmas tree with colorful lights is placed between a television and a wooden chest in a living room with framed art on the wall.\">\r\n\r\nI got my little Christmas tree out. It's small but it gets the job done.\r\n\r\n",
 				"date_published": "2024-12-01T20:04:42+00:00",
 				"url": "https://stephenpieper.net/2024/12/01/i-got-my.html"
 			},
