@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/12/17/190751.html",
+				
+				"content_html": "<p>Impressive Christmas reindeer.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Impressive Christmas reindeer.\n\n<img src=\"uploads/2024/reindeer.jpg\" width=\"600\" height=\"643\" alt=\"A large, geometric golden reindeer sculpture is displayed in a shopping mall.\">\n",
+				"date_published": "2024-12-17T19:07:51+00:00",
+				"url": "https://stephenpieper.net/2024/12/17/190751.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/12/13/giving-this-app.html",
+				
+				"content_html": "<p>Giving this app a try. I’m a pen/paper person when it comes to todo lists but if I was going to use an app full time then I think this would fit my simple needs. <a href=\"https://today.semantical.com/\">Today Beta | A Semantical App</a></p>\n",
+				"content_text": "Giving this app a try. I’m a pen/paper person when it comes to todo lists but if I was going to use an app full time then I think this would fit my simple needs. [Today Beta | A Semantical App](https://today.semantical.com/)\n",
+				"date_published": "2024-12-13T23:40:01+00:00",
+				"url": "https://stephenpieper.net/2024/12/13/giving-this-app.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/12/12/a-late-entry.html",
+				
+				"content_html": "<p>A late entry to my favourite albums of the year. This is gorgeous. <a href=\"https://theinnocencemission.bandcamp.com/album/midwinter-swimmers\">the innocence mission - Midwinter Swimmers</a> 🎵</p>\n",
+				"content_text": "A late entry to my favourite albums of the year. This is gorgeous. [the innocence mission - Midwinter Swimmers](https://theinnocencemission.bandcamp.com/album/midwinter-swimmers) 🎵\n",
+				"date_published": "2024-12-12T22:16:53+00:00",
+				"url": "https://stephenpieper.net/2024/12/12/a-late-entry.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/12/03/currently-reading-syd.html",
 				
 				"content_html": "<p>Currently reading : <a href=\"https://micro.blog/books/9780571258406\">Syd Barrett</a> by Rob Chapman 📚</p>\n",
@@ -112,7 +138,7 @@
 				"id": "http://stefp.micro.blog/2024/10/28/i-dont-usually.html",
 				
 				"content_html": "<p>I don&rsquo;t usually like the food outlets at big shopping malls but this one place does a great calzone. I&rsquo;ve had this before and couldn&rsquo;t finish it but today it was all gone.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don't usually like the food outlets at big shopping malls but this one place does a great calzone. I've had this before and couldn't finish it but today it was all gone.\r\n\r\n<img src=\"uploads/2024/calzone.jpg\" width=\"600\" height=\"450\" alt=\"A calzone topped with grated cheese is served on a plate with a fresh salad and a side of tomato sauce, accompanied by two glasses of cola.\">\r\n\r\n\r\n",
+				"content_text": "I don't usually like the food outlets at big shopping malls but this one place does a great calzone. I've had this before and couldn't finish it but today it was all gone.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2024/calzone.jpg\" width=\"600\" height=\"450\" alt=\"A calzone topped with grated cheese is served on a plate with a fresh salad and a side of tomato sauce, accompanied by two glasses of cola.\">\r\n\r\n\r\n",
 				"date_published": "2024-10-28T20:37:03+00:00",
 				"url": "https://stephenpieper.net/2024/10/28/i-dont-usually.html"
 			},
@@ -120,7 +146,7 @@
 				"id": "http://stefp.micro.blog/2024/10/28/out-shopping-today.html",
 				
 				"content_html": "<p>Out shopping today, in Glasgow, for a new kettle. Decided on this rather smart one&hellip;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Out shopping today, in Glasgow, for a new kettle. Decided on this rather smart one.... \r\n\r\n<img src=\"uploads/2024/kettle.jpg\" width=\"600\" height=\"439\" alt=\"A stainless steel electric kettle with a red central band is placed on a countertop.\">\r\n\r\n",
+				"content_text": "Out shopping today, in Glasgow, for a new kettle. Decided on this rather smart one.... \r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2024/kettle.jpg\" width=\"600\" height=\"439\" alt=\"A stainless steel electric kettle with a red central band is placed on a countertop.\">\r\n\r\n",
 				"date_published": "2024-10-28T20:35:56+00:00",
 				"url": "https://stephenpieper.net/2024/10/28/out-shopping-today.html"
 			},
@@ -172,7 +198,7 @@
 				"id": "http://stefp.micro.blog/2024/08/06/back-to-book.html",
 				
 				"content_html": "<p>Back to book shopping this week. It&rsquo;s funny how Waterstones used to be the big bullies out to destroy all other bookshops back in the 90s. Now buying stuff there feels like rebellion. Anyway I&rsquo;m looking forward to reading this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back to book shopping this week. It's funny how Waterstones used to be the big bullies out to destroy all other bookshops back in the 90s. Now buying stuff there feels like rebellion. Anyway I'm looking forward to reading this. \r\n\r\n<img src=\"uploads/2024/scotbook.jpg\" width=\"600\" height=\"800\" alt=\"A book titled Postcards from Scotland: Scottish Independent Music 1983-1995 by Grant McPhee is seen, placed atop some papers.\">\n",
+				"content_text": "Back to book shopping this week. It's funny how Waterstones used to be the big bullies out to destroy all other bookshops back in the 90s. Now buying stuff there feels like rebellion. Anyway I'm looking forward to reading this. \r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2024/scotbook.jpg\" width=\"600\" height=\"800\" alt=\"A book titled Postcards from Scotland: Scottish Independent Music 1983-1995 by Grant McPhee is seen, placed atop some papers.\">\n",
 				"date_published": "2024-08-06T16:39:32+00:00",
 				"url": "https://stephenpieper.net/2024/08/06/back-to-book.html",
 				"tags": ["Books"]
@@ -207,7 +233,7 @@
 				"id": "http://stefp.micro.blog/2024/06/25/big-fire-to.html",
 				
 				"content_html": "<p>Big fire to the west of Glasgow a couple of nights ago. It was well over ten miles from here and I could see the smoke from my window.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Big fire to the west of Glasgow a couple of nights ago. It was well over ten miles from here and I could see the smoke from my window. \n\n<img src=\"uploads/2024/img-0102.jpeg\" width=\"600\" height=\"450\" alt=\"A plume of dark smoke rises from a distant area beneath a sunset sky, with silhouetted buildings and trees in the foreground.\">\n",
+				"content_text": "Big fire to the west of Glasgow a couple of nights ago. It was well over ten miles from here and I could see the smoke from my window. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/img-0102.jpeg\" width=\"600\" height=\"450\" alt=\"A plume of dark smoke rises from a distant area beneath a sunset sky, with silhouetted buildings and trees in the foreground.\">\n",
 				"date_published": "2024-06-25T21:52:00+00:00",
 				"url": "https://stephenpieper.net/2024/06/25/big-fire-to.html"
 			},
@@ -233,7 +259,7 @@
 				"id": "http://stefp.micro.blog/2024/05/25/my-usual-online.html",
 				
 				"content_html": "<p>My usual online notebook source had a sale and I couldn&rsquo;t resist. I love the Hobonichi notebooks. They&rsquo;re expensive but I actually use these and fill them up. It&rsquo;s nice to have some different cover designs (the cat one is great).</p>\n<p><!-- raw HTML omitted --></p>\n",
-				"content_text": "My usual online notebook source had a sale and I couldn't resist. I love the Hobonichi notebooks. They're expensive but I actually use these and fill them up. It's nice to have some different cover designs (the cat one is great).\r\n\r\n<img src=\"uploads/2024/notebooks.jpg\" width=\"600\" height=\"490\" alt=\"A\r\n collection of notebooks and journals, some with unique covers and \r\nothers labeled by their types and sizes, are displayed on a wooden \r\nsurface.\">\n",
+				"content_text": "My usual online notebook source had a sale and I couldn't resist. I love the Hobonichi notebooks. They're expensive but I actually use these and fill them up. It's nice to have some different cover designs (the cat one is great).\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2024/notebooks.jpg\" width=\"600\" height=\"490\" alt=\"A\r\n collection of notebooks and journals, some with unique covers and \r\nothers labeled by their types and sizes, are displayed on a wooden \r\nsurface.\">\n",
 				"date_published": "2024-05-25T13:23:23+00:00",
 				"url": "https://stephenpieper.net/2024/05/25/my-usual-online.html",
 				"tags": ["Stationary"]
@@ -251,7 +277,7 @@
 				"id": "http://stefp.micro.blog/2024/05/12/i-found-a.html",
 				
 				"content_html": "<p>I found a decent frame for my Jacques Tati film poster at last. It&rsquo;s big but looks pretty good on this wall.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I found a decent frame for my Jacques Tati film poster at last. It's big but looks pretty good on this wall.\n\n<img src=\"uploads/2024/img-0323.jpg\" width=\"468\" height=\"600\" alt=\"A framed poster for the film Mon Oncle (directed by Jacques Tati) hanging on a wall.\">\n",
+				"content_text": "I found a decent frame for my Jacques Tati film poster at last. It's big but looks pretty good on this wall.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/img-0323.jpg\" width=\"468\" height=\"600\" alt=\"A framed poster for the film Mon Oncle (directed by Jacques Tati) hanging on a wall.\">\n",
 				"date_published": "2024-05-12T19:06:11+00:00",
 				"url": "https://stephenpieper.net/2024/05/12/i-found-a.html",
 				"tags": ["Films"]
@@ -303,7 +329,7 @@
 				"id": "http://stefp.micro.blog/2024/04/30/first-tea-of.html",
 				
 				"content_html": "<p>First tea of the day has great revivifying powers. Just needs a little milk.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First tea of the day has great revivifying powers. Just needs a little milk.\n\n<img src=\"uploads/2024/tea.jpg\" width=\"600\" height=\"600\" alt=\"Mug of tea, and kettle, on counter top.\">\n",
+				"content_text": "First tea of the day has great revivifying powers. Just needs a little milk.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/tea.jpg\" width=\"600\" height=\"600\" alt=\"Mug of tea, and kettle, on counter top.\">\n",
 				"date_published": "2024-04-30T16:37:43+00:00",
 				"url": "https://stephenpieper.net/2024/04/30/first-tea-of.html",
 				"tags": ["Home"]
@@ -373,7 +399,7 @@
 				"id": "http://stefp.micro.blog/2024/04/21/another-spectacular-red.html",
 				
 				"content_html": "<p>Another spectacular red sky here tonight. I&rsquo;m thinking about using one of my extra micro.blog sites as a daily &ldquo;view from my window&rdquo; photo blog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another spectacular red sky here tonight. I'm thinking about using one of my extra micro.blog sites as a daily \"view from my window\" photo blog. \r\n\r\n<img src=\"uploads/2024/c5a856d4bd.jpg\" width=\"600\" height=\"382\" alt=\"view from my window, very red tinged evening skyline\">\n",
+				"content_text": "Another spectacular red sky here tonight. I'm thinking about using one of my extra micro.blog sites as a daily \"view from my window\" photo blog. \r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2024/c5a856d4bd.jpg\" width=\"600\" height=\"382\" alt=\"view from my window, very red tinged evening skyline\">\n",
 				"date_published": "2024-04-21T20:53:19+00:00",
 				"url": "https://stephenpieper.net/2024/04/21/another-spectacular-red.html"
 			},
@@ -399,7 +425,7 @@
 				"id": "http://stefp.micro.blog/2024/04/17/playing-chess-for.html",
 				
 				"content_html": "<p>Playing chess for the first time in years. I&rsquo;m still not very good.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Playing chess for the first time in years. I'm still not very good.\n\n<img src=\"uploads/2024/chess.jpg\" width=\"600\" height=\"529\" alt=\"Chess game in progress. Black bishop in focus at foreground.\">\n",
+				"content_text": "Playing chess for the first time in years. I'm still not very good.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/chess.jpg\" width=\"600\" height=\"529\" alt=\"Chess game in progress. Black bishop in focus at foreground.\">\n",
 				"date_published": "2024-04-17T20:45:00+00:00",
 				"url": "https://stephenpieper.net/2024/04/17/playing-chess-for.html"
 			},
@@ -434,7 +460,7 @@
 				"id": "http://stefp.micro.blog/2024/03/19/red-sky-at.html",
 				
 				"content_html": "<p>Red sky at night, shepherd&rsquo;s delight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Red sky at night, shepherd's delight. \n\n<img src=\"uploads/2024/sky.jpg\" width=\"600\" height=\"450\" alt=\"Evening sky, vivid orange/red, some clouds. Distant hills.\">\n",
+				"content_text": "Red sky at night, shepherd's delight. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/sky.jpg\" width=\"600\" height=\"450\" alt=\"Evening sky, vivid orange/red, some clouds. Distant hills.\">\n",
 				"date_published": "2024-03-19T17:57:00+00:00",
 				"url": "https://stephenpieper.net/2024/03/19/red-sky-at.html"
 			},
@@ -607,7 +633,7 @@
 				"id": "http://stefp.micro.blog/2024/01/22/a-new-doggy.html",
 				
 				"content_html": "<p>A new doggy pal.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A new doggy pal. \n\n<img src=\"uploads/2024/1f2c19d2c5.jpg\" width=\"600\" height=\"600\" alt=\"Picture of a Welsh Corgi dog. \">\n",
+				"content_text": "A new doggy pal. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/1f2c19d2c5.jpg\" width=\"600\" height=\"600\" alt=\"Picture of a Welsh Corgi dog. \">\n",
 				"date_published": "2024-01-22T23:06:27+00:00",
 				"url": "https://stephenpieper.net/2024/01/22/a-new-doggy.html"
 			},
@@ -675,7 +701,7 @@
 				"id": "http://stefp.micro.blog/2024/01/10/the-communal-entrance.html",
 				
 				"content_html": "<p>The communal entrance area in my block of flats is well-kept and there are some very nice potted plants. I love the way iOS Photos has plants/flower identification built in. It could tell me this was a poinsettia without me having to search elsewhere.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The communal entrance area in my block of flats is well-kept and there are some very nice potted plants. I love the way iOS Photos has plants/flower identification built in. It could tell me this was a poinsettia without me having to search elsewhere. \n\n<img src=\"uploads/2024/img-0126.jpeg\" width=\"600\" height=\"600\" alt=\"Vivid red poinsettia plant in a pot\">\n",
+				"content_text": "The communal entrance area in my block of flats is well-kept and there are some very nice potted plants. I love the way iOS Photos has plants/flower identification built in. It could tell me this was a poinsettia without me having to search elsewhere. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/img-0126.jpeg\" width=\"600\" height=\"600\" alt=\"Vivid red poinsettia plant in a pot\">\n",
 				"date_published": "2024-01-10T18:03:48+00:00",
 				"url": "https://stephenpieper.net/2024/01/10/the-communal-entrance.html"
 			},
@@ -691,7 +717,7 @@
 				"id": "http://stefp.micro.blog/2023/12/26/i-was-given.html",
 				
 				"content_html": "<p>I was given a Medinilla plant as a Christmas gift this year. I&rsquo;ve read several times that growing, and looking after a houseplant, can be a source of happiness. Let&rsquo;s see if there&rsquo;s any truth to that.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was given a Medinilla plant as a Christmas gift this year. I've read several times that growing, and looking after a houseplant, can be a source of happiness. Let's see if there's any truth to that. \n\n<img src=\"uploads/2023/plant.jpeg\" width=\"600\" height=\"600\" alt=\"A potted Medinilla plant sitting on a white indoor window ledge.\">\n",
+				"content_text": "I was given a Medinilla plant as a Christmas gift this year. I've read several times that growing, and looking after a houseplant, can be a source of happiness. Let's see if there's any truth to that. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/plant.jpeg\" width=\"600\" height=\"600\" alt=\"A potted Medinilla plant sitting on a white indoor window ledge.\">\n",
 				"date_published": "2023-12-26T00:15:22+00:00",
 				"url": "https://stephenpieper.net/2023/12/26/i-was-given.html"
 			},
@@ -707,7 +733,7 @@
 				"id": "http://stefp.micro.blog/2023/12/13/my-wfmu-tshirt.html",
 				
 				"content_html": "<p>My WFMU t-shirt collection is small but expanding. October fundraiser swag is here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My WFMU t-shirt collection is small but expanding. October fundraiser swag is here.\n\n<img src=\"uploads/2023/img-0049.jpeg\" width=\"600\" height=\"450\" alt=\"Two WFMU t-shirts\">\n",
+				"content_text": "My WFMU t-shirt collection is small but expanding. October fundraiser swag is here.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/img-0049.jpeg\" width=\"600\" height=\"450\" alt=\"Two WFMU t-shirts\">\n",
 				"date_published": "2023-12-13T15:54:19+00:00",
 				"url": "https://stephenpieper.net/2023/12/13/my-wfmu-tshirt.html"
 			},
@@ -750,7 +776,7 @@
 				"id": "http://stefp.micro.blog/2023/12/03/snowy-view-from.html",
 				
 				"content_html": "<p>Snowy view from the 11th floor.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Snowy view from the 11th floor.\n\n<img src=\"uploads/2023/rooftops.jpeg\" width=\"600\" height=\"450\" alt=\"View across snowy rooftops.\">\n",
+				"content_text": "Snowy view from the 11th floor.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/rooftops.jpeg\" width=\"600\" height=\"450\" alt=\"View across snowy rooftops.\">\n",
 				"date_published": "2023-12-03T15:19:33+00:00",
 				"url": "https://stephenpieper.net/2023/12/03/snowy-view-from.html"
 			},
@@ -758,7 +784,7 @@
 				"id": "http://stefp.micro.blog/2023/10/05/its-one-of.html",
 				
 				"content_html": "<p>It&rsquo;s one of those days.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's one of those days.\n\n<img src=\"uploads/2023/dragon.jpg\" width=\"600\" height=\"450\" alt=\"Model of a sleeping, green, dragon, on a window sill. Evidence of rain on the window pane.\">\n",
+				"content_text": "It's one of those days.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/dragon.jpg\" width=\"600\" height=\"450\" alt=\"Model of a sleeping, green, dragon, on a window sill. Evidence of rain on the window pane.\">\n",
 				"date_published": "2023-10-05T16:14:22+00:00",
 				"url": "https://stephenpieper.net/2023/10/05/its-one-of.html"
 			},
@@ -784,7 +810,7 @@
 				"id": "http://stefp.micro.blog/2023/10/01/cooked-a-steak.html",
 				
 				"content_html": "<p>Cooked a steak in the air fryer tonight and I feel like I’ve levelled up. Pre-heated the air fryer for five minutes at 200C and then cooked each side of the steak for seven minutes which was maybe a bit too long but it turned out fine. I’ll adjust next time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cooked a steak in the air fryer tonight and I feel like I’ve levelled up. Pre-heated the air fryer for five minutes at 200C and then cooked each side of the steak for seven minutes which was maybe a bit too long but it turned out fine. I’ll adjust next time. \n\n<img src=\"uploads/2023/5163fc22c1.jpg\" width=\"600\" height=\"297\" alt=\"Steak cooked in an air fryer\">\n",
+				"content_text": "Cooked a steak in the air fryer tonight and I feel like I’ve levelled up. Pre-heated the air fryer for five minutes at 200C and then cooked each side of the steak for seven minutes which was maybe a bit too long but it turned out fine. I’ll adjust next time. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/5163fc22c1.jpg\" width=\"600\" height=\"297\" alt=\"Steak cooked in an air fryer\">\n",
 				"date_published": "2023-10-01T20:31:47+00:00",
 				"url": "https://stephenpieper.net/2023/10/01/cooked-a-steak.html",
 				"tags": ["Home"]
@@ -826,7 +852,7 @@
 				"id": "http://stefp.micro.blog/2023/08/16/this-evenings-view.html",
 				
 				"content_html": "<p>This evening&rsquo;s view from the eleventh floor.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This evening's view from the eleventh floor.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"View across town towards a red sunset.\">\n",
+				"content_text": "This evening's view from the eleventh floor.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"View across town towards a red sunset.\">\n",
 				"date_published": "2023-08-16T22:28:04+00:00",
 				"url": "https://stephenpieper.net/2023/08/16/this-evenings-view.html",
 				"tags": ["Home"]
@@ -893,7 +919,7 @@
 				"id": "http://stefp.micro.blog/2023/05/26/i-bought-these.html",
 				
 				"content_html": "<p>🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They&rsquo;re both described as &ldquo;vintage&rdquo; but I&rsquo;m not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They're both described as \"vintage\" but I'm not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them. \n\n<img src=\"uploads/2023/6bb684d128.jpg\" width=\"600\" height=\"450\" alt=\"Two Pilot Elite fountain pens, uncapped. One black with gold trim. The other has a black barrel and silver/black cap.\">\n",
+				"content_text": "🖋 I bought these two Pilot Elite fountain pens from a seller on eBay. They're both described as \"vintage\" but I'm not sure what that really means in this case. The nib of the silver capped pen says it was made in 1975. Both have gold nibs and write perfectly. I love them. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/6bb684d128.jpg\" width=\"600\" height=\"450\" alt=\"Two Pilot Elite fountain pens, uncapped. One black with gold trim. The other has a black barrel and silver/black cap.\">\n",
 				"date_published": "2023-05-26T16:37:39+00:00",
 				"url": "https://stephenpieper.net/2023/05/26/i-bought-these.html"
 			},
@@ -991,7 +1017,7 @@
 				"id": "http://stefp.micro.blog/2023/03/13/happy-with-my.html",
 				
 				"content_html": "<p>Happy with my new desk.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy with my new desk.\n\n<img src=\"uploads/2023/782dc0f397.jpg\" width=\"600\" height=\"450\" alt=\"New white desk with iMac computer and speaker setup. \">\n",
+				"content_text": "Happy with my new desk.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/782dc0f397.jpg\" width=\"600\" height=\"450\" alt=\"New white desk with iMac computer and speaker setup. \">\n",
 				"date_published": "2023-03-13T17:53:45+00:00",
 				"url": "https://stephenpieper.net/2023/03/13/happy-with-my.html",
 				"tags": ["Home"]
@@ -1000,7 +1026,7 @@
 				"id": "http://stefp.micro.blog/2023/03/10/wearing-my-badge.html",
 				
 				"content_html": "<p>Wearing my badge for <a href=\"https://wfmu.org/\">WFMU</a> Fundraising Marathon fortnight. Increased my monthly contribution this year because I love this station.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wearing my badge for [WFMU](https://wfmu.org/) Fundraising Marathon fortnight. Increased my monthly contribution this year because I love this station.\n\n<img src=\"uploads/2023/f7526bde26.jpg\" width=\"518\" height=\"518\" alt=\"Metal WFMU badge featuring a cartoon cat biting a record.\">\n",
+				"content_text": "Wearing my badge for [WFMU](https://wfmu.org/) Fundraising Marathon fortnight. Increased my monthly contribution this year because I love this station.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/f7526bde26.jpg\" width=\"518\" height=\"518\" alt=\"Metal WFMU badge featuring a cartoon cat biting a record.\">\n",
 				"date_published": "2023-03-10T23:56:40+00:00",
 				"url": "https://stephenpieper.net/2023/03/10/wearing-my-badge.html"
 			},
@@ -1041,7 +1067,7 @@
 				"id": "http://stefp.micro.blog/2023/02/27/a-starling-sitting.html",
 				
 				"content_html": "<p>A starling sitting on the roof.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A starling sitting on the roof.\n\n<img src=\"uploads/2023/6a0d01222f.jpg\" width=\"700\" height=\"432\" alt=\"Bird. A starling sitting on a roof gutter against a clear blue sky.\">\n",
+				"content_text": "A starling sitting on the roof.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2023/6a0d01222f.jpg\" width=\"700\" height=\"432\" alt=\"Bird. A starling sitting on a roof gutter against a clear blue sky.\">\n",
 				"date_published": "2023-02-27T22:59:45+00:00",
 				"url": "https://stephenpieper.net/2023/02/27/a-starling-sitting.html"
 			},
@@ -1107,7 +1133,7 @@
 				"id": "http://stefp.micro.blog/2022/12/24/christma-eve-dinner.html",
 				
 				"content_html": "<p>Christma Eve dinner at relatives today including a few gin &amp; tonics and this doggy.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Christma Eve dinner at relatives today including a few gin & tonics and this doggy.\n\n<img src=\"uploads/2022/21018e9a43.jpg\" width=\"594\" height=\"600\" alt=\"Dinner plate with Christmas tree decoration.\"><img src=\"uploads/2022/14d695c335.jpg\" width=\"449\" height=\"600\" alt=\"Black and white lhasa apso dog called Poppy\">\n",
+				"content_text": "Christma Eve dinner at relatives today including a few gin & tonics and this doggy.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2022/21018e9a43.jpg\" width=\"594\" height=\"600\" alt=\"Dinner plate with Christmas tree decoration.\"><img src=\"https://cdn.uploads.micro.blog/110/2022/14d695c335.jpg\" width=\"449\" height=\"600\" alt=\"Black and white lhasa apso dog called Poppy\">\n",
 				"date_published": "2022-12-24T20:35:40+00:00",
 				"url": "https://stephenpieper.net/2022/12/24/christma-eve-dinner.html"
 			},
@@ -1277,7 +1303,7 @@
 				"id": "http://stefp.micro.blog/2022/09/21/the-marillion-show.html",
 				
 				"content_html": "<p>The Marillion show was rescheduled to the following night but at a different venue. This was my view of the stage and the reason I have a sore neck today. It was a great show though. The usual mix of high emotion and laughter from live Marillion. I loved it. <a href=\"https://www.setlist.fm/setlist/marillion/2022/o2-academy-glasgow-glasgow-scotland-43b07faf.html\">Setlist</a>. 🎵</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Marillion show was rescheduled to the following night but at a different venue. This was my view of the stage and the reason I have a sore neck today. It was a great show though. The usual mix of high emotion and laughter from live Marillion. I loved it. [Setlist](https://www.setlist.fm/setlist/marillion/2022/o2-academy-glasgow-glasgow-scotland-43b07faf.html). 🎵\r\n\r\n<img src=\"uploads/2022/d0dde681ac.jpg\" width=\"600\" height=\"327\" alt=\"my view of the stage at O2 Academy venue in Glasgow\" />\n",
+				"content_text": "The Marillion show was rescheduled to the following night but at a different venue. This was my view of the stage and the reason I have a sore neck today. It was a great show though. The usual mix of high emotion and laughter from live Marillion. I loved it. [Setlist](https://www.setlist.fm/setlist/marillion/2022/o2-academy-glasgow-glasgow-scotland-43b07faf.html). 🎵\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2022/d0dde681ac.jpg\" width=\"600\" height=\"327\" alt=\"my view of the stage at O2 Academy venue in Glasgow\" />\n",
 				"date_published": "2022-09-21T13:12:27+00:00",
 				"url": "https://stephenpieper.net/2022/09/21/the-marillion-show.html",
 				"tags": ["Music"]
@@ -1286,7 +1312,7 @@
 				"id": "http://stefp.micro.blog/2022/09/14/some-random-finds.html",
 				
 				"content_html": "<p>Some random finds out walking today. Early signs of autumn.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some random finds out walking today. Early signs of autumn.\r\n\r\n<img src=\"uploads/2022/c70e09d578.jpg\" width=\"700\" height=\"549\" alt=\"white feather and golden leaf\" />\n",
+				"content_text": "Some random finds out walking today. Early signs of autumn.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2022/c70e09d578.jpg\" width=\"700\" height=\"549\" alt=\"white feather and golden leaf\" />\n",
 				"date_published": "2022-09-14T19:09:17+00:00",
 				"url": "https://stephenpieper.net/2022/09/14/some-random-finds.html"
 			},
@@ -1365,7 +1391,7 @@
 				"id": "http://stefp.micro.blog/2022/08/25/ive-been-trying.html",
 				
 				"content_html": "<p>I&rsquo;ve been trying to clear out a lot of old paper stuff and I just found these old Apple coupons. You needed them to get an upgrade to OS X 10.1. I converted to Mac just as OS 9 was switching over to the new OS X so things were confusing. These seem like historical documents now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've been trying to clear out a lot of old paper stuff and I just found these old Apple coupons. You needed them to get an upgrade to OS X 10.1. I converted to Mac just as OS 9 was switching over to the new OS X so things were confusing. These seem like historical documents now.\r\n\r\n<img src=\"uploads/2022/641dfcb60d.jpg\" width=\"750\" height=\"450\" alt=\"Apple Software Proof-of-Purchase Coupons for Mac OS X v10.1\" />\n",
+				"content_text": "I've been trying to clear out a lot of old paper stuff and I just found these old Apple coupons. You needed them to get an upgrade to OS X 10.1. I converted to Mac just as OS 9 was switching over to the new OS X so things were confusing. These seem like historical documents now.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/110/2022/641dfcb60d.jpg\" width=\"750\" height=\"450\" alt=\"Apple Software Proof-of-Purchase Coupons for Mac OS X v10.1\" />\n",
 				"date_published": "2022-08-25T20:33:17+00:00",
 				"url": "https://stephenpieper.net/2022/08/25/ive-been-trying.html"
 			},
@@ -1444,7 +1470,7 @@
 				"id": "http://stefp.micro.blog/2022/07/29/ive-read-lots.html",
 				
 				"content_html": "<p>I&rsquo;ve read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋\n\n<img src=\"uploads/2022/1f69698efa.jpg\" width=\"750\" height=\"378\" alt=\"Pilot iroshizuku inks in a box\" />\n",
+				"content_text": "I've read lots of good things about the Pilot iroshizuku inks. I could have bought more ink in a full bottle  for less than the cost of this little set but I wanted to try a few different colours. The tsuki-yo is my favourite so far. 🖋\n\n<img src=\"https://cdn.uploads.micro.blog/110/2022/1f69698efa.jpg\" width=\"750\" height=\"378\" alt=\"Pilot iroshizuku inks in a box\" />\n",
 				"date_published": "2022-07-29T18:48:01+00:00",
 				"url": "https://stephenpieper.net/2022/07/29/ive-read-lots.html"
 			},
@@ -1470,7 +1496,7 @@
 				"id": "http://stefp.micro.blog/2022/07/09/trying-to-make.html",
 				
 				"content_html": "<p>Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, &ldquo;that&rsquo;s except for viewers of BBC Scotland&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, \"that's except for viewers of BBC Scotland\".\n\n<img src=\"uploads/2022/6ebff919fb.jpg\" width=\"750\" height=\"337\" alt=\"blue sky and interesting cloud formation\" />\n",
+				"content_text": "Trying to make the best of the first decent summer day here. A heatwave is heading for the UK according to the forecasts but, as the old joke goes, \"that's except for viewers of BBC Scotland\".\n\n<img src=\"https://cdn.uploads.micro.blog/110/2022/6ebff919fb.jpg\" width=\"750\" height=\"337\" alt=\"blue sky and interesting cloud formation\" />\n",
 				"date_published": "2022-07-09T19:36:34+00:00",
 				"url": "https://stephenpieper.net/2022/07/09/trying-to-make.html"
 			},
@@ -1486,7 +1512,7 @@
 				"id": "http://stefp.micro.blog/2022/07/01/another-uninvited-guest.html",
 				
 				"content_html": "<p>Another uninvited guest.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another uninvited guest.\n\n<img src=\"uploads/2022/fddfc6ddae.jpg\" width=\"600\" height=\"574\" alt=\"this fox wandered into into our office\" />\n\n",
+				"content_text": "Another uninvited guest.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2022/fddfc6ddae.jpg\" width=\"600\" height=\"574\" alt=\"this fox wandered into into our office\" />\n\n",
 				"date_published": "2022-07-01T21:32:06+00:00",
 				"url": "https://stephenpieper.net/2022/07/01/another-uninvited-guest.html"
 			},
@@ -1580,7 +1606,7 @@
 				"id": "http://stefp.micro.blog/2022/04/26/i-got-my.html",
 				
 				"content_html": "<p>I got my beta invite for the DuckDuckGo mac browser. Initial impression: it&rsquo;s very fast but there are no extensions installed yet so that might change. I&rsquo;m going to make it my default for a couple of days for a proper test.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I got my beta invite for the DuckDuckGo mac browser. Initial impression: it's very fast but there are no extensions installed yet so that might change. I'm going to make it my default for a couple of days for a proper test.\n\n<img src=\"uploads/2022/f9dfc640fe.jpg\" width=\"600\" height=\"529\" alt=\"DuckDuckGo mac browser window\" />\n",
+				"content_text": "I got my beta invite for the DuckDuckGo mac browser. Initial impression: it's very fast but there are no extensions installed yet so that might change. I'm going to make it my default for a couple of days for a proper test.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2022/f9dfc640fe.jpg\" width=\"600\" height=\"529\" alt=\"DuckDuckGo mac browser window\" />\n",
 				"date_published": "2022-04-26T14:45:25+00:00",
 				"url": "https://stephenpieper.net/2022/04/26/i-got-my.html"
 			},
@@ -1605,7 +1631,7 @@
 				"id": "http://stefp.micro.blog/2022/04/22/new-pen-its.html",
 				
 				"content_html": "<p>New pen. It&rsquo;s the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don&rsquo;t know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New pen. It's the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don't know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋\n\n<img src=\"uploads/2022/86ba3044f2.jpg\" width=\"750\" height=\"265\" alt=\"Yookers Gaia pen\" />\n",
+				"content_text": "New pen. It's the Yookers Gaia fibre-tipped pen that takes fountain pen ink cartridges. I don't know what fountain pen purists think but I already love the feel and writing flow of this pen. The retro styling looks great too. 🖋\n\n<img src=\"https://cdn.uploads.micro.blog/110/2022/86ba3044f2.jpg\" width=\"750\" height=\"265\" alt=\"Yookers Gaia pen\" />\n",
 				"date_published": "2022-04-22T15:03:01+00:00",
 				"url": "https://stephenpieper.net/2022/04/22/new-pen-its.html"
 			},
@@ -1709,7 +1735,7 @@
 				"id": "http://stefp.micro.blog/2021/11/16/i-saw-marillion.html",
 				
 				"content_html": "<p>I saw Marillion in Edinburgh. It was a fantastic night and felt like a real celebration. They were clearly very happy to be back on tour. Lovely old venue too. 🎵</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I saw Marillion in Edinburgh. It was a fantastic night and felt like a real celebration. They were clearly very happy to be back on tour. Lovely old venue too. 🎵\n\n<img src=\"uploads/2021/26a2820056.jpg\" width=\"600\" height=\"449\" alt=\"Usher Hall, Edinburgh, night, exterior\" />\n",
+				"content_text": "I saw Marillion in Edinburgh. It was a fantastic night and felt like a real celebration. They were clearly very happy to be back on tour. Lovely old venue too. 🎵\n\n<img src=\"https://cdn.uploads.micro.blog/110/2021/26a2820056.jpg\" width=\"600\" height=\"449\" alt=\"Usher Hall, Edinburgh, night, exterior\" />\n",
 				"date_published": "2021-11-16T21:54:00+00:00",
 				"url": "https://stephenpieper.net/2021/11/16/i-saw-marillion.html",
 				"tags": ["Music"]
@@ -1930,7 +1956,7 @@
 				"id": "http://stefp.micro.blog/2021/03/21/i-found-a.html",
 				
 				"content_html": "<p>I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy&hellip;Nels Cline&hellip;?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy...Nels Cline...?\n\n<img src=\"uploads/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" />\n",
+				"content_text": "I found a box of the limited edition Wilco Field Notes online. Who do I start to use first? Jeff Tweedy...Nels Cline...?\n\n<img src=\"https://cdn.uploads.micro.blog/110/2021/d72ada40bd.jpg\" width=\"459\" height=\"600\" alt=\"Wilco inspired Field Notes notebook collection\" />\n",
 				"date_published": "2021-03-21T16:25:02+00:00",
 				"url": "https://stephenpieper.net/2021/03/21/i-found-a.html"
 			},
@@ -1956,7 +1982,7 @@
 				"id": "http://stefp.micro.blog/2021/03/18/i-think-spring.html",
 				
 				"content_html": "<p>I think spring just sproinged.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think spring just sproinged.\n\n<img src=\"uploads/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" />\n",
+				"content_text": "I think spring just sproinged.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2021/6da60cd5ad.jpg\" width=\"600\" height=\"600\" alt=\"first daisy of the spring\" />\n",
 				"date_published": "2021-03-18T14:09:32+00:00",
 				"url": "https://stephenpieper.net/2021/03/18/i-think-spring.html"
 			},
@@ -2118,7 +2144,7 @@
 				"id": "http://stefp.micro.blog/2020/10/09/added-these-resistance.html",
 				
 				"content_html": "<p>Added these resistance bands to my daily indoor cycle exercises. I&rsquo;m not a gym/workout kind of person but I need to get those lockdown joints and muscles moving.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Added these resistance bands to my daily indoor cycle exercises. I'm not a gym/workout kind of person but I need to get those lockdown joints and muscles moving.\n\n<img src=\"uploads/2020/c09ca4e52a.jpg\" width=\"600\" height=\"600\" alt=\"resistance bands for exercising muscles\" />\n",
+				"content_text": "Added these resistance bands to my daily indoor cycle exercises. I'm not a gym/workout kind of person but I need to get those lockdown joints and muscles moving.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/c09ca4e52a.jpg\" width=\"600\" height=\"600\" alt=\"resistance bands for exercising muscles\" />\n",
 				"date_published": "2020-10-09T20:28:12+00:00",
 				"url": "https://stephenpieper.net/2020/10/09/added-these-resistance.html"
 			},
@@ -2159,7 +2185,7 @@
 				"id": "http://stefp.micro.blog/2020/08/25/weve-been-leaving.html",
 				
 				"content_html": "<p>We’ve been leaving a side door open at work resulting in things like this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We’ve been leaving a side door open at work resulting in things like this. \n\n<img src=\"uploads/2020/fcf9e6dc2e.jpg\" width=\"1000.0\" height=\"1000.0\" alt=\"This fox just walked into our office. \" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "We’ve been leaving a side door open at work resulting in things like this. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/fcf9e6dc2e.jpg\" width=\"1000.0\" height=\"1000.0\" alt=\"This fox just walked into our office. \" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-08-25T18:14:10+00:00",
 				"url": "https://stephenpieper.net/2020/08/25/weve-been-leaving.html"
 			},
@@ -2167,7 +2193,7 @@
 				"id": "http://stefp.micro.blog/2020/08/12/sound-another-dip.html",
 				
 				"content_html": "<p>Sound. Another dip into the past. #mbaug</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sound. Another dip into the past. #mbaug\n\n<img src=\"uploads/2020/a8db780e0e.jpg\" width=\"450\" height=\"600\" alt=\"Steve Hogarth, Marillion, lighted stage\" />\n",
+				"content_text": "Sound. Another dip into the past. #mbaug\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/a8db780e0e.jpg\" width=\"450\" height=\"600\" alt=\"Steve Hogarth, Marillion, lighted stage\" />\n",
 				"date_published": "2020-08-12T20:21:59+00:00",
 				"url": "https://stephenpieper.net/2020/08/12/sound-another-dip.html"
 			},
@@ -2184,7 +2210,7 @@
 				"id": "http://stefp.micro.blog/2020/08/11/transport-train-earls.html",
 				
 				"content_html": "<p>Transport. Train, Earls Court, London. #mbaug</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Transport. Train, Earls Court, London. #mbaug\n\n<img src=\"uploads/2020/b768ff9b19.jpg\" width=\"600\" height=\"600\" alt=\"Train, Earls Court, London\" />\n",
+				"content_text": "Transport. Train, Earls Court, London. #mbaug\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/b768ff9b19.jpg\" width=\"600\" height=\"600\" alt=\"Train, Earls Court, London\" />\n",
 				"date_published": "2020-08-11T19:47:55+00:00",
 				"url": "https://stephenpieper.net/2020/08/11/transport-train-earls.html"
 			},
@@ -2200,7 +2226,7 @@
 				"id": "http://stefp.micro.blog/2020/08/10/windows-mbaug.html",
 				
 				"content_html": "<p>Windows. #mbaug</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Windows. #mbaug\n\n<img src=\"uploads/2020/a7d54ba481.jpg\" width=\"600\" height=\"600\" alt=\"two windows in a darkened room\" />\n",
+				"content_text": "Windows. #mbaug\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/a7d54ba481.jpg\" width=\"600\" height=\"600\" alt=\"two windows in a darkened room\" />\n",
 				"date_published": "2020-08-10T19:21:55+00:00",
 				"url": "https://stephenpieper.net/2020/08/10/windows-mbaug.html"
 			},
@@ -2208,7 +2234,7 @@
 				"id": "http://stefp.micro.blog/2020/08/09/black-and-white.html",
 				
 				"content_html": "<p>Black and white. #mbaug</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Black and white. #mbaug\n\n<img src=\"uploads/2020/74b9af4a01.jpg\" width=\"600\" height=\"600\" alt=\"windmill in the mist\" />\n",
+				"content_text": "Black and white. #mbaug\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/74b9af4a01.jpg\" width=\"600\" height=\"600\" alt=\"windmill in the mist\" />\n",
 				"date_published": "2020-08-09T22:42:57+00:00",
 				"url": "https://stephenpieper.net/2020/08/09/black-and-white.html"
 			},
@@ -2216,7 +2242,7 @@
 				"id": "http://stefp.micro.blog/2020/08/08/view-from-car.html",
 				
 				"content_html": "<p>View from car, Glasgow city centre. #mbaug</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "View from car, Glasgow city centre. #mbaug\n\n<img src=\"uploads/2020/faf0f89b15.jpg\" width=\"459\" height=\"600\" alt=\"\" />\n",
+				"content_text": "View from car, Glasgow city centre. #mbaug\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/faf0f89b15.jpg\" width=\"459\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-08T20:51:52+00:00",
 				"url": "https://stephenpieper.net/2020/08/08/view-from-car.html"
 			},
@@ -2224,7 +2250,7 @@
 				"id": "http://stefp.micro.blog/2020/08/07/daytripping-mbaug.html",
 				
 				"content_html": "<p>Daytripping. #mbaug</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Daytripping. #mbaug\n\n<img src=\"uploads/2020/81c629f746.jpg\" width=\"450\" height=\"600\" alt=\"Newcastle railway station viewd from inside train\" />\n",
+				"content_text": "Daytripping. #mbaug\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/81c629f746.jpg\" width=\"450\" height=\"600\" alt=\"Newcastle railway station viewd from inside train\" />\n",
 				"date_published": "2020-08-07T19:43:41+00:00",
 				"url": "https://stephenpieper.net/2020/08/07/daytripping-mbaug.html"
 			},
@@ -2466,7 +2492,7 @@
 				"id": "http://stefp.micro.blog/2020/05/04/sad-to-hear.html",
 				
 				"content_html": "<p>Sad to hear that Dave Greenfield of The Stranglers has died. The Black and White album was one of the first records I ever bought and I still have the same copy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sad to hear that Dave Greenfield of The Stranglers has died. The Black and White album was one of the first records I ever bought and I still have the same copy.\n\n<img src=\"uploads/2020/eb85a5c5ec.jpg\" width=\"566\" height=\"600\" alt=\"The Stranglers - Black and White album\" />\n",
+				"content_text": "Sad to hear that Dave Greenfield of The Stranglers has died. The Black and White album was one of the first records I ever bought and I still have the same copy.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/eb85a5c5ec.jpg\" width=\"566\" height=\"600\" alt=\"The Stranglers - Black and White album\" />\n",
 				"date_published": "2020-05-04T19:13:00+00:00",
 				"url": "https://stephenpieper.net/2020/05/04/sad-to-hear.html",
 				"tags": ["Music"]
@@ -2607,7 +2633,7 @@
 				"id": "http://stefp.micro.blog/2020/04/15/vintage-ronald-searle.html",
 				
 				"content_html": "<p>Vintage Ronald Searle.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Vintage Ronald Searle.\n\n<img src=\"uploads/2020/ec90db29f6.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle books 1\" /><img src=\"uploads/2020/5e6656ab49.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle books 2\" /><img src=\"uploads/2020/1640249489.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle books 3\" /><img src=\"uploads/2020/1caacc3faf.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle book 4\" />\n",
+				"content_text": "Vintage Ronald Searle.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/ec90db29f6.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle books 1\" /><img src=\"https://cdn.uploads.micro.blog/110/2020/5e6656ab49.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle books 2\" /><img src=\"https://cdn.uploads.micro.blog/110/2020/1640249489.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle books 3\" /><img src=\"https://cdn.uploads.micro.blog/110/2020/1caacc3faf.jpg\" width=\"600\" height=\"450\" alt=\"Ronald Searle book 4\" />\n",
 				"date_published": "2020-04-15T18:13:14+00:00",
 				"url": "https://stephenpieper.net/2020/04/15/vintage-ronald-searle.html"
 			},
@@ -2615,7 +2641,7 @@
 				"id": "http://stefp.micro.blog/2020/04/14/im-reading-a.html",
 				
 				"content_html": "<p>I&rsquo;m reading a book about reading books.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm reading a book about reading books.\n\n<img src=\"uploads/2020/0521f055fd.jpg\" width=\"600\" height=\"450\" alt=\"Book - The Year Of Reading Dangerously by Andy Miller\" />\n",
+				"content_text": "I'm reading a book about reading books.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/0521f055fd.jpg\" width=\"600\" height=\"450\" alt=\"Book - The Year Of Reading Dangerously by Andy Miller\" />\n",
 				"date_published": "2020-04-14T10:50:13+00:00",
 				"url": "https://stephenpieper.net/2020/04/14/im-reading-a.html"
 			},
@@ -2623,7 +2649,7 @@
 				"id": "http://stefp.micro.blog/2020/04/02/theres-a-twitter.html",
 				
 				"content_html": "<p>There&rsquo;s a Twitter thing going around asking people to post a photo you&rsquo;ve taken from a place you&rsquo;ve been but you don&rsquo;t appear in. &ldquo;Just a pic, no description&rdquo;. I&rsquo;m doing it here.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There's a Twitter thing going around asking people to post a photo you've taken from a place you've been but you don't appear in. \"Just a pic, no description\". I'm doing it here. \n\n<img src=\"uploads/2020/29e12edd48.jpg\" width=\"600\" height=\"330\" alt=\"\" />\n",
+				"content_text": "There's a Twitter thing going around asking people to post a photo you've taken from a place you've been but you don't appear in. \"Just a pic, no description\". I'm doing it here. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/29e12edd48.jpg\" width=\"600\" height=\"330\" alt=\"\" />\n",
 				"date_published": "2020-04-02T20:30:48+00:00",
 				"url": "https://stephenpieper.net/2020/04/02/theres-a-twitter.html"
 			},
@@ -2631,7 +2657,7 @@
 				"id": "http://stefp.micro.blog/2020/04/01/things-just-got.html",
 				
 				"content_html": "<p>Things just got serious. I’m drinking coffee instead of my usual tea!  Kindle primed with books of prose poems and Japanese short stories. I downloaded Berlin Alexanderplatz  too so plenty to read.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Things just got serious. I’m drinking coffee instead of my usual tea!  Kindle primed with books of prose poems and Japanese short stories. I downloaded Berlin Alexanderplatz  too so plenty to read.\n\n<img src=\"uploads/2020/e6b108632b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Things just got serious. I’m drinking coffee instead of my usual tea!  Kindle primed with books of prose poems and Japanese short stories. I downloaded Berlin Alexanderplatz  too so plenty to read.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/e6b108632b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-04-01T18:18:56+00:00",
 				"url": "https://stephenpieper.net/2020/04/01/things-just-got.html"
 			},
@@ -2655,7 +2681,7 @@
 				"id": "http://stefp.micro.blog/2020/02/06/no-trouble-with.html",
 				
 				"content_html": "<p>No trouble with “plant” today. Going for the literal.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No trouble with “plant” today. Going for the literal. \n\n<img src=\"uploads/2020/47a100b66c.jpg\" width=\"600\" height=\"600\" alt=\"small potted plant\" />\n",
+				"content_text": "No trouble with “plant” today. Going for the literal. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/47a100b66c.jpg\" width=\"600\" height=\"600\" alt=\"small potted plant\" />\n",
 				"date_published": "2020-02-06T19:37:03+00:00",
 				"url": "https://stephenpieper.net/2020/02/06/no-trouble-with.html"
 			},
@@ -2663,7 +2689,7 @@
 				"id": "http://stefp.micro.blog/2020/02/06/genuine-small-ad.html",
 				
 				"content_html": "<p>Genuine small ad in this week’s Private Eye magazine. Sounds totally legit.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Genuine small ad in this week’s Private Eye magazine. Sounds totally legit. \n\n<img src=\"uploads/2020/7bf20e6348.jpg\" width=\"475\" height=\"266\" alt=\"advert from Private Eye magazine \" />\n",
+				"content_text": "Genuine small ad in this week’s Private Eye magazine. Sounds totally legit. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/7bf20e6348.jpg\" width=\"475\" height=\"266\" alt=\"advert from Private Eye magazine \" />\n",
 				"date_published": "2020-02-06T19:22:00+00:00",
 				"url": "https://stephenpieper.net/2020/02/06/genuine-small-ad.html"
 			},
@@ -2671,7 +2697,7 @@
 				"id": "http://stefp.micro.blog/2020/02/04/spot-the-spots.html",
 				
 				"content_html": "<p>Spot the spots.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spot the spots.\n\n<img src=\"uploads/2020/d334ca0477.jpg\" width=\"600\" height=\"600\" alt=\"interior of arts centre with small, bright, spotlights\" />\n",
+				"content_text": "Spot the spots.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/d334ca0477.jpg\" width=\"600\" height=\"600\" alt=\"interior of arts centre with small, bright, spotlights\" />\n",
 				"date_published": "2020-02-04T21:55:00+00:00",
 				"url": "https://stephenpieper.net/2020/02/04/spot-the-spots.html"
 			},
@@ -2687,7 +2713,7 @@
 				"id": "http://stefp.micro.blog/2020/02/03/reflect.html",
 				
 				"content_html": "<p>Reflect.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Reflect.\n\n<img src=\"uploads/2020/54332820b8.jpg\" width=\"600\" height=\"600\" alt=\"LP record spinning. Integration by Amancio D'Silva\" />\n",
+				"content_text": "Reflect.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/54332820b8.jpg\" width=\"600\" height=\"600\" alt=\"LP record spinning. Integration by Amancio D'Silva\" />\n",
 				"date_published": "2020-02-03T23:00:00+00:00",
 				"url": "https://stephenpieper.net/2020/02/03/reflect.html",
 				"tags": ["Music"]
@@ -2696,7 +2722,7 @@
 				"id": "http://stefp.micro.blog/2020/02/02/a-welcome-sight.html",
 				
 				"content_html": "<p>A welcome sight tonight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A welcome sight tonight. \n\n<img src=\"uploads/2020/624c105f3c.jpg\" width=\"600\" height=\"600\" alt=\"sticky toffee pudding\" />\n",
+				"content_text": "A welcome sight tonight. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/624c105f3c.jpg\" width=\"600\" height=\"600\" alt=\"sticky toffee pudding\" />\n",
 				"date_published": "2020-02-02T19:41:11+00:00",
 				"url": "https://stephenpieper.net/2020/02/02/a-welcome-sight.html"
 			},
@@ -2704,7 +2730,7 @@
 				"id": "http://stefp.micro.blog/2020/02/01/open.html",
 				
 				"content_html": "<p>Open.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Open. \n\n<img src=\"uploads/2020/406aa27b42.jpg\" width=\"600\" height=\"600\" alt=\"Green pepper\" />\n",
+				"content_text": "Open. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2020/406aa27b42.jpg\" width=\"600\" height=\"600\" alt=\"Green pepper\" />\n",
 				"date_published": "2020-02-01T23:30:21+00:00",
 				"url": "https://stephenpieper.net/2020/02/01/open.html"
 			},
@@ -2728,7 +2754,7 @@
 				"id": "http://stefp.micro.blog/2019/12/29/unseasonably-mild-weather.html",
 				
 				"content_html": "<p>Unseasonably mild weather today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Unseasonably mild weather today. \n\n<img src=\"uploads/2019/bd385f5df2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Unseasonably mild weather today. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/bd385f5df2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-29T17:37:22+00:00",
 				"url": "https://stephenpieper.net/2019/12/29/unseasonably-mild-weather.html"
 			},
@@ -2744,7 +2770,7 @@
 				"id": "http://stefp.micro.blog/2019/12/27/my-pal-from.html",
 				
 				"content_html": "<p>My pal from yesterday.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My pal from yesterday.\n\n<img src=\"uploads/2019/e851f2f67f.jpg\" width=\"600\" height=\"600\" alt=\"lhasa apso dog\" />\n",
+				"content_text": "My pal from yesterday.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/e851f2f67f.jpg\" width=\"600\" height=\"600\" alt=\"lhasa apso dog\" />\n",
 				"date_published": "2019-12-27T16:53:48+00:00",
 				"url": "https://stephenpieper.net/2019/12/27/my-pal-from.html"
 			},
@@ -2752,7 +2778,7 @@
 				"id": "http://stefp.micro.blog/2019/12/26/we-dont-usually.html",
 				
 				"content_html": "<p>We don’t usually have a family Christmas until Boxing Day so I hope everyone has had a happy festive time.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We don’t usually have a family Christmas until Boxing Day so I hope everyone has had a happy festive time. \n\n<img src=\"uploads/2019/f90a5b1909.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "We don’t usually have a family Christmas until Boxing Day so I hope everyone has had a happy festive time. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/f90a5b1909.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-12-26T15:31:27+00:00",
 				"url": "https://stephenpieper.net/2019/12/26/we-dont-usually.html"
 			},
@@ -2777,7 +2803,7 @@
 				"id": "http://stefp.micro.blog/2019/12/19/last-pub-quiz.html",
 				
 				"content_html": "<p>Last pub quiz of the year. We lost the main quiz but won £50 of drinks for the next time we visit. A good night and just what I needed.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Last pub quiz of the year. We lost the main quiz but won £50 of drinks for the next time we visit. A good night and just what I needed.\n\n<img src=\"uploads/2019/ce01d376a8.jpg\" width=\"447\" height=\"600\" alt=\"Christmas tree, drinks, interior of pub\" />\n",
+				"content_text": "Last pub quiz of the year. We lost the main quiz but won £50 of drinks for the next time we visit. A good night and just what I needed.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/ce01d376a8.jpg\" width=\"447\" height=\"600\" alt=\"Christmas tree, drinks, interior of pub\" />\n",
 				"date_published": "2019-12-19T23:20:30+00:00",
 				"url": "https://stephenpieper.net/2019/12/19/last-pub-quiz.html"
 			},
@@ -2785,7 +2811,7 @@
 				"id": "http://stefp.micro.blog/2019/12/10/fantastic-show-by.html",
 				
 				"content_html": "<p>Fantastic show by Dweezil Zappa and band in Glasgow tonight. Perfect antidote to the December doldrums. 🎶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fantastic show by Dweezil Zappa and band in Glasgow tonight. Perfect antidote to the December doldrums. 🎶\n\n<img src=\"uploads/2019/c711b22aa7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Fantastic show by Dweezil Zappa and band in Glasgow tonight. Perfect antidote to the December doldrums. 🎶\n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/c711b22aa7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-10T00:49:44+00:00",
 				"url": "https://stephenpieper.net/2019/12/10/fantastic-show-by.html",
 				"tags": ["Music"]
@@ -2794,7 +2820,7 @@
 				"id": "http://stefp.micro.blog/2019/12/08/this-mistake-is.html",
 				
 				"content_html": "<p>This &ldquo;mistake&rdquo; is more interesting than the other photos I took at the Drygate Brewery in Glasgow last night. I was there to see the great Norwegian band Wobbler play in the city for the first time. I hope they come back very soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This \"mistake\" is more interesting than the other photos I took at the Drygate Brewery in Glasgow last night. I was there to see the great Norwegian band Wobbler play in the city for the first time. I hope they come back very soon.\n\n<img src=\"uploads/2019/54da6bbe96.jpg\" width=\"600\" height=\"450\" alt=\"blurry photo of band setting up at Drygate in Glasgow\" />\n",
+				"content_text": "This \"mistake\" is more interesting than the other photos I took at the Drygate Brewery in Glasgow last night. I was there to see the great Norwegian band Wobbler play in the city for the first time. I hope they come back very soon.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/54da6bbe96.jpg\" width=\"600\" height=\"450\" alt=\"blurry photo of band setting up at Drygate in Glasgow\" />\n",
 				"date_published": "2019-12-08T12:28:00+00:00",
 				"url": "https://stephenpieper.net/2019/12/08/this-mistake-is.html",
 				"tags": ["Music"]
@@ -2945,7 +2971,7 @@
 				"id": "http://stefp.micro.blog/2019/11/23/the-lark-ascending.html",
 				
 				"content_html": "<p>📚 <strong>The Lark Ascending - The Music Of The British Landscape by Richard King</strong>. Enjoying this. There&rsquo;s some good stuff about the &ldquo;blood and soil&rdquo; type fascists that tried to organise in Britain between the Wars. I&rsquo;m always suspicious of those that talk about an idyllic pastoral past.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📚 **The Lark Ascending - The Music Of The British Landscape by Richard King**. Enjoying this. There's some good stuff about the \"blood and soil\" type fascists that tried to organise in Britain between the Wars. I'm always suspicious of those that talk about an idyllic pastoral past.\n\n<img src=\"uploads/2019/daa4f0cf1b.jpg\" width=\"600\" height=\"600\" alt=\"Book. The Lark Ascending - The Music Of The British Landscape by Richard King.\" />\n",
+				"content_text": "📚 **The Lark Ascending - The Music Of The British Landscape by Richard King**. Enjoying this. There's some good stuff about the \"blood and soil\" type fascists that tried to organise in Britain between the Wars. I'm always suspicious of those that talk about an idyllic pastoral past.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/daa4f0cf1b.jpg\" width=\"600\" height=\"600\" alt=\"Book. The Lark Ascending - The Music Of The British Landscape by Richard King.\" />\n",
 				"date_published": "2019-11-23T20:55:00+00:00",
 				"url": "https://stephenpieper.net/2019/11/23/the-lark-ascending.html",
 				"tags": ["Books"]
@@ -3088,7 +3114,7 @@
 				"id": "http://stefp.micro.blog/2019/11/11/someone-mentioned-the.html",
 				
 				"content_html": "<p>Someone mentioned the <strong>nancy</strong> comic strip a while back and I became a big fan. It’s nice to have this new collection of them.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Someone mentioned the **nancy** comic strip a while back and I became a big fan. It’s nice to have this new collection of them. \n\n<img src=\"uploads/2019/9183ccf515.jpg\" width=\"600\" height=\"600\" alt=\"book - nancy by Olivia Jaimes\" />\n",
+				"content_text": "Someone mentioned the **nancy** comic strip a while back and I became a big fan. It’s nice to have this new collection of them. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/9183ccf515.jpg\" width=\"600\" height=\"600\" alt=\"book - nancy by Olivia Jaimes\" />\n",
 				"date_published": "2019-11-11T22:07:00+00:00",
 				"url": "https://stephenpieper.net/2019/11/11/someone-mentioned-the.html",
 				"tags": ["Books"]
@@ -3185,7 +3211,7 @@
 				"id": "http://stefp.micro.blog/2019/08/08/i-have-a.html",
 				
 				"content_html": "<p>I have a few fountain pens. This tiny Kaweco pen is one of my favourites.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I have a few fountain pens. This tiny Kaweco pen is one of my favourites. \n\n<a href=\"https://stephenpieper.net/uploads/2019/99ccadc2ad.jpg\"><img src=\"uploads/2019/99ccadc2ad.jpg\" width=\"600\" height=\"340\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "I have a few fountain pens. This tiny Kaweco pen is one of my favourites. \n\n<a href=\"https://cdn.uploads.micro.blog/110/2019/99ccadc2ad.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2019/99ccadc2ad.jpg\" width=\"600\" height=\"340\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-08T20:32:42+00:00",
 				"url": "https://stephenpieper.net/2019/08/08/i-have-a.html"
 			},
@@ -3193,7 +3219,7 @@
 				"id": "http://stefp.micro.blog/2019/08/07/wind-power.html",
 				
 				"content_html": "<p>Wind power.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Wind power. \n\n<a href=\"https://stephenpieper.net/uploads/2019/5d94adeff8.jpg\"><img src=\"uploads/2019/5d94adeff8.jpg\" width=\"600\" height=\"444\" alt=\"wind turbines in a field, blue sky, some clouds\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Wind power. \n\n<a href=\"https://cdn.uploads.micro.blog/110/2019/5d94adeff8.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2019/5d94adeff8.jpg\" width=\"600\" height=\"444\" alt=\"wind turbines in a field, blue sky, some clouds\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-07T19:12:15+00:00",
 				"url": "https://stephenpieper.net/2019/08/07/wind-power.html"
 			},
@@ -3209,7 +3235,7 @@
 				"id": "http://stefp.micro.blog/2019/04/27/the-last-of.html",
 				
 				"content_html": "<p>The last of the chocolate eggs.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The last of the chocolate eggs. \n\n<a href=\"https://stephenpieper.net/uploads/2019/234ea735ec.jpg\"><img src=\"uploads/2019/234ea735ec.jpg\" width=\"600\" height=\"600\" alt=\"Chocolate eggs\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "The last of the chocolate eggs. \n\n<a href=\"https://cdn.uploads.micro.blog/110/2019/234ea735ec.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2019/234ea735ec.jpg\" width=\"600\" height=\"600\" alt=\"Chocolate eggs\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-27T14:36:42+00:00",
 				"url": "https://stephenpieper.net/2019/04/27/the-last-of.html"
 			},
@@ -3217,7 +3243,7 @@
 				"id": "http://stefp.micro.blog/2019/04/25/part-of-my.html",
 				
 				"content_html": "<p>Part of my attempt to eat a healthier lunch.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Part of my attempt to eat a healthier lunch. \n\n<a href=\"https://stephenpieper.net/uploads/2019/93ede6fd64.jpg\"><img src=\"uploads/2019/93ede6fd64.jpg\" width=\"567\" height=\"566\" alt=\"strawberry, grape, apple\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Part of my attempt to eat a healthier lunch. \n\n<a href=\"https://cdn.uploads.micro.blog/110/2019/93ede6fd64.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2019/93ede6fd64.jpg\" width=\"567\" height=\"566\" alt=\"strawberry, grape, apple\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-25T16:40:30+00:00",
 				"url": "https://stephenpieper.net/2019/04/25/part-of-my.html"
 			},
@@ -3234,7 +3260,7 @@
 				"id": "http://stefp.micro.blog/2019/03/20/essential-jacques-tati.html",
 				
 				"content_html": "<p>Essential Jacques Tati Blu-ray collection. A little birthday present for myself.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Essential Jacques Tati Blu-ray collection. A little birthday present for myself. \n\n<a href=\"https://stephenpieper.net/uploads/2019/d333a73f53.jpg\"><img src=\"uploads/2019/d333a73f53.jpg\" width=\"600\" height=\"600\" alt=\"Jaques Tati DVD collection\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Essential Jacques Tati Blu-ray collection. A little birthday present for myself. \n\n<a href=\"https://cdn.uploads.micro.blog/110/2019/d333a73f53.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2019/d333a73f53.jpg\" width=\"600\" height=\"600\" alt=\"Jaques Tati DVD collection\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-03-20T15:56:42+00:00",
 				"url": "https://stephenpieper.net/2019/03/20/essential-jacques-tati.html"
 			},
@@ -3275,7 +3301,7 @@
 				"id": "http://stefp.micro.blog/2019/02/09/reuploading-a-lot.html",
 				
 				"content_html": "<p>Re-uploading a lot of old photos  to Flickr. This is one of my favourite bits of public sculpture in Glasgow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Re-uploading a lot of old photos  to Flickr. This is one of my favourite bits of public sculpture in Glasgow.\n\n<img src=\"uploads/2019/6f17efd812.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Re-uploading a lot of old photos  to Flickr. This is one of my favourite bits of public sculpture in Glasgow.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/6f17efd812.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-09T17:00:06+00:00",
 				"url": "https://stephenpieper.net/2019/02/09/reuploading-a-lot.html"
 			},
@@ -3342,7 +3368,7 @@
 				"id": "http://stefp.micro.blog/2019/01/16/some-late-christmas.html",
 				
 				"content_html": "<p>Some late Christmas gifts. Looking forward to reading these. 📙</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some late Christmas gifts. Looking forward to reading these. 📙\n\n<img src=\"uploads/2019/83fa69cc28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Some late Christmas gifts. Looking forward to reading these. 📙\n\n<img src=\"https://cdn.uploads.micro.blog/110/2019/83fa69cc28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-01-16T22:56:03+00:00",
 				"url": "https://stephenpieper.net/2019/01/16/some-late-christmas.html"
 			},
@@ -3393,7 +3419,7 @@
 				"id": "http://stefp.micro.blog/2018/12/21/i-think-we.html",
 				
 				"content_html": "<p>I think we might be overdoing the Christmas decorations at work.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think we might be overdoing the Christmas decorations at work. \n\n<img src=\"uploads/2018/86959df572.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I think we might be overdoing the Christmas decorations at work. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/86959df572.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-21T02:00:26+00:00",
 				"url": "https://stephenpieper.net/2018/12/21/i-think-we.html"
 			},
@@ -3442,7 +3468,7 @@
 				"id": "http://stefp.micro.blog/2018/09/30/its-that-time.html",
 				
 				"content_html": "<p>It’s that time of the year again.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It’s that time of the year again. \n\n<a href=\"http://stephenpieper.net/uploads/2018/305c0c8781.jpg\"><img src=\"uploads/2018/305c0c8781.jpg\" width=\"576\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n\n\n",
+				"content_text": "It’s that time of the year again. \n\n<a href=\"http://stephenpieper.net/uploads/2018/305c0c8781.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2018/305c0c8781.jpg\" width=\"576\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n\n\n",
 				"date_published": "2018-09-30T13:12:00+00:00",
 				"url": "https://stephenpieper.net/2018/09/30/its-that-time.html"
 			},
@@ -3458,7 +3484,7 @@
 				"id": "http://stefp.micro.blog/2018/09/03/garcia-peoples-cash.html",
 				
 				"content_html": "<p>Garcia Peoples - Cash Crisis #vinyl #onmyturntable</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Garcia Peoples - Cash Crisis #vinyl #onmyturntable\n\n<img src=\"uploads/2018/6fc21ac9e3.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Garcia Peoples - Cash Crisis #vinyl #onmyturntable\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/6fc21ac9e3.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-03T17:04:57+00:00",
 				"url": "https://stephenpieper.net/2018/09/03/garcia-peoples-cash.html"
 			},
@@ -3474,7 +3500,7 @@
 				"id": "http://stefp.micro.blog/2018/08/07/221915.html",
 				
 				"content_html": "<p>There’s a baby gull on the roof at work. The mother sits on this pole all day to protect it and flies around, making a noise, if you walk past.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There’s a baby gull on the roof at work. The mother sits on this pole all day to protect it and flies around, making a noise, if you walk past.\n\n<img src=\"uploads/2018/990bda8f96.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "There’s a baby gull on the roof at work. The mother sits on this pole all day to protect it and flies around, making a noise, if you walk past.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/990bda8f96.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-07T22:19:15+00:00",
 				"url": "https://stephenpieper.net/2018/08/07/221915.html"
 			},
@@ -3539,7 +3565,7 @@
 				"id": "http://stefp.micro.blog/2018/06/08/the-warm-weather.html",
 				
 				"content_html": "<p>The warm weather always acts as an invitation for the neighbourhood cats to wander around the house.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The warm weather always acts as an invitation for the neighbourhood cats to wander around the house.\n\n<img src=\"uploads/2018/008e1e9f64.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "The warm weather always acts as an invitation for the neighbourhood cats to wander around the house.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/008e1e9f64.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-08T11:20:14+00:00",
 				"url": "https://stephenpieper.net/2018/06/08/the-warm-weather.html"
 			},
@@ -3547,7 +3573,7 @@
 				"id": "http://stefp.micro.blog/2018/06/08/ice-creams-icecream.html",
 				
 				"content_html": "<p>Ice Creams #icecream</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ice Creams #icecream\n\n<img src=\"uploads/2018/b78a3fd85c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Ice Creams #icecream\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/b78a3fd85c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-08T10:58:19+00:00",
 				"url": "https://stephenpieper.net/2018/06/08/ice-creams-icecream.html"
 			},
@@ -3555,7 +3581,7 @@
 				"id": "http://stefp.micro.blog/2018/06/07/todays-escapee-from.html",
 				
 				"content_html": "<p>Today’s escapee from the heat. It did a tour of every room in the house and then lazed around for  a bit on the carpet. #cats</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today’s escapee from the heat. It did a tour of every room in the house and then lazed around for  a bit on the carpet. #cats\n\n<img src=\"uploads/2018/1024d3febc.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Today’s escapee from the heat. It did a tour of every room in the house and then lazed around for  a bit on the carpet. #cats\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/1024d3febc.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-07T14:41:09+00:00",
 				"url": "https://stephenpieper.net/2018/06/07/todays-escapee-from.html"
 			},
@@ -3571,7 +3597,7 @@
 				"id": "http://stefp.micro.blog/2018/05/18/pub-quizzing.html",
 				
 				"content_html": "<p>Pub quizzing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pub quizzing.\n\n<img src=\"uploads/2018/6c580c89c4.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Pub quizzing.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/6c580c89c4.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-18T12:46:45+00:00",
 				"url": "https://stephenpieper.net/2018/05/18/pub-quizzing.html"
 			},
@@ -3603,7 +3629,7 @@
 				"id": "http://stefp.micro.blog/2018/05/13/interesting-clouds.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Interesting clouds.</p>\n",
-				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/5bbea985aa.jpg\"><img src=\"uploads/2018/5bbea985aa.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nInteresting clouds. \n\n",
+				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/5bbea985aa.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2018/5bbea985aa.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nInteresting clouds. \n\n",
 				"date_published": "2018-05-13T18:25:03+00:00",
 				"url": "https://stephenpieper.net/2018/05/13/interesting-clouds.html"
 			},
@@ -3611,7 +3637,7 @@
 				"id": "http://stefp.micro.blog/2018/05/12/accidental-portrait-of.html",
 				"title": "Accidental Portrait Of A Knee",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/f0b14a367e.jpg\"><img src=\"uploads/2018/f0b14a367e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n\n\n",
+				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/f0b14a367e.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2018/f0b14a367e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n\n\n",
 				"date_published": "2018-05-12T18:51:03+00:00",
 				"url": "https://stephenpieper.net/2018/05/12/accidental-portrait-of.html"
 			},
@@ -3619,7 +3645,7 @@
 				"id": "http://stefp.micro.blog/2018/05/11/scary-dog.html",
 				
 				"content_html": "<p>Scary #dog</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Scary #dog\n\n<img src=\"uploads/2018/78d789e70c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Scary #dog\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/78d789e70c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-11T14:22:22+00:00",
 				"url": "https://stephenpieper.net/2018/05/11/scary-dog.html"
 			},
@@ -3668,7 +3694,7 @@
 				"id": "http://stefp.micro.blog/2018/04/22/141120.html",
 				
 				"content_html": "<p>Catching up on some #records. Trembling Bells - Dungeness. #vinyl</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Catching up on some #records. Trembling Bells - Dungeness. #vinyl\n\n<img src=\"uploads/2018/fee62b7373.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Catching up on some #records. Trembling Bells - Dungeness. #vinyl\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/fee62b7373.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-22T14:11:20+00:00",
 				"url": "https://stephenpieper.net/2018/04/22/141120.html"
 			},
@@ -3708,7 +3734,7 @@
 				"id": "http://stefp.micro.blog/2018/04/17/one-for-seinfeld.html",
 				
 				"content_html": "<p>One for Seinfeld fans. George Costanza’s idea becomes reality at last.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One for Seinfeld fans. George Costanza’s idea becomes reality at last. \n\n<img src=\"uploads/2018/b24873b75e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "One for Seinfeld fans. George Costanza’s idea becomes reality at last. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/b24873b75e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-17T19:33:32+00:00",
 				"url": "https://stephenpieper.net/2018/04/17/one-for-seinfeld.html"
 			},
@@ -3732,7 +3758,7 @@
 				"id": "http://stefp.micro.blog/2018/04/11/a-warning-from.html",
 				
 				"content_html": "<p>A  warning from within <a href=\"https://zettelkasten.de/the-archive/\">The Archive app.</a> There&rsquo;s nothing wrong with a bit of bad taste now and again.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A  warning from within [The Archive app.](https://zettelkasten.de/the-archive/) There's nothing wrong with a bit of bad taste now and again.\n\n<img src=\"uploads/2018/3e73d7b74e.jpg\" width=\"600\" height=\"313\" />\n",
+				"content_text": "A  warning from within [The Archive app.](https://zettelkasten.de/the-archive/) There's nothing wrong with a bit of bad taste now and again.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/3e73d7b74e.jpg\" width=\"600\" height=\"313\" />\n",
 				"date_published": "2018-04-11T16:04:39+00:00",
 				"url": "https://stephenpieper.net/2018/04/11/a-warning-from.html"
 			},
@@ -3740,7 +3766,7 @@
 				"id": "http://stefp.micro.blog/2018/04/10/its-just-a.html",
 				
 				"content_html": "<p>It’s just a tangerine peel but I like the contrasting colours.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s just a tangerine peel but I like the contrasting colours.\n\n<img src=\"uploads/2018/3a9b860c36.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "It’s just a tangerine peel but I like the contrasting colours.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/3a9b860c36.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-10T23:22:11+00:00",
 				"url": "https://stephenpieper.net/2018/04/11/its-just-a.html"
 			},
@@ -3748,7 +3774,7 @@
 				"id": "http://stefp.micro.blog/2018/04/10/very-pleased-to.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Very pleased to be dipping back into the world of the late Terry Pratchett. The first few pages of The Fifth Elephant have been a joy. 📚</p>\n",
-				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/69668f636b.jpg\"><img src=\"uploads/2018/69668f636b.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nVery pleased to be dipping back into the world of the late Terry Pratchett. The first few pages of The Fifth Elephant have been a joy. 📚\n\n",
+				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/69668f636b.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2018/69668f636b.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nVery pleased to be dipping back into the world of the late Terry Pratchett. The first few pages of The Fifth Elephant have been a joy. 📚\n\n",
 				"date_published": "2018-04-10T16:10:00+00:00",
 				"url": "https://stephenpieper.net/2018/04/10/very-pleased-to.html",
 				"tags": ["Books"]
@@ -3757,7 +3783,7 @@
 				"id": "http://stefp.micro.blog/2018/04/09/just-witnessed-the.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Just witnessed the most intense and full rainbow I’ve seen in a long time.</p>\n",
-				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/de7a674b41.jpg\"><img src=\"uploads/2018/de7a674b41.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nJust witnessed the most intense and full rainbow I’ve seen in a long time. \n\n",
+				"content_text": "<a href=\"http://stephenpieper.net/uploads/2018/de7a674b41.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2018/de7a674b41.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nJust witnessed the most intense and full rainbow I’ve seen in a long time. \n\n",
 				"date_published": "2018-04-09T19:25:25+00:00",
 				"url": "https://stephenpieper.net/2018/04/09/just-witnessed-the.html"
 			},
@@ -3765,7 +3791,7 @@
 				"id": "http://stefp.micro.blog/2018/04/09/191151.html",
 				
 				"content_html": "<p>Just witnessed the most intense and full #rainbow I’ve seen in ages.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just witnessed the most intense and full #rainbow I’ve seen in ages.\n\n<img src=\"uploads/2018/7f75151390.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Just witnessed the most intense and full #rainbow I’ve seen in ages.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/7f75151390.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-09T19:11:51+00:00",
 				"url": "https://stephenpieper.net/2018/04/09/191151.html"
 			},
@@ -3798,7 +3824,7 @@
 				"id": "http://stefp.micro.blog/2018/04/03/i-always-print.html",
 				
 				"content_html": "<p>I always print off these Guardian cryptic #crosswords and forget to do them.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I always print off these Guardian cryptic #crosswords and forget to do them.\n\n<img src=\"uploads/2018/7900770b88.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I always print off these Guardian cryptic #crosswords and forget to do them.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/7900770b88.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-03T15:39:11+00:00",
 				"url": "https://stephenpieper.net/2018/04/03/i-always-print.html"
 			},
@@ -3822,7 +3848,7 @@
 				"id": "http://stefp.micro.blog/2018/03/27/bought-with-birthday.html",
 				
 				"content_html": "<p>Bought with birthday money. #zappa</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bought with birthday money. #zappa\n\n<img src=\"uploads/2018/2159126da4.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Bought with birthday money. #zappa\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/2159126da4.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-03-27T16:39:17+00:00",
 				"url": "https://stephenpieper.net/2018/03/27/bought-with-birthday.html"
 			},
@@ -3839,7 +3865,7 @@
 				"id": "http://stefp.micro.blog/2018/03/17/ive-been-feeling.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I’ve been feeling run down after a bout of flu but made it out to see Yes tonight on their 50th anniversary tour. Really enjoyed it. I’d managed to avoid set list spoilers so there were a couple of nice surprises in there. 🎶</p>\n",
-				"content_text": "\n\n<a href=\"http://stephenpieper.net/uploads/2018/7a4c0bbee1.jpg\"><img src=\"uploads/2018/7a4c0bbee1.jpg\" width=\"0\" height=\"0\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://stephenpieper.net/uploads/2018/6e3fa94313.jpg\"><img src=\"uploads/2018/6e3fa94313.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nI’ve been feeling run down after a bout of flu but made it out to see Yes tonight on their 50th anniversary tour. Really enjoyed it. I’d managed to avoid set list spoilers so there were a couple of nice surprises in there. 🎶\n\n",
+				"content_text": "\n\n<a href=\"http://stephenpieper.net/uploads/2018/7a4c0bbee1.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2018/7a4c0bbee1.jpg\" width=\"0\" height=\"0\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://stephenpieper.net/uploads/2018/6e3fa94313.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2018/6e3fa94313.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nI’ve been feeling run down after a bout of flu but made it out to see Yes tonight on their 50th anniversary tour. Really enjoyed it. I’d managed to avoid set list spoilers so there were a couple of nice surprises in there. 🎶\n\n",
 				"date_published": "2018-03-17T00:06:07+00:00",
 				"url": "https://stephenpieper.net/2018/03/17/ive-been-feeling.html",
 				"tags": ["Music"]
@@ -3897,7 +3923,7 @@
 				"id": "http://stefp.micro.blog/2018/02/08/this-image-on.html",
 				
 				"content_html": "<p>This image on the cover of the Wonderous Stories book could be a metaphor for being a progressive rock fan in the late 70s.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This image on the cover of the Wonderous Stories book could be a metaphor for being a progressive rock fan in the late 70s.\n\n<img src=\"uploads/2018/6ea28db6df.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "This image on the cover of the Wonderous Stories book could be a metaphor for being a progressive rock fan in the late 70s.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/6ea28db6df.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-02-08T23:48:17+00:00",
 				"url": "https://stephenpieper.net/2018/02/09/this-image-on.html"
 			},
@@ -3913,7 +3939,7 @@
 				"id": "http://stefp.micro.blog/2018/02/06/a-little-project.html",
 				
 				"content_html": "<p>A little project. I’m #drawing the same mug every morning for a month. I won’t be sharing them all here though.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A little project. I’m #drawing the same mug every morning for a month. I won’t be sharing them all here though.\n\n<img src=\"uploads/2018/6b57f3cf84.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "A little project. I’m #drawing the same mug every morning for a month. I won’t be sharing them all here though.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/6b57f3cf84.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-02-06T21:53:13+00:00",
 				"url": "https://stephenpieper.net/2018/02/06/a-little-project.html"
 			},
@@ -3971,7 +3997,7 @@
 				"id": "http://stefp.micro.blog/2018/02/02/i-cant-remember.html",
 				
 				"content_html": "<p>I can’t remember who posted about doing a morning sketch of their teacup/coffee mug but I’m going to do the same for all of February.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I can’t remember who posted about doing a morning sketch of their teacup/coffee mug but I’m going to do the same for all of February. \n\n<img src=\"uploads/2018/c030b35892.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I can’t remember who posted about doing a morning sketch of their teacup/coffee mug but I’m going to do the same for all of February. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/c030b35892.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-02-02T20:48:07+00:00",
 				"url": "https://stephenpieper.net/2018/02/02/i-cant-remember.html"
 			},
@@ -4005,7 +4031,7 @@
 				"id": "http://stefp.micro.blog/2018/01/29/old-timer.html",
 				"title": "Old Timer",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n\n<img src=\"uploads/2018/7ed0b4d54e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" />\n\n\n\n\n",
+				"content_text": "\n\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/7ed0b4d54e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" />\n\n\n\n\n",
 				"date_published": "2018-01-29T20:51:41+00:00",
 				"url": "https://stephenpieper.net/2018/01/29/old-timer.html"
 			},
@@ -4013,7 +4039,7 @@
 				"id": "http://stefp.micro.blog/2018/01/28/i-bought-this.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>I bought this Japanese fountain pen years ago based entirely on its look. Unfortunately it’s too small in my hand to be used comfortably for any length of time so I just take it out now and again to gaze at it and make sure it still works.</p>\n",
-				"content_text": "\n\n\n<img src=\"uploads/2018/5804533fd6.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" />\n\nI bought this Japanese fountain pen years ago based entirely on its look. Unfortunately it’s too small in my hand to be used comfortably for any length of time so I just take it out now and again to gaze at it and make sure it still works. \n\n\n",
+				"content_text": "\n\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/5804533fd6.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" />\n\nI bought this Japanese fountain pen years ago based entirely on its look. Unfortunately it’s too small in my hand to be used comfortably for any length of time so I just take it out now and again to gaze at it and make sure it still works. \n\n\n",
 				"date_published": "2018-01-28T16:05:27+00:00",
 				"url": "https://stephenpieper.net/2018/01/28/i-bought-this.html"
 			},
@@ -4046,7 +4072,7 @@
 				"id": "http://stefp.micro.blog/2018/01/25/sunlit-test-view.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Sunlit test. “View from the office” today.</p>\n",
-				"content_text": "\n\n\n<img src=\"uploads/2018/46c07f128e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" />\n\nSunlit test. “View from the office” today. \n\n\n",
+				"content_text": "\n\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/46c07f128e.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" />\n\nSunlit test. “View from the office” today. \n\n\n",
 				"date_published": "2018-01-25T13:24:19+00:00",
 				"url": "https://stephenpieper.net/2018/01/25/sunlit-test-view.html"
 			},
@@ -4054,7 +4080,7 @@
 				"id": "http://stefp.micro.blog/2018/01/18/162704.html",
 				
 				"content_html": "<p>#snow #slowmo</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#snow #slowmo\n\n<img src=\"uploads/2018/72fccc16c2.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#snow #slowmo\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/72fccc16c2.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-18T16:27:04+00:00",
 				"url": "https://stephenpieper.net/2018/01/18/162704.html"
 			},
@@ -4062,7 +4088,7 @@
 				"id": "http://stefp.micro.blog/2018/01/16/current-forecast.html",
 				
 				"content_html": "<p>Current forecast…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current forecast…\n\n<img src=\"uploads/2018/7a259aafa9.jpg\" width=\"277\" height=\"600\" />\n",
+				"content_text": "Current forecast…\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/7a259aafa9.jpg\" width=\"277\" height=\"600\" />\n",
 				"date_published": "2018-01-16T20:27:19+00:00",
 				"url": "https://stephenpieper.net/2018/01/16/current-forecast.html"
 			},
@@ -4079,7 +4105,7 @@
 				"id": "http://stefp.micro.blog/2018/01/09/first-day-back.html",
 				
 				"content_html": "<p>First day back at work and plenty of this is needed.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First day back at work and plenty of this is needed. \n\n<img src=\"uploads/2018/cef9a1cc03.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "First day back at work and plenty of this is needed. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/cef9a1cc03.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-09T10:26:48+00:00",
 				"url": "https://stephenpieper.net/2018/01/09/first-day-back.html"
 			},
@@ -4111,7 +4137,7 @@
 				"id": "http://stefp.micro.blog/2018/01/03/i-got-some.html",
 				
 				"content_html": "<p>I got some cartridges for my slightly battered Lamy Al-Star fountain pen. Planning to use it a lot this year.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I got some cartridges for my slightly battered Lamy Al-Star fountain pen. Planning to use it a lot this year. \n\n<img src=\"uploads/2018/39ab6786fb.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I got some cartridges for my slightly battered Lamy Al-Star fountain pen. Planning to use it a lot this year. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/39ab6786fb.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-03T17:10:43+00:00",
 				"url": "https://stephenpieper.net/2018/01/03/i-got-some.html"
 			},
@@ -4135,7 +4161,7 @@
 				"id": "http://stefp.micro.blog/2017/12/27/135008.html",
 				
 				"content_html": "<p>#dogsofinstagram</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#dogsofinstagram\n\n<img src=\"uploads/2018/726f0b962f.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#dogsofinstagram\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/726f0b962f.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-12-27T13:50:08+00:00",
 				"url": "https://stephenpieper.net/2017/12/27/135008.html"
 			},
@@ -4143,7 +4169,7 @@
 				"id": "http://stefp.micro.blog/2017/12/27/122152.html",
 				
 				"content_html": "<p>The Big Thaw</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Big Thaw\n\n<img src=\"uploads/2018/5166aced0c.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "The Big Thaw\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/5166aced0c.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2017-12-27T12:21:52+00:00",
 				"url": "https://stephenpieper.net/2017/12/27/122152.html"
 			},
@@ -4151,7 +4177,7 @@
 				"id": "http://stefp.micro.blog/2017/12/22/im-no-good.html",
 				
 				"content_html": "<p>I’m no good at this&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m no good at this...\n\n<img src=\"uploads/2018/c9173939a5.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I’m no good at this...\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/c9173939a5.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-12-22T15:55:39+00:00",
 				"url": "https://stephenpieper.net/2017/12/22/im-no-good.html"
 			},
@@ -4199,7 +4225,7 @@
 				"id": "http://stefp.micro.blog/2017/11/26/234217.html",
 				
 				"content_html": "<p>New camera.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New camera.\n\n<img src=\"uploads/2018/774c936332.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "New camera.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/774c936332.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-11-26T23:42:17+00:00",
 				"url": "https://stephenpieper.net/2017/11/26/234217.html"
 			},
@@ -4207,7 +4233,7 @@
 				"id": "http://stefp.micro.blog/2017/11/20/tyding-up-and.html",
 				
 				"content_html": "<p>Tyding up and I found this. Another exhibit in my old tech museum. You plugged it into an iPod and it transmitted music to a nearby radio.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tyding up and I found this. Another exhibit in my old tech museum. You plugged it into an iPod and it transmitted music to a nearby radio.\n\n<img src=\"uploads/2017/e125a9bc6d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Tyding up and I found this. Another exhibit in my old tech museum. You plugged it into an iPod and it transmitted music to a nearby radio.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/e125a9bc6d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-11-20T19:30:55+00:00",
 				"url": "https://stephenpieper.net/2017/11/20/tyding-up-and.html"
 			},
@@ -4223,7 +4249,7 @@
 				"id": "http://stefp.micro.blog/2017/11/17/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo Challenge Day 7 - “Shadow”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo Challenge Day 7 - “Shadow”\n\n<img src=\"uploads/2017/2ea6f87943.jpg\" width=\"521\" height=\"600\" />\n",
+				"content_text": "Photo Challenge Day 7 - “Shadow”\n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/2ea6f87943.jpg\" width=\"521\" height=\"600\" />\n",
 				"date_published": "2017-11-17T19:55:36+00:00",
 				"url": "https://stephenpieper.net/2017/11/17/photo-challenge-day.html"
 			},
@@ -4231,7 +4257,7 @@
 				"id": "http://stefp.micro.blog/2017/11/16/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo Challenge Day 6 - “Seasonal”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo Challenge Day 6 - “Seasonal”\n\n<img src=\"uploads/2017/965baf48aa.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Photo Challenge Day 6 - “Seasonal”\n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/965baf48aa.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-11-16T15:30:58+00:00",
 				"url": "https://stephenpieper.net/2017/11/16/photo-challenge-day.html"
 			},
@@ -4239,7 +4265,7 @@
 				"id": "http://stefp.micro.blog/2017/11/15/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo Challenge Day 5 - “Liquid”.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo Challenge Day 5 - “Liquid”. \n\n<img src=\"uploads/2017/fe37dddfa5.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Photo Challenge Day 5 - “Liquid”. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/fe37dddfa5.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-11-15T20:35:52+00:00",
 				"url": "https://stephenpieper.net/2017/11/15/photo-challenge-day.html"
 			},
@@ -4247,7 +4273,7 @@
 				"id": "http://stefp.micro.blog/2017/11/14/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo Challenge Day 4 - “Up Close”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo Challenge Day 4 - “Up Close”\n\n\n<img src=\"uploads/2017/9076a6fcdb.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Photo Challenge Day 4 - “Up Close”\n\n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/9076a6fcdb.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-11-14T19:58:11+00:00",
 				"url": "https://stephenpieper.net/2017/11/14/photo-challenge-day.html"
 			},
@@ -4255,7 +4281,7 @@
 				"id": "http://stefp.micro.blog/2017/11/13/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo Challenge Day 3: “On the Move”. The chunky old watch I don’t use anymore.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo Challenge Day 3: “On the Move”. The chunky old watch I don’t use anymore.\n\n\n<img src=\"uploads/2017/fc7ec84913.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Photo Challenge Day 3: “On the Move”. The chunky old watch I don’t use anymore.\n\n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/fc7ec84913.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-11-13T17:25:15+00:00",
 				"url": "https://stephenpieper.net/2017/11/13/photo-challenge-day.html"
 			},
@@ -4263,7 +4289,7 @@
 				"id": "http://stefp.micro.blog/2017/11/12/day-two-of.html",
 				
 				"content_html": "<p>Day Two of <a href=\"https://micro.blog/douglane\">@douglane</a>’s Micro.blog Photo Challenge - “Tasty”. No work tomorrow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day Two of [@douglane](https://micro.blog/douglane)’s Micro.blog Photo Challenge - “Tasty”. No work tomorrow.\n\n<img src=\"uploads/2017/b1b27eec18.jpg\" width=\"435\" height=\"600\" />\n",
+				"content_text": "Day Two of [@douglane](https://micro.blog/douglane)’s Micro.blog Photo Challenge - “Tasty”. No work tomorrow.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/b1b27eec18.jpg\" width=\"435\" height=\"600\" />\n",
 				"date_published": "2017-11-12T20:21:46+00:00",
 				"url": "https://stephenpieper.net/2017/11/12/day-two-of.html"
 			},
@@ -4271,7 +4297,7 @@
 				"id": "http://stefp.micro.blog/2017/11/11/microblog-photo-challenge.html",
 				
 				"content_html": "<p>Micro.blog Photo Challenge Day 1: #squares.\nCeiling lights, Argentum app, double exposure. I had to go a bit abstract for this one.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Micro.blog Photo Challenge Day 1: #squares.\nCeiling lights, Argentum app, double exposure. I had to go a bit abstract for this one.\n\n<img src=\"uploads/2017/138eb25c90.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Micro.blog Photo Challenge Day 1: #squares.\nCeiling lights, Argentum app, double exposure. I had to go a bit abstract for this one.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/138eb25c90.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-11-11T19:04:01+00:00",
 				"url": "https://stephenpieper.net/2017/11/11/microblog-photo-challenge.html"
 			},
@@ -4287,7 +4313,7 @@
 				"id": "http://stefp.micro.blog/2017/10/29/another-good-leaf.html",
 				
 				"content_html": "<p>Another good leaf. #leaves</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another good leaf. #leaves\n\n<img src=\"uploads/2018/779835e5ec.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Another good leaf. #leaves\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/779835e5ec.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-10-29T10:39:01+00:00",
 				"url": "https://stephenpieper.net/2017/10/29/another-good-leaf.html"
 			},
@@ -4295,7 +4321,7 @@
 				"id": "http://stefp.micro.blog/2017/10/26/autumn-leaves.html",
 				
 				"content_html": "<p>Autumn #leaves</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Autumn #leaves\n\n<img src=\"uploads/2018/e258e4bfa3.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Autumn #leaves\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/e258e4bfa3.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-10-26T19:23:53+00:00",
 				"url": "https://stephenpieper.net/2017/10/26/autumn-leaves.html"
 			},
@@ -4335,7 +4361,7 @@
 				"id": "http://stefp.micro.blog/2017/09/29/153228.html",
 				
 				"content_html": "<p>Cadogan Hall. One more night to go. #bigbigtrain #cadoganhall</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cadogan Hall. One more night to go. #bigbigtrain #cadoganhall\n\n<img src=\"uploads/2018/2e7bf863c7.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Cadogan Hall. One more night to go. #bigbigtrain #cadoganhall\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/2e7bf863c7.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-09-29T15:32:28+00:00",
 				"url": "https://stephenpieper.net/2017/09/29/153228.html"
 			},
@@ -4367,7 +4393,7 @@
 				"id": "http://stefp.micro.blog/2017/09/08/vinyl-brianeno.html",
 				
 				"content_html": "<p>#vinyl #brianeno</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#vinyl #brianeno\n\n<img src=\"uploads/2018/b02e30baad.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#vinyl #brianeno\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/b02e30baad.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-09-08T21:12:36+00:00",
 				"url": "https://stephenpieper.net/2017/09/08/vinyl-brianeno.html"
 			},
@@ -4391,7 +4417,7 @@
 				"id": "http://stefp.micro.blog/2017/08/10/143145.html",
 				
 				"content_html": "<p>More windmills.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "More windmills.\n\n<img src=\"uploads/2018/93d5ddcc50.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "More windmills.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/93d5ddcc50.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-08-10T14:31:45+00:00",
 				"url": "https://stephenpieper.net/2017/08/10/143145.html"
 			},
@@ -4415,7 +4441,7 @@
 				"id": "http://stefp.micro.blog/2017/07/21/okay-lets-do.html",
 				
 				"content_html": "<p>Okay let&rsquo;s do this &hellip; #gameofthrones</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Okay let's do this ... #gameofthrones\n\n<img src=\"uploads/2018/982c8ce23d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Okay let's do this ... #gameofthrones\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/982c8ce23d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-07-21T14:36:19+00:00",
 				"url": "https://stephenpieper.net/2017/07/21/okay-lets-do.html"
 			},
@@ -4423,7 +4449,7 @@
 				"id": "http://stefp.micro.blog/2017/07/17/nice-bit-of.html",
 				
 				"content_html": "<p>Nice bit of weather today. Will it last till I&rsquo;m on holiday?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice bit of weather today. Will it last till I'm on holiday?\n\n<img src=\"uploads/2018/84f20512eb.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Nice bit of weather today. Will it last till I'm on holiday?\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/84f20512eb.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-07-17T14:58:24+00:00",
 				"url": "https://stephenpieper.net/2017/07/17/nice-bit-of.html"
 			},
@@ -4487,7 +4513,7 @@
 				"id": "http://stefp.micro.blog/2017/06/19/motionx-poker-this.html",
 				
 				"content_html": "<p>MotionX Poker. This was one of the first and best apps I ever bought for iPhone. It hasn&rsquo;t been updated in years but still plays without any warnings.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "MotionX Poker. This was one of the first and best apps I ever bought for iPhone. It hasn't been updated in years but still plays without any warnings. \n\n<img src=\"uploads/2017/edd761a352.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
+				"content_text": "MotionX Poker. This was one of the first and best apps I ever bought for iPhone. It hasn't been updated in years but still plays without any warnings. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/edd761a352.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
 				"date_published": "2017-06-19T20:17:47+00:00",
 				"url": "https://stephenpieper.net/2017/06/19/motionx-poker-this.html"
 			},
@@ -4599,7 +4625,7 @@
 				"id": "http://stefp.micro.blog/2017/05/05/nice-blue-skies.html",
 				
 				"content_html": "<p>Nice blue skies on the way to work today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice blue skies on the way to work today. \n\n<img src=\"uploads/2017/1d2515f206.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
+				"content_text": "Nice blue skies on the way to work today. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/1d2515f206.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
 				"date_published": "2017-05-05T19:32:45+00:00",
 				"url": "https://stephenpieper.net/2017/05/05/nice-blue-skies.html"
 			},
@@ -4615,7 +4641,7 @@
 				"id": "http://stefp.micro.blog/2017/05/02/philip-glass-buddha.html",
 				
 				"content_html": "<p>Philip Glass Buddha Machine.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Philip Glass Buddha Machine. \n\n<img src=\"uploads/2017/fa8f6e99e2.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
+				"content_text": "Philip Glass Buddha Machine. \n\n<img src=\"https://cdn.uploads.micro.blog/110/2017/fa8f6e99e2.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" />\n",
 				"date_published": "2017-05-02T23:28:50+00:00",
 				"url": "https://stephenpieper.net/2017/05/02/philip-glass-buddha.html"
 			},
@@ -4687,7 +4713,7 @@
 				"id": "http://stefp.micro.blog/2016/12/26/sorry-you-cant.html",
 				
 				"content_html": "<p>&ldquo;Sorry, you can&rsquo;t have any ice cream&rdquo;. #dogs</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Sorry, you can't have any ice cream\". #dogs\n\n<img src=\"uploads/2018/3e1efbfed6.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\"Sorry, you can't have any ice cream\". #dogs\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/3e1efbfed6.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2016-12-26T14:45:01+00:00",
 				"url": "https://stephenpieper.net/2016/12/26/sorry-you-cant.html"
 			},
@@ -4695,7 +4721,7 @@
 				"id": "http://stefp.micro.blog/2016/09/21/outside-the-assembly.html",
 				
 				"content_html": "<p>Outside the Assembly Hall in #Edinburgh.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Outside the Assembly Hall in #Edinburgh.\n\n<img src=\"uploads/2018/bd0064832c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Outside the Assembly Hall in #Edinburgh.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/bd0064832c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2016-09-21T14:28:03+00:00",
 				"url": "https://stephenpieper.net/2016/09/21/outside-the-assembly.html"
 			},
@@ -4703,7 +4729,7 @@
 				"id": "http://stefp.micro.blog/2016/08/28/glass.html",
 				
 				"content_html": "<p>#Glass</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#Glass\n\n<img src=\"uploads/2018/58004b97de.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#Glass\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/58004b97de.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2016-08-28T11:44:56+00:00",
 				"url": "https://stephenpieper.net/2016/08/28/glass.html"
 			},
@@ -4711,7 +4737,7 @@
 				"id": "http://stefp.micro.blog/2016/02/22/there-are-worse.html",
 				
 				"content_html": "<p>There are worse places to do training courses. Staircase detail at Eastwood House.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There are worse places to do training courses. Staircase detail at Eastwood House.\n\n<img src=\"uploads/2018/7dc1ef6cf3.jpg\" width=\"600\" height=\"598\" />\n",
+				"content_text": "There are worse places to do training courses. Staircase detail at Eastwood House.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/7dc1ef6cf3.jpg\" width=\"600\" height=\"598\" />\n",
 				"date_published": "2016-02-22T11:35:58+00:00",
 				"url": "https://stephenpieper.net/2016/02/22/there-are-worse.html"
 			},
@@ -4719,7 +4745,7 @@
 				"id": "http://stefp.micro.blog/2015/09/18/usher-hall-edinburgh.html",
 				
 				"content_html": "<p>Usher Hall, #Edinburgh for #KingCrimson #early</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Usher Hall, #Edinburgh for #KingCrimson #early\n\n<img src=\"uploads/2018/781ed77767.jpg\" width=\"598\" height=\"600\" />\n",
+				"content_text": "Usher Hall, #Edinburgh for #KingCrimson #early\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/781ed77767.jpg\" width=\"598\" height=\"600\" />\n",
 				"date_published": "2015-09-18T01:54:38+00:00",
 				"url": "https://stephenpieper.net/2015/09/18/usher-hall-edinburgh.html"
 			},
@@ -4727,7 +4753,7 @@
 				"id": "http://stefp.micro.blog/2015/08/16/waiting-to-leave.html",
 				
 				"content_html": "<p>Waiting to leave a very quiet King&rsquo;s Cross station.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Waiting to leave a very quiet King's Cross station.\n\n<img src=\"uploads/2018/7807b1ecb0.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Waiting to leave a very quiet King's Cross station.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/7807b1ecb0.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2015-08-16T01:42:36+00:00",
 				"url": "https://stephenpieper.net/2015/08/16/waiting-to-leave.html"
 			},
@@ -4735,7 +4761,7 @@
 				"id": "http://stefp.micro.blog/2014/06/09/vscocam.html",
 				
 				"content_html": "<p>#vscocam</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#vscocam\n\n<img src=\"uploads/2018/1297f10fbd.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#vscocam\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/1297f10fbd.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2014-06-09T19:58:19+00:00",
 				"url": "https://stephenpieper.net/2014/06/09/vscocam.html"
 			},
@@ -4743,7 +4769,7 @@
 				"id": "http://stefp.micro.blog/2014/06/02/i-think-thats.html",
 				
 				"content_html": "<p>I think that&rsquo;s quite enough of those for now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think that's quite enough of those for now.\n\n<img src=\"uploads/2018/f43326a1f7.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I think that's quite enough of those for now.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/f43326a1f7.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2014-06-02T17:06:00+00:00",
 				"url": "https://stephenpieper.net/2014/06/02/i-think-thats.html"
 			},
@@ -4751,7 +4777,7 @@
 				"id": "http://stefp.micro.blog/2014/06/02/165632.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/fe626c1984.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/fe626c1984.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2014-06-02T16:56:32+00:00",
 				"url": "https://stephenpieper.net/2014/06/02/165632.html"
 			},
@@ -4759,7 +4785,7 @@
 				"id": "http://stefp.micro.blog/2014/04/24/134229.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/9a97d812ec.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/9a97d812ec.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2014-04-24T13:42:29+00:00",
 				"url": "https://stephenpieper.net/2014/04/24/134229.html"
 			},
@@ -4767,7 +4793,7 @@
 				"id": "http://stefp.micro.blog/2014/03/03/164629.html",
 				
 				"content_html": "<p>#vscocam</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#vscocam\n\n<img src=\"uploads/2018/1665ac7063.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "#vscocam\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/1665ac7063.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2014-03-03T16:46:29+00:00",
 				"url": "https://stephenpieper.net/2014/03/03/164629.html"
 			},
@@ -4775,7 +4801,7 @@
 				"id": "http://stefp.micro.blog/2013/11/19/buchanan-st-bus.html",
 				
 				"content_html": "<p>Buchanan St. Bus Station, Glasgow</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Buchanan St. Bus Station, Glasgow\n\n<img src=\"uploads/2018/6cca204b1d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Buchanan St. Bus Station, Glasgow\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/6cca204b1d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2013-11-19T11:13:13+00:00",
 				"url": "https://stephenpieper.net/2013/11/19/buchanan-st-bus.html"
 			},
@@ -4783,7 +4809,7 @@
 				"id": "http://stefp.micro.blog/2013/08/07/212620.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/46e9201429.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/46e9201429.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2013-08-07T21:26:20+00:00",
 				"url": "https://stephenpieper.net/2013/08/07/212620.html"
 			},
@@ -4791,7 +4817,7 @@
 				"id": "http://stefp.micro.blog/2013/08/04/i-have-mixed.html",
 				
 				"content_html": "<p>I have mixed feelings about these things. #post (testing blog automation)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have mixed feelings about these things. #post (testing blog automation)\n\n<img src=\"uploads/2018/3b8b4cf7d0.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "I have mixed feelings about these things. #post (testing blog automation)\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/3b8b4cf7d0.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2013-08-04T07:36:17+00:00",
 				"url": "https://stephenpieper.net/2013/08/04/i-have-mixed.html"
 			},
@@ -4799,7 +4825,7 @@
 				"id": "http://stefp.micro.blog/2013/07/29/rising.html",
 				
 				"content_html": "<p>Rising</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rising\n\n<img src=\"uploads/2018/f87d9cfe0e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Rising\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/f87d9cfe0e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2013-07-29T21:20:10+00:00",
 				"url": "https://stephenpieper.net/2013/07/29/rising.html"
 			},
@@ -4807,7 +4833,7 @@
 				"id": "http://stefp.micro.blog/2013/07/29/172229.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/655722386a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/655722386a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2013-07-29T17:22:29+00:00",
 				"url": "https://stephenpieper.net/2013/07/29/172229.html"
 			},
@@ -4815,7 +4841,7 @@
 				"id": "http://stefp.micro.blog/2012/05/25/080254.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/1984b38e4a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/1984b38e4a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2012-05-25T08:02:54+00:00",
 				"url": "https://stephenpieper.net/2012/05/25/080254.html"
 			},
@@ -4823,7 +4849,7 @@
 				"id": "http://stefp.micro.blog/2012/03/27/142503.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/d83273c255.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/d83273c255.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2012-03-27T14:25:03+00:00",
 				"url": "https://stephenpieper.net/2012/03/27/142503.html"
 			},
@@ -4831,7 +4857,7 @@
 				"id": "http://stefp.micro.blog/2012/03/27/060307.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/80eb531262.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/80eb531262.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2012-03-27T06:03:07+00:00",
 				"url": "https://stephenpieper.net/2012/03/27/060307.html"
 			},
@@ -4839,7 +4865,7 @@
 				"id": "http://stefp.micro.blog/2012/03/18/093215.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/06992c935e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/06992c935e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2012-03-18T09:32:15+00:00",
 				"url": "https://stephenpieper.net/2012/03/18/093215.html"
 			},
@@ -4847,7 +4873,7 @@
 				"id": "http://stefp.micro.blog/2012/03/10/092947.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/1f93207786.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/1f93207786.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2012-03-10T09:29:47+00:00",
 				"url": "https://stephenpieper.net/2012/03/10/092947.html"
 			},
@@ -4855,7 +4881,7 @@
 				"id": "http://stefp.micro.blog/2010/12/26/084759.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2018/7578011e2b.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/110/2018/7578011e2b.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2010-12-26T08:47:59+00:00",
 				"url": "https://stephenpieper.net/2010/12/26/084759.html"
 			}
