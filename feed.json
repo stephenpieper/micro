@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2024/12/20/the-allander-record.html",
+				
+				"content_html": "<p>The Allander Record Fair was in town again today. I always feel obliged to buy something but I was happy to get these for a decent price. All seem in good condition.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Allander Record Fair was in town again today. I always feel obliged to buy something but I was happy to get these for a decent price. All seem in good condition.\n\n<img src=\"uploads/2024/img-0569.jpeg\" width=\"600\" height=\"417\" alt=\"Three LP records. Morris On - v/a. Swarbrick - Dave Swarbrick. The Psychomodo - Cockney Rebel. \">\n",
+				"date_published": "2024-12-20T19:14:40+00:00",
+				"url": "https://stephenpieper.net/2024/12/20/the-allander-record.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/12/19/difficult-decisions-never.html",
+				
+				"content_html": "<p>“Difficult decisions” never seem to have any effect on the people that are making them.</p>\n",
+				"content_text": "“Difficult decisions” never seem to have any effect on the people that are making them. \n",
+				"date_published": "2024-12-19T00:14:20+00:00",
+				"url": "https://stephenpieper.net/2024/12/19/difficult-decisions-never.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/12/18/photo-collections-are.html",
+				
+				"content_html": "<p>Photo collections are nice but it looks like any alt text is getting removed which is not so nice. I can&rsquo;t see a way to add it back in. Unless I&rsquo;m doing it wrong which is always a possibility.</p>\n",
+				"content_text": "Photo collections are nice but it looks like any alt text is getting removed which is not so nice. I can't see a way to add it back in. Unless I'm doing it wrong which is always a possibility.\n",
+				"date_published": "2024-12-18T17:17:39+00:00",
+				"url": "https://stephenpieper.net/2024/12/18/photo-collections-are.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2024/12/18/testing-photo-collections.html",
+				
+				"content_html": "<p>Testing photo collections in a post.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Testing photo collections in a post.\n\n<div class=\"microblog_collection\"><img src=\"https://cdn.uploads.micro.blog/110/2023/image.jpg\" data-microblog-lightbox=\"https://stephenpieper.net/uploads/2023/image.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2023/be616a11c3.jpg\" data-microblog-lightbox=\"https://stephenpieper.net/uploads/2023/be616a11c3.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2024/sky.jpg\" data-microblog-lightbox=\"https://stephenpieper.net/uploads/2024/sky.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2024/c5a856d4bd.jpg\" data-microblog-lightbox=\"https://stephenpieper.net/uploads/2024/c5a856d4bd.jpg\"><img src=\"https://cdn.uploads.micro.blog/110/2024/img-0102.jpeg\" data-microblog-lightbox=\"https://stephenpieper.net/uploads/2024/img-0102.jpeg\"><img src=\"https://cdn.uploads.micro.blog/110/2024/views-m.jpg\" data-microblog-lightbox=\"https://stephenpieper.net/uploads/2024/views.jpg\"></div>\n",
+				"date_published": "2024-12-18T17:07:48+00:00",
+				"url": "https://stephenpieper.net/2024/12/18/testing-photo-collections.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/12/17/190751.html",
 				
 				"content_html": "<p>Impressive Christmas reindeer.</p>\n<!-- raw HTML omitted -->\n",
