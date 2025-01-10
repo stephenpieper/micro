@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2025/01/03/started-to-read-light-perpetual.html",
+				
+				"content_html": "<p>Started to read: <a href=\"https://micro.blog/books/9781982174156\">Light Perpetual</a> by Francis Spufford 📚</p>\n",
+				"content_text": "Started to read: [Light Perpetual](https://micro.blog/books/9781982174156) by Francis Spufford 📚\n",
+				"date_published": "2025-01-03T22:13:57+00:00",
+				"url": "https://stephenpieper.net/2025/01/03/started-to-read-light-perpetual.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://stefp.micro.blog/2025/01/02/ive-just-noticed-that-mail.html",
+				
+				"content_html": "<p>I’ve just noticed that Mail on iOS 18 now has “select all’ for bulk deleting messages. A bit late but welcome all the same.</p>\n",
+				"content_text": "I’ve just noticed that Mail on iOS 18 now has “select all’ for bulk deleting messages. A bit late but welcome all the same. \n",
+				"date_published": "2025-01-02T23:11:59+00:00",
+				"url": "https://stephenpieper.net/2025/01/02/ive-just-noticed-that-mail.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2025/01/01/read-how-i-got-there.html",
+				
+				"content_html": "<p>Read: <a href=\"https://micro.blog/books/9781636142067\">1967: How I Got There and Why I Never Left</a> by Robyn Hitchcock 📚</p>\n<p>Can I count this as my first read of 2025 despite starting it a couple of days ago? Anyway this is a short and sweet memoir of how Robyn Hitchcock became a “groover” at school in 1967. A nice origin story of an original artist.</p>\n",
+				"content_text": "Read: [1967: How I Got There and Why I Never Left](https://micro.blog/books/9781636142067) by Robyn Hitchcock 📚\n\nCan I count this as my first read of 2025 despite starting it a couple of days ago? Anyway this is a short and sweet memoir of how Robyn Hitchcock became a “groover” at school in 1967. A nice origin story of an original artist. \n",
+				"date_published": "2025-01-01T22:27:22+00:00",
+				"url": "https://stephenpieper.net/2025/01/01/read-how-i-got-there.html",
+				"tags": ["Books","Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2024/12/20/the-allander-record.html",
 				
 				"content_html": "<p>The Allander Record Fair was in town again today. I always feel obliged to buy something but I was happy to get these for a decent price. All seem in good condition.</p>\n<!-- raw HTML omitted -->\n",
@@ -43,7 +69,7 @@
 				"id": "http://stefp.micro.blog/2024/12/17/190751.html",
 				
 				"content_html": "<p>Impressive Christmas reindeer.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Impressive Christmas reindeer.\n\n<img src=\"uploads/2024/reindeer.jpg\" width=\"600\" height=\"643\" alt=\"A large, geometric golden reindeer sculpture is displayed in a shopping mall.\">\n",
+				"content_text": "Impressive Christmas reindeer.\n\n<img src=\"https://cdn.uploads.micro.blog/110/2024/reindeer.jpg\" width=\"600\" height=\"643\" alt=\"A large, geometric golden reindeer sculpture is displayed in a shopping mall.\">\n",
 				"date_published": "2024-12-17T19:07:51+00:00",
 				"url": "https://stephenpieper.net/2024/12/17/190751.html"
 			},
