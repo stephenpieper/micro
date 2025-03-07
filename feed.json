@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2025/03/02/test-we-were-just-in.html",
+				
+				"content_html": "<p>Test. We were just in time for the organ recital at Kelvingrove on Friday. I do love that big sound.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Test. We were just in time for the organ recital at Kelvingrove on Friday. I do love that big sound.\n\n<img src=\"uploads/2025/226ef4d5fa.jpg\" width=\"450\" height=\"600\" alt=\"photo of the organ at Kelvingrove Art Gallery and Museum\">\n",
+				"date_published": "2025-03-02T14:13:03+00:00",
+				"url": "https://stephenpieper.net/2025/03/02/test-we-were-just-in.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2025/03/01/visited-kelvingrove-art-gallery-and.html",
 				
 				"content_html": "<p>Visited Kelvingrove Art Gallery and Museum yesterday for the first time in a while.  I’m always amazed at the amount of great art on display there and how close you can get to enjoy it. All for no charge. It’s a great place to spend an afternoon.</p>\n<!-- raw HTML omitted -->\n",
