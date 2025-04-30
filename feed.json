@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2025/04/30/kelvingrove-art-gallery-and-museum.html",
+				
+				"content_html": "<p>Kelvingrove Art Gallery and Museum. <a href=\"https://www.openstreetmap.org/?mlat=55.868437&amp;mlon=-4.291084\">📍</a></p>\n<p>Back to Kelvingrove Art Gallery and Museum today. It was nice and cool inside amongst the exhibits. Very warm outside.</p>\n<p><img src=\"https://stephenpieper.net/uploads/2025/image-20250430-195632-3e6e33c5.jpg\" alt=\"Ceremonial Samurai uniform inside a glass museum case. \"></p>\n",
+				"content_text": "Kelvingrove Art Gallery and Museum. [📍](https://www.openstreetmap.org/?mlat=55.868437&mlon=-4.291084)\n\nBack to Kelvingrove Art Gallery and Museum today. It was nice and cool inside amongst the exhibits. Very warm outside. \n\n![Ceremonial Samurai uniform inside a glass museum case. ](https://stephenpieper.net/uploads/2025/image-20250430-195632-3e6e33c5.jpg)\n",
+				"date_published": "2025-04-30T19:56:45+01:00",
+				"url": "https://stephenpieper.net/2025/04/30/kelvingrove-art-gallery-and-museum.html"
+			},
+			{
+				"id": "http://stefp.micro.blog/2025/04/25/it-appears-that-ive-preordered.html",
+				
+				"content_html": "<p>It appears that I’ve preordered an album on Bandcamp two times again. I need someone to keep track of these things for me.</p>\n",
+				"content_text": "It appears that I’ve preordered an album on Bandcamp two times again. I need someone to keep track of these things for me. \n",
+				"date_published": "2025-04-25T17:29:27+01:00",
+				"url": "https://stephenpieper.net/2025/04/25/it-appears-that-ive-preordered.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2025/04/22/i-searched-on-duckduckgo-for.html",
 				
 				"content_html": "<p>I searched on DuckDuckGo for info about a new iOS app and one of the results pointed to a genuine personal blog. Just like the old days.  Not only that but the blog was hosted on micro.blog. I&rsquo;d love to see more of this happening.</p>\n",
@@ -43,7 +60,7 @@
 				"id": "http://stefp.micro.blog/2025/03/18/two-more-to-add-to.html",
 				
 				"content_html": "<p>Two more to add to the pile…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Two more to add to the pile…\n\n<img src=\"uploads/2025/img-0638.jpeg\" width=\"600\" height=\"450\" alt=\"Two books, &quot;Listen In: How Radio Changed the Home&quot; by Beaty Rubens and &quot;Mood Machine: The Rise of Spotify and the Cost of the Perfect Playlist&quot; by Liz Pelly, are lying side by side on a carpeted surface.\">\n",
+				"content_text": "Two more to add to the pile…\n\n<img src=\"https://eu.uploads.micro.blog/110/2025/img-0638.jpeg\" width=\"600\" height=\"450\" alt=\"Two books, &quot;Listen In: How Radio Changed the Home&quot; by Beaty Rubens and &quot;Mood Machine: The Rise of Spotify and the Cost of the Perfect Playlist&quot; by Liz Pelly, are lying side by side on a carpeted surface.\">\n",
 				"date_published": "2025-03-18T18:43:12+01:00",
 				"url": "https://stephenpieper.net/2025/03/18/two-more-to-add-to.html",
 				"tags": ["Books"]
@@ -52,7 +69,7 @@
 				"id": "http://stefp.micro.blog/2025/03/02/test-we-were-just-in.html",
 				
 				"content_html": "<p>Test. We were just in time for the organ recital at Kelvingrove on Friday. I do love that big sound.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Test. We were just in time for the organ recital at Kelvingrove on Friday. I do love that big sound.\n\n<img src=\"uploads/2025/226ef4d5fa.jpg\" width=\"450\" height=\"600\" alt=\"photo of the organ at Kelvingrove Art Gallery and Museum\">\n",
+				"content_text": "Test. We were just in time for the organ recital at Kelvingrove on Friday. I do love that big sound.\n\n<img src=\"https://eu.uploads.micro.blog/110/2025/226ef4d5fa.jpg\" width=\"450\" height=\"600\" alt=\"photo of the organ at Kelvingrove Art Gallery and Museum\">\n",
 				"date_published": "2025-03-02T15:13:03+01:00",
 				"url": "https://stephenpieper.net/2025/03/02/test-we-were-just-in.html"
 			},
