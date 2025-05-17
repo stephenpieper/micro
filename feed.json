@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2025/05/17/glasgow-royal-concert-hall-i.html",
+				
+				"content_html": "<p>Glasgow Royal Concert Hall. <a href=\"http://maps.apple.com/?ll=55.864536,-4.252895\">📍</a></p>\n<p>I went to see Steven Wilson last night. Fantastic band, fantastic visuals, fantastic sound system. A great night. A brave decision to play all of the recent album in the first half but the band pulled it off brilliantly. 🎶</p>\n<p><a href=\"https://www.setlist.fm/setlist/steven-wilson/2025/royal-concert-hall-glasgow-scotland-b5705c6.html\">Setlist</a></p>\n",
+				"content_text": "Glasgow Royal Concert Hall. [📍](http://maps.apple.com/?ll=55.864536,-4.252895)\n\nI went to see Steven Wilson last night. Fantastic band, fantastic visuals, fantastic sound system. A great night. A brave decision to play all of the recent album in the first half but the band pulled it off brilliantly. 🎶\n\n[Setlist](https://www.setlist.fm/setlist/steven-wilson/2025/royal-concert-hall-glasgow-scotland-b5705c6.html)\n",
+				"date_published": "2025-05-17T15:51:43+01:00",
+				"url": "https://stephenpieper.net/2025/05/17/glasgow-royal-concert-hall-i.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://stefp.micro.blog/2025/05/12/i-deletedcancelled-the-wordpress-hosting.html",
 				
 				"content_html": "<p>I deleted/cancelled the Wordpress hosting that I’ve had on the go for about fifteen years. My decision has nothing to do with recent Wordpress controversy. I just don’t want to have to maintain that kind of site anymore. Micro.blog does everything I need now. This is my only web home now.</p>\n",
