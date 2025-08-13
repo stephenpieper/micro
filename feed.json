@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://stefp.micro.blog/2025/08/13/i-didnt-catch-any-of.html",
+				
+				"content_html": "<p>I didn’t catch any of the meteor showers but there has been a fantastic clear view of Venus and Jupiter over the last couple of mornings. You need to be up really early to see them though.</p>\n",
+				"content_text": "I didn’t catch any of the meteor showers but there has been a fantastic clear view of Venus and Jupiter over the last couple of mornings. You need to be up really early to see them though. \n",
+				"date_published": "2025-08-13T17:26:20+01:00",
+				"url": "https://stephenpieper.net/2025/08/13/i-didnt-catch-any-of.html"
+			},
+			{
 				"id": "http://stefp.micro.blog/2025/07/14/upwardly-mobile-and-hating-it.html",
 				
 				"content_html": "<p><a href=\"https://www.speculativeinsight.com/essays/upwardly-mobile\">Upwardly Mobile and Hating it — Speculative Insight →</a></p>\n<p>&ldquo;The Gentrification of Vimes&rdquo;.</p>\n<p>This is so good. Contains spoilers for the City Watch books by Terry Pratchett but I imagine anyone interested will have already read those. Sam Vimes has always been my favourite Pratchett character.</p>\n",
@@ -60,8 +68,8 @@
 			{
 				"id": "http://stefp.micro.blog/2025/04/30/kelvingrove-art-gallery-and-museum.html",
 				
-				"content_html": "<p>Kelvingrove Art Gallery and Museum. <a href=\"https://www.openstreetmap.org/?mlat=55.868437&amp;mlon=-4.291084\">📍</a></p>\n<p>Back to Kelvingrove Art Gallery and Museum today. It was nice and cool inside amongst the exhibits. Very warm outside.</p>\n<p><img src=\"https://stephenpieper.net/uploads/2025/image-20250430-195632-3e6e33c5.jpg\" alt=\"Ceremonial Samurai uniform inside a glass museum case. \"></p>\n",
-				"content_text": "Kelvingrove Art Gallery and Museum. [📍](https://www.openstreetmap.org/?mlat=55.868437&mlon=-4.291084)\n\nBack to Kelvingrove Art Gallery and Museum today. It was nice and cool inside amongst the exhibits. Very warm outside. \n\n![Ceremonial Samurai uniform inside a glass museum case. ](https://stephenpieper.net/uploads/2025/image-20250430-195632-3e6e33c5.jpg)\n",
+				"content_html": "<p>Kelvingrove Art Gallery and Museum. <a href=\"https://www.openstreetmap.org/?mlat=55.868437&amp;mlon=-4.291084\">📍</a></p>\n<p>Back to Kelvingrove Art Gallery and Museum today. It was nice and cool inside amongst the exhibits. Very warm outside.</p>\n<p><img src=\"https://eu.uploads.micro.blog/110/2025/image-20250430-195632-3e6e33c5.jpg\" alt=\"Ceremonial Samurai uniform inside a glass museum case. \"></p>\n",
+				"content_text": "Kelvingrove Art Gallery and Museum. [📍](https://www.openstreetmap.org/?mlat=55.868437&mlon=-4.291084)\n\nBack to Kelvingrove Art Gallery and Museum today. It was nice and cool inside amongst the exhibits. Very warm outside. \n\n![Ceremonial Samurai uniform inside a glass museum case. ](https://eu.uploads.micro.blog/110/2025/image-20250430-195632-3e6e33c5.jpg)\n",
 				"date_published": "2025-04-30T19:56:45+01:00",
 				"url": "https://stephenpieper.net/2025/04/30/kelvingrove-art-gallery-and-museum.html"
 			},
