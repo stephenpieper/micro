@@ -11,7 +11,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780571250127\">The Motel Life</a> by Willy Vlautin 📚</p>\n",
 				"content_text": "Finished reading: [The Motel Life](https://micro.blog/books/9780571250127) by Willy Vlautin 📚\n",
-				"date_published": "2026-02-13T15:19:56+00:00",
+				"date_published": "2026-02-13T16:19:56+01:00",
 				"url": "https://stephenpieper.net/2026/02/13/finished-reading-the-motel-life.html",
 				"tags": ["Books"]
 			},
@@ -20,7 +20,7 @@
 				
 				"content_html": "<p>I’m going to give the Hobonichi Techo book another try this year. I’ve wasted money on them in the past but I’m determined to scribble down something every day this year.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I’m going to give the Hobonichi Techo book another try this year. I’ve wasted money on them in the past but I’m determined to scribble down something every day this year. \n\n<img src=\"uploads/2026/img-0077.jpg\" alt=\"Hobonichi Techo A6 planner unopened\">\n",
-				"date_published": "2026-01-06T17:49:17+00:00",
+				"date_published": "2026-01-06T18:49:17+01:00",
 				"url": "https://stephenpieper.net/2026/01/06/im-going-to-give-the.html",
 				"tags": ["Stationary"]
 			},
@@ -29,7 +29,7 @@
 				
 				"content_html": "<p>Song of the day. This popped up on the radio this morniing. Still sounding weird and wonderful. <a href=\"https://www.youtube.com/watch?v=eyCEexG9xjw&amp;list=RDeyCEexG9xjw&amp;start_radio=1\">Wall of Voodoo - Mexican Radio</a>🎵</p>\n",
 				"content_text": "Song of the day. This popped up on the radio this morniing. Still sounding weird and wonderful. [Wall of Voodoo - Mexican Radio](https://www.youtube.com/watch?v=eyCEexG9xjw&list=RDeyCEexG9xjw&start_radio=1)🎵\n",
-				"date_published": "2026-01-02T17:59:31+00:00",
+				"date_published": "2026-01-02T18:59:31+01:00",
 				"url": "https://stephenpieper.net/2026/01/02/song-of-the-day-this.html",
 				"tags": ["Music"]
 			},
@@ -38,7 +38,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p>No resolutions again. Just a continuation of my attempt to escape advertising, algorithms, “content”, and all forms of tech hype. I feel much better, and calmer, without those things in my life.</p>\n\n<p>Down with \"content\". Up with music, books, films.</p>\n",
-				"date_published": "2026-01-02T17:14:38+00:00",
+				"date_published": "2026-01-02T18:14:38+01:00",
 				"url": "https://stephenpieper.net/2026/01/02/no-resolutions-again-just-a.html"
 			},
 			{
@@ -46,7 +46,7 @@
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/94066\">Smithereens</a> 🍿</p>\n",
 				"content_text": "Watched: [Smithereens](https://www.themoviedb.org/movie/94066) 🍿\n\n",
-				"date_published": "2026-01-01T23:15:07+00:00",
+				"date_published": "2026-01-02T00:15:07+01:00",
 				"url": "https://stephenpieper.net/2026/01/01/watched-smithereens.html",
 				"tags": ["Films"]
 			},
@@ -567,7 +567,7 @@
 				"title": "I Don't Really Like Social Media",
 				"content_html": "<blockquote>\n<p>Yet, off the back of Manton’s recent posts regarding OpenAI, I read a number of responses from people on Mastodon that were needlessly antagonistic and emotionally detached, with some cancelling their subscriptions. Pile on!! These were posted to Mastodon but could be seen in an otherwise tranquil Micro.blog app thanks to the platform’s support for ActivityPub.Source: <a href=\"https://paulrobertlloyd.com/2024/143/a1/protocols/\">Protocols, platforms and priorities · Paul Robert Lloyd</a></p>\n</blockquote>\n<p>I like this response. It gets to why I&rsquo;m disenchanted with social media in general. I think it&rsquo;s obvious that <a href=\"https://micro.blog/manton\">@manton</a> is a good person so some of the reactions to his comments were way over the top. Federated social media hasn&rsquo;t fixed the self-righteous blowhard problem but micro.blog is going a long way to make things better.</p>\n",
 				"content_text": "> Yet, off the back of Manton’s recent posts regarding OpenAI, I read a number of responses from people on Mastodon that were needlessly antagonistic and emotionally detached, with some cancelling their subscriptions. Pile on!! These were posted to Mastodon but could be seen in an otherwise tranquil Micro.blog app thanks to the platform’s support for ActivityPub.Source: [Protocols, platforms and priorities · Paul Robert Lloyd](https://paulrobertlloyd.com/2024/143/a1/protocols/)\r\n\r\nI like this response. It gets to why I'm disenchanted with social media in general. I think it's obvious that [@manton](https://micro.blog/manton) is a good person so some of the reactions to his comments were way over the top. Federated social media hasn't fixed the self-righteous blowhard problem but micro.blog is going a long way to make things better.\n",
-				"date_published": "2024-05-25T13:40:23+00:00",
+				"date_published": "2024-05-25T14:40:23+01:00",
 				"url": "https://stephenpieper.net/2024/05/25/i-dont-really.html",
 				"tags": ["Tech"]
 			},
